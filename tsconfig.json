@@ -1,0 +1,11 @@
+// tsconfig.json
+{
+    "compilerOptions": {
+      // ...other options
+      "target": "es2022",
+      "moduleResolution": "bundler",
+      "customConditions": ["workerd"] // or "node"
+    }
+  }
+  
+  

@@ -1,0 +1,538 @@
+[
+    {
+        "id": 2532,
+        "address": "1245 N NORTH AND SOUTH RD SAINT LOUIS MO",
+        "longitude": 7.188416,
+        "latitude": 48.716078,
+        "actualLongitude": -90.337258,
+        "actualLatitude": 38.67386
+    },
+    {
+        "id": 2669,
+        "address": "10304 BEAU JARDIN DR Raleigh MO",
+        "longitude": 27.8157233,
+        "latitude": 48.0318141,
+        "actualLongitude": -90.406366,
+        "actualLatitude": 38.677659
+    },
+    {
+        "id": 2681,
+        "address": "106 Meadow Ln Raeford NC",
+        "longitude": -77.270479,
+        "latitude": 34.711312,
+        "actualLongitude": -79.22841,
+        "actualLatitude": 34.99332
+    },
+    {
+        "id": 1464,
+        "address": "405 KILLION CT NW YELM WA",
+        "longitude": -122.68272,
+        "latitude": 45.663989,
+        "actualLongitude": -122.6043,
+        "actualLatitude": 46.9512
+    },
+    {
+        "id": 1457,
+        "address": "205-211 Park Ave Youngstown OH",
+        "longitude": -80.64679,
+        "latitude": 40.98197,
+        "actualLongitude": -80.646,
+        "actualLatitude": 41.113115
+    },
+    {
+        "id": 1515,
+        "address": "503-507 Vance St Wilson NC",
+        "longitude": -79.1816105,
+        "latitude": 35.4721055,
+        "actualLongitude": -77.913008,
+        "actualLatitude": 35.731461
+    },
+    {
+        "id": 1536,
+        "address": "33400 VINE ST WILLOWICK OH",
+        "longitude": -82.659821,
+        "latitude": 38.519464,
+        "actualLongitude": -81.45079,
+        "actualLatitude": 41.64125
+    },
+    {
+        "id": 1569,
+        "address": "6980 MAPLE ST  WASHINGTON DC",
+        "longitude": -76.995258,
+        "latitude": 38.883487,
+        "actualLongitude": -77.01471,
+        "actualLatitude": 38.97527
+    },
+    {
+        "id": 1570,
+        "address": "1317 K ST  WASHINGTON DC",
+        "longitude": -77.04672,
+        "latitude": 38.91063,
+        "actualLongitude": -76.987466,
+        "actualLatitude": 38.878205
+    },
+    {
+        "id": 1557,
+        "address": "5210-5212 E ST  WASHINGTON DC",
+        "longitude": -77.043694,
+        "latitude": 38.89618,
+        "actualLongitude": -76.92735,
+        "actualLatitude": 38.88229
+    },
+    {
+        "id": 1650,
+        "address": "4733 S HARVARD AVE  TULSA OK",
+        "longitude": -96.01565,
+        "latitude": 36.08242,
+        "actualLongitude": -95.939839,
+        "actualLatitude": 36.093626
+    },
+    {
+        "id": 1652,
+        "address": "6321 E 9TH ST  TULSA OK",
+        "longitude": -96.672199,
+        "latitude": 35.971228,
+        "actualLongitude": -95.905776,
+        "actualLatitude": 36.150085
+    },
+    {
+        "id": 1663,
+        "address": "5005 CALL PL  WASHINGTON DC",
+        "longitude": -118.388042,
+        "latitude": 46.049176,
+        "actualLongitude": -76.93025,
+        "actualLatitude": 38.88442
+    },
+    {
+        "id": 1691,
+        "address": "189-195 Main St Washington NC",
+        "longitude": -78.249684,
+        "latitude": 35.957109,
+        "actualLongitude": -77.057039,
+        "actualLatitude": 35.542691
+    },
+    {
+        "id": 1720,
+        "address": "1 N BROADWAY TACOMA WA",
+        "longitude": -93.72551,
+        "latitude": 43.746693,
+        "actualLongitude": -122.44671,
+        "actualLatitude": 47.26443
+    },
+    {
+        "id": 2010,
+        "address": "3210 LAKEVIEW DR #UNITS58-75 SEBRING FL",
+        "longitude": -84.332849,
+        "latitude": 30.409769,
+        "actualLongitude": -81.469679,
+        "actualLatitude": 27.512364
+    },
+    {
+        "id": 2034,
+        "address": "2727 NE 125TH ST SEATTLE WA",
+        "longitude": -122.643489,
+        "latitude": 45.711842,
+        "actualLongitude": -122.29827,
+        "actualLatitude": 47.719025
+    },
+    {
+        "id": 2195,
+        "address": "3512 NE 94TH ST  SEATTLE WA",
+        "longitude": -122.636723,
+        "latitude": 45.689368,
+        "actualLongitude": -122.289832,
+        "actualLatitude": 47.696946
+    },
+    {
+        "id": 2328,
+        "address": "12722 76TH AVE  SEATTLE WA",
+        "longitude": -122.335195,
+        "latitude": 48.109018,
+        "actualLongitude": -122.237975,
+        "actualLatitude": 47.488905
+    },
+    {
+        "id": 846,
+        "address": "1402 3rd Sterling CO",
+        "longitude": -89.693726,
+        "latitude": 41.799318,
+        "actualLongitude": -103.214872,
+        "actualLatitude": 40.612659
+    },
+    {
+        "id": 883,
+        "address": "614-618 N Main St Pueblo CO",
+        "longitude": -90.69906,
+        "latitude": 38.817572,
+        "actualLongitude": -104.60836,
+        "actualLatitude": 38.273062
+    },
+    {
+        "id": 1032,
+        "address": "6003 JoDanielle Pl Louisville KY",
+        "longitude": -85.472203,
+        "latitude": 37.893912,
+        "actualLongitude": -85.607532,
+        "actualLatitude": 38.166665
+    },
+    {
+        "id": 2931,
+        "address": "5660-5680 Forward Ave Pittsburgh PA",
+        "longitude": -80.062323,
+        "latitude": 40.453332,
+        "actualLongitude": -79.9252,
+        "actualLatitude": 40.42858
+    },
+    {
+        "id": 2935,
+        "address": "442 Center Ave Pittsburgh PA",
+        "longitude": -79.987362,
+        "latitude": 40.440584,
+        "actualLongitude": -80.02441,
+        "actualLatitude": 40.51855
+    },
+    {
+        "id": 2956,
+        "address": "1709-1713 Termon Ave Pittsburgh PA",
+        "longitude": -79.891589,
+        "latitude": 40.488583,
+        "actualLongitude": -80.042492,
+        "actualLatitude": 40.481855
+    },
+    {
+        "id": 2960,
+        "address": "20 Thomas St Pittsburgh PA",
+        "longitude": -79.985363,
+        "latitude": 40.421852,
+        "actualLongitude": -80.068331,
+        "actualLatitude": 40.438755
+    },
+    {
+        "id": 2979,
+        "address": "4600-4604 WALNUT ST  PHILADELPHIA PA",
+        "longitude": -75.03097,
+        "latitude": 40.0377,
+        "actualLongitude": -75.2139,
+        "actualLatitude": 39.955277
+    },
+    {
+        "id": 2982,
+        "address": "312-314 S 24TH ST  PHILADELPHIA PA",
+        "longitude": -75.504342,
+        "latitude": 40.587072,
+        "actualLongitude": -75.180371,
+        "actualLatitude": 39.948457
+    },
+    {
+        "id": 2994,
+        "address": "5925-5927 GREENE ST  PHILADELPHIA PA",
+        "longitude": -75.154008,
+        "latitude": 39.942187,
+        "actualLongitude": -75.17951,
+        "actualLatitude": 40.036565
+    },
+    {
+        "id": 3168,
+        "address": "159 1/2 7TH AVE  NEW YORK NY",
+        "longitude": -73.9451225,
+        "latitude": 40.812901,
+        "actualLongitude": -74.00079,
+        "actualLatitude": 40.73682
+    },
+    {
+        "id": 3195,
+        "address": "600 Weakley Ln, Smyrna, Tn 37167 NEW SMYRNA BEACH FL",
+        "longitude": -80.927127,
+        "latitude": 29.025813,
+        "actualLongitude": -86.492588,
+        "actualLatitude": 36.017995
+    },
+    {
+        "id": 3320,
+        "address": "2539 LYNDALE AVE  MINNEAPOLIS MN",
+        "longitude": -93.287987,
+        "latitude": 45.005913,
+        "actualLongitude": -93.287616,
+        "actualLatitude": 44.956057
+    },
+    {
+        "id": 3329,
+        "address": "2707 HUMBOLDT AVE  MINNEAPOLIS MN",
+        "longitude": -93.298112,
+        "latitude": 45.007837,
+        "actualLongitude": -93.298923,
+        "actualLatitude": 44.953345
+    },
+    {
+        "id": 3331,
+        "address": "4445 CHOWEN AVE  MINNEAPOLIS MN",
+        "longitude": -93.325142,
+        "latitude": 45.035465,
+        "actualLongitude": -93.325084,
+        "actualLatitude": 44.921705
+    },
+    {
+        "id": 3335,
+        "address": "2451 109TH AVE  MINNEAPOLIS MN",
+        "longitude": -93.074495,
+        "latitude": 46.18376,
+        "actualLongitude": -93.33011,
+        "actualLatitude": 45.16881
+    },
+    {
+        "id": 3786,
+        "address": "1 Glenwood Dr Marvin NC",
+        "longitude": -76.281043,
+        "latitude": 35.947663,
+        "actualLongitude": -80.780641,
+        "actualLatitude": 34.970791
+    },
+    {
+        "id": 4051,
+        "address": "10901 TO 10923 ADDISON ST SW LAKEWOOD WA",
+        "longitude": -120.094292506456,
+        "latitude": 48.0250054263449,
+        "actualLongitude": -122.501822,
+        "actualLatitude": 47.15787
+    },
+    {
+        "id": 4053,
+        "address": "14607 TO 14619 MURRAY RD SW LAKEWOOD WA",
+        "longitude": -63.981655,
+        "latitude": 46.702905,
+        "actualLongitude": -122.54228,
+        "actualLatitude": 47.12451
+    },
+    {
+        "id": 4138,
+        "address": "11135 NE 128TH ST H102 KIRKLAND WA",
+        "longitude": -122.556388,
+        "latitude": 45.714236,
+        "actualLongitude": -122.192131,
+        "actualLatitude": 47.714544
+    },
+    {
+        "id": 4160,
+        "address": "3825 89TH ST KENOSHA WI",
+        "longitude": -88.247969,
+        "latitude": 42.545574,
+        "actualLongitude": -87.853763,
+        "actualLatitude": 42.544
+    },
+    {
+        "id": 4179,
+        "address": "8700 HOLMES RD 101 KANSAS CITY MO",
+        "longitude": -94.751627,
+        "latitude": 39.061949,
+        "actualLongitude": -94.582026,
+        "actualLatitude": 38.969915
+    },
+    {
+        "id": 4244,
+        "address": "1230 E 7th St Jacksonville FL",
+        "longitude": -81.257041,
+        "latitude": 28.806334,
+        "actualLongitude": -81.638562,
+        "actualLatitude": 30.34343
+    },
+    {
+        "id": 4240,
+        "address": "1212 E 1st St Jacksonville FL",
+        "longitude": -81.256596,
+        "latitude": 28.811422,
+        "actualLongitude": -81.639047,
+        "actualLatitude": 30.335975
+    },
+    {
+        "id": 4249,
+        "address": "1263 22nd St Jacksonville FL",
+        "longitude": -81.36585,
+        "latitude": 24.68539,
+        "actualLongitude": -81.67502,
+        "actualLatitude": 30.35759
+    },
+    {
+        "id": 4356,
+        "address": "1400 N 17TH AVE HOLLYWOOD FL",
+        "longitude": -81.3923389,
+        "latitude": 30.3053229,
+        "actualLongitude": -80.141495,
+        "actualLatitude": 26.023831
+    },
+    {
+        "id": 4416,
+        "address": "3901-3951 Bronson Ct Hilliard OH",
+        "longitude": -81.680652,
+        "latitude": 41.497367,
+        "actualLongitude": -83.147321,
+        "actualLatitude": 40.032772
+    },
+    {
+        "id": 4420,
+        "address": "1411 Bergamot Loop High Point NC",
+        "longitude": -80.005318,
+        "latitude": 35.955692,
+        "actualLongitude": -79.97693,
+        "actualLatitude": 35.98391
+    },
+    {
+        "id": 4504,
+        "address": "945-955 Spring Forest Rd Greenville NC",
+        "longitude": -82.3329951612903,
+        "latitude": 34.870295,
+        "actualLongitude": -77.408476,
+        "actualLatitude": 35.594106
+    },
+    {
+        "id": 4658,
+        "address": "52-56 Main St Freeport PA",
+        "longitude": 145.479834,
+        "latitude": -38.075539,
+        "actualLongitude": -79.690609,
+        "actualLatitude": 40.678715
+    },
+    {
+        "id": 4683,
+        "address": "4200 Pan Am Boulevard Fort Pierce FL",
+        "longitude": -82.033629763236,
+        "latitude": 28.9444647055242,
+        "actualLongitude": -80.37413,
+        "actualLatitude": 27.4885
+    },
+    {
+        "id": 4961,
+        "address": "1159 S US 17 Hwy Elizabeth City NC",
+        "longitude": -81.4912,
+        "latitude": 35.292908,
+        "actualLongitude": -76.311214,
+        "actualLatitude": 36.380423
+    },
+    {
+        "id": 4994,
+        "address": "216 N Oakland Ave Eden NC",
+        "longitude": -80.906985,
+        "latitude": 35.783268,
+        "actualLongitude": -79.777656,
+        "actualLatitude": 36.507175
+    },
+    {
+        "id": 5365,
+        "address": "5430-5472 Hoover Ave Dayton OH",
+        "longitude": -80.7781815,
+        "latitude": 40.0657085,
+        "actualLongitude": -84.28087,
+        "actualLatitude": 39.76109
+    },
+    {
+        "id": 5368,
+        "address": "2030-2036 Catalpa Dr Dayton OH",
+        "longitude": -84.60589,
+        "latitude": 38.96537,
+        "actualLongitude": -84.22513,
+        "actualLatitude": 39.78481
+    },
+    {
+        "id": 5486,
+        "address": "742-766 Robinwood Ave Columbus OH",
+        "longitude": -84.1132505,
+        "latitude": 39.7533895,
+        "actualLongitude": -82.8972,
+        "actualLatitude": 39.95802
+    },
+    {
+        "id": 5491,
+        "address": "363-379 Roosevelt Ave Columbus OH",
+        "longitude": -80.630033,
+        "latitude": 40.373963,
+        "actualLongitude": -82.925579,
+        "actualLatitude": 39.97874
+    },
+    {
+        "id": 5509,
+        "address": "937-951 N High St Columbus OH",
+        "longitude": -83.024646,
+        "latitude": 40.065901,
+        "actualLongitude": -83.004769,
+        "actualLatitude": 39.981416
+    },
+    {
+        "id": 5520,
+        "address": "1162 Franklin Ave Columbus OH",
+        "longitude": -83.02418,
+        "latitude": 39.95816,
+        "actualLongitude": -82.96879,
+        "actualLatitude": 39.96196
+    },
+    {
+        "id": 5543,
+        "address": "5400 Cedar Springs Rd Columbus OH",
+        "longitude": -93.851881,
+        "latitude": 38.155583,
+        "actualLongitude": -83.153886,
+        "actualLatitude": 39.966636
+    },
+    {
+        "id": 5552,
+        "address": "83-85 E 9th Ave Columbus OH",
+        "longitude": -82.997388,
+        "latitude": 39.99319,
+        "actualLongitude": -83.00429,
+        "actualLatitude": 39.99324
+    },
+    {
+        "id": 5701,
+        "address": "300 Kate St, Madison, Tn 37115 CHICAGO IL",
+        "longitude": -87.624421,
+        "latitude": 41.875562,
+        "actualLongitude": -86.705202,
+        "actualLatitude": 36.264699
+    },
+    {
+        "id": 5982,
+        "address": "1319 Walnut Ave Canton OH",
+        "longitude": -80.637043,
+        "latitude": 40.350384,
+        "actualLongitude": -81.369807,
+        "actualLatitude": 40.810665
+    },
+    {
+        "id": 5984,
+        "address": "2411 Diamond Rd Canton OH",
+        "longitude": -80.735381,
+        "latitude": 39.363139,
+        "actualLongitude": -81.335384,
+        "actualLatitude": 40.896611
+    },
+    {
+        "id": 6335,
+        "address": "2617 W Evans Ave, Denver, Co 80219 Aurora CO",
+        "longitude": -104.798067,
+        "latitude": 39.865681,
+        "actualLongitude": -105.018547,
+        "actualLatitude": 39.679111
+    },
+    {
+        "id": 6487,
+        "address": "610 S Peachtree St Ahoskie NC",
+        "longitude": -79.17786,
+        "latitude": 34.81409,
+        "actualLongitude": -76.983893,
+        "actualLatitude": 36.276464
+    },
+    {
+        "id": 6553,
+        "address": "LOCUST GROVE RD   PA",
+        "longitude": -75.670467,
+        "latitude": 39.902787,
+        "actualLongitude": -75.335446,
+        "actualLatitude": 40.023426
+    },
+    {
+        "id": 6552,
+        "address": "277 BROADWAY ST   CO",
+        "longitude": 145.649332,
+        "latitude": -35.916738,
+        "actualLongitude": -103.20285,
+        "actualLatitude": 40.633072
+    }
+]

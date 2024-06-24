@@ -1,0 +1,253 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id        Int      @id @default(autoincrement())
+  createdAt DateTime @default(now()) @db.Timestamp(6)
+  updateAt  DateTime @updatedAt @db.Timestamp(6)
+
+  username          String?
+  password          String?
+  name              String
+  email             String
+  blockchainAddress String   @unique
+  isAdmin           Boolean  @default(false)
+  newsletter        Boolean
+  category          Category @relation(fields: [categoryId], references: [id])
+  categoryId        Int
+  phoneNumber       String
+  totalPoint        Float    @default(0)
+
+  KYCStatus   Status @relation(fields: [KYCStatusId], references: [id])
+  KYCStatusId Int    @default(0) // defaults to NotAttempted
+
+  properties Property[]
+
+  isActive Boolean @default(true)
+  Rent     Rent[]
+
+  usedReferralCode   ReferralCode? @relation(fields: [usedReferralCodeId], references: [id], "UsedReferralCodeRelation")
+  usedReferralCodeId Int?
+
+  ownedReferralCode   ReferralCode? @relation(fields: [ownedReferralCodeId], references: [id], "OwnerReferralCodeRelation")
+  ownedReferralCodeId Int?          @unique
+
+  Reward Reward[]
+
+  @@map("users")
+}
+
+model Status {
+  id Int @id @default(autoincrement())
+
+  type String
+
+  users User[]
+
+  @@map("status")
+}
+
+model Category {
+  id Int @id @default(autoincrement())
+
+  type String
+
+  users User[]
+
+  @@map("category")
+}
+
+model Property {
+  id        Int      @id @default(autoincrement())
+  createdAt DateTime @default(now()) @db.Timestamp(6)
+  updateAt  DateTime @updatedAt @db.Timestamp(6)
+
+  title      String
+  transitFee String
+  address    String
+  timezone   String
+
+  hasLandingDeck     Boolean
+  hasChargingStation Boolean
+  hasStorageHub      Boolean
+
+  isFixedTransitFee  Boolean
+  isRentableAirspace Boolean
+
+  weekDayRanges WeekDayRange[]
+
+  owner   User @relation(fields: [ownerId], references: [id])
+  ownerId Int
+
+  noFlyZone Boolean @default(false) // for now, we simply set the property to available or not
+
+  latitude  Float
+  longitude Float
+
+  layers   Layer[]
+  vertexes Vertexes[]
+
+  propertyStatus   PropertyStatus @relation(fields: [propertyStatusId], references: [id])
+  propertyStatusId Int            @default(0) // defaults to NotVerified
+
+  isActive Boolean @default(true)
+
+  @@map("properties")
+}
+
+model PropertyStatus {
+  id Int @id @default(autoincrement())
+
+  type String
+
+  properties Property[]
+
+  @@map("property_status")
+}
+
+model Layer {
+  id        Int      @id @default(autoincrement())
+  createdAt DateTime @default(now()) @db.Timestamp(6)
+  updateAt  DateTime @updatedAt @db.Timestamp(6)
+
+  tokenId String
+
+  property   Property @relation(fields: [propertyId], references: [id])
+  propertyId Int
+
+  rents Rent[]
+
+  @@map("layers")
+}
+
+model Vertexes {
+  id        Int      @id @default(autoincrement())
+  createdAt DateTime @default(now()) @db.Timestamp(6)
+  updateAt  DateTime @updatedAt @db.Timestamp(6)
+
+  latitude  Float // todo: research the native geolocation native datatypes for postgres
+  longitude Float
+
+  property   Property @relation(fields: [propertyId], references: [id])
+  propertyId Int
+
+  @@map("vertexes")
+}
+
+model Rent {
+  id        Int      @id @default(autoincrement())
+  createdAt DateTime @default(now()) @db.Timestamp(6)
+  updateAt  DateTime @updatedAt @db.Timestamp(6)
+
+  tokenId   String
+  startTime DateTime
+  endTime   DateTime
+
+  renterUser User @relation(fields: [renterId], references: [id])
+  renterId   Int // todo: research if we should store the renterId here or only onchain - ownerOf(tokenId)
+
+  layer   Layer @relation(fields: [layerId], references: [id])
+  layerId Int
+
+  isActive Boolean @default(true)
+
+  @@map("rents")
+}
+
+model Newsletter {
+  id        Int      @id @default(autoincrement())
+  createdAt DateTime @default(now()) @db.Timestamp(6)
+  updateAt  DateTime @updatedAt @db.Timestamp(6)
+
+  title String
+  text  String
+  link  String
+  date  DateTime
+
+  @@map("newsletters")
+}
+
+model WeekDayRange {
+  createdAt DateTime @default(now()) @db.Timestamp(6)
+  updateAt  DateTime @updatedAt @db.Timestamp(6)
+
+  fromTime Float
+  toTime   Float
+
+  isAvailable Boolean
+
+  weekDay   WeekDay @relation(fields: [weekDayId], references: [id])
+  weekDayId Int
+
+  property   Property @relation(fields: [propertyId], references: [id])
+  propertyId Int
+
+  @@id([weekDayId, propertyId])
+  @@map("week_day_range")
+}
+
+model WeekDay {
+  id Int @id @default(autoincrement())
+
+  name String @unique
+
+  weekDayRanges WeekDayRange[]
+
+  @@map("weekdays")
+}
+
+model ReferralCode {
+  id Int @id @default(autoincrement())
+
+  code               String  @unique
+  codeChanged        Boolean @default(false)
+  usedByBonusEarned  Boolean @default(false)
+  ownedByBonusEarned Boolean @default(false)
+
+  usedBy User[] @relation("UsedReferralCodeRelation")
+
+  ownedBy User? @relation("OwnerReferralCodeRelation")
+
+  @@map("referral_code")
+}
+
+model RentalToken {
+  id        Int      @id @default(autoincrement())
+  createdAt DateTime @default(now()) @db.Timestamp(6)
+  updateAt  DateTime @updatedAt @db.Timestamp(6)
+
+  startTime DateTime
+  endTime   DateTime
+
+  // asset ids
+  landTokenId String
+
+  // rental token address
+  rentalTokenId String?
+}
+
+model Reward {
+  id                String   @id @default(cuid())
+  user              User     @relation(fields: [blockchainAddress], references: [blockchainAddress])
+  rewardId          String   @unique
+  blockchainAddress String
+  taskType          TaskType
+
+  point     Float
+  completed Boolean @default(false)
+
+  createdAt DateTime @default(now()) @db.Timestamp(6)
+  updateAt  DateTime @updatedAt @db.Timestamp(6)
+
+  @@map("reward")
+}
+
+enum TaskType {
+  REFERRAL_REWARD
+}
