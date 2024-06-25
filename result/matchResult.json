@@ -144,28 +144,10 @@
         "latitude": 40.766425
     },
     {
-        "id": 2432,
-        "address": "2828 S 200  SALT LAKE CITY UT",
-        "longitude": -111.88572,
-        "latitude": 40.70929
-    },
-    {
-        "id": 2434,
-        "address": "1594 E 3300 S SALT LAKE CITY UT",
-        "longitude": -111.803078,
-        "latitude": 40.702915
-    },
-    {
         "id": 2436,
         "address": "58 S 1000 E SALT LAKE CITY UT",
         "longitude": -111.86289,
         "latitude": 40.76792
-    },
-    {
-        "id": 2438,
-        "address": "647 S 1200  SALT LAKE CITY UT",
-        "longitude": -111.925946,
-        "latitude": 40.755082
     },
     {
         "id": 2408,
@@ -208,12 +190,6 @@
         "address": "4835 S MEMORY LN SALT LAKE CITY UT",
         "longitude": -111.833035,
         "latitude": 40.66448
-    },
-    {
-        "id": 2431,
-        "address": "25 S 1100 E SALT LAKE CITY UT",
-        "longitude": -111.859508,
-        "latitude": 40.749369
     },
     {
         "id": 2435,
@@ -346,12 +322,6 @@
         "address": "400 MADRONA AVE SE SALEM OR",
         "longitude": -123.047039,
         "latitude": 44.903455
-    },
-    {
-        "id": 2441,
-        "address": "4520 S 200  SALT LAKE CITY UT",
-        "longitude": -111.89719,
-        "latitude": 40.67369
     },
     {
         "id": 2439,
@@ -624,12 +594,6 @@
         "latitude": 44.991039
     },
     {
-        "id": 2489,
-        "address": "589 CLEVELAND AVE  SAINT PAUL MN",
-        "longitude": -93.187397,
-        "latitude": 44.958426
-    },
-    {
         "id": 2491,
         "address": "1776 SAINT CLAIR AVE  SAINT PAUL MN",
         "longitude": -93.17566,
@@ -658,12 +622,6 @@
         "address": "2120 SWITZER AVE SAINT LOUIS MO",
         "longitude": -90.259792,
         "latitude": 38.72066
-    },
-    {
-        "id": 2507,
-        "address": "1 MCKNIGHT PL R SAINT LOUIS MO",
-        "longitude": -90.199585,
-        "latitude": 38.626426
     },
     {
         "id": 2511,
@@ -726,6 +684,12 @@
         "latitude": 38.511053
     },
     {
+        "id": 2507,
+        "address": "1 MCKNIGHT PL R SAINT LOUIS MO",
+        "longitude": -90.358465,
+        "latitude": 38.658525
+    },
+    {
         "id": 2534,
         "address": "1505 OAK FOREST SPUR DR SAINT LOUIS MO",
         "longitude": -90.409439,
@@ -748,12 +712,6 @@
         "address": "6300 N ROSEBURY AVE SAINT LOUIS MO",
         "longitude": -90.305865,
         "latitude": 38.63751
-    },
-    {
-        "id": 2542,
-        "address": "6652 WASHINGTON AVE SAINT LOUIS MO",
-        "longitude": -90.212149,
-        "latitude": 38.634983
     },
     {
         "id": 2544,
@@ -1068,12 +1026,6 @@
         "latitude": 45.51969
     },
     {
-        "id": 2814,
-        "address": "3903 SE CESAR E CHAVEZ BLVD #3915 PORTLAND OR",
-        "longitude": -122.62292,
-        "latitude": 45.51904
-    },
-    {
         "id": 2815,
         "address": "4545 NE 125TH PL WI PORTLAND OR",
         "longitude": -122.53178,
@@ -1344,18 +1296,6 @@
         "latitude": 47.48734
     },
     {
-        "id": 2582,
-        "address": "103 Jasmine Dr Rocky Mount NC",
-        "longitude": -77.795695,
-        "latitude": 35.942383
-    },
-    {
-        "id": 2583,
-        "address": "1836 Eaglecrest Cir Rocky Mount NC",
-        "longitude": -77.795695,
-        "latitude": 35.942383
-    },
-    {
         "id": 2586,
         "address": "325 1ST AVE  ROCHESTER MN",
         "longitude": -92.46452,
@@ -1434,6 +1374,12 @@
         "latitude": 39.514325
     },
     {
+        "id": 2582,
+        "address": "103 Jasmine Dr Rocky Mount NC",
+        "longitude": -77.81483,
+        "latitude": 35.98438
+    },
+    {
         "id": 2619,
         "address": "300 HOLCOMB AVE RENO NV",
         "longitude": -119.806275,
@@ -1506,12 +1452,6 @@
         "latitude": 47.641747
     },
     {
-        "id": 2631,
-        "address": "9016 WOODINVILLE-REDMOND RD REDMOND WA",
-        "longitude": -122.111566,
-        "latitude": 47.705687
-    },
-    {
         "id": 2632,
         "address": "16912 NE 79TH ST REDMOND WA",
         "longitude": -122.114653,
@@ -1578,12 +1518,6 @@
         "latitude": 35.745586
     },
     {
-        "id": 2645,
-        "address": "5020-B Edwards Mill Rd Raleigh NC",
-        "longitude": -78.639099,
-        "latitude": 35.780398
-    },
-    {
         "id": 2646,
         "address": "600-635 Hilltop Dr Raleigh NC",
         "longitude": -78.630483,
@@ -1638,12 +1572,6 @@
         "latitude": 35.90312
     },
     {
-        "id": 2657,
-        "address": "2227 Garner Rd Raleigh NC",
-        "longitude": -78.549047,
-        "latitude": 35.692364
-    },
-    {
         "id": 2658,
         "address": "1810-1826 Gorman St Raleigh NC",
         "longitude": -78.69224,
@@ -1662,10 +1590,22 @@
         "latitude": 35.83299
     },
     {
+        "id": 2657,
+        "address": "2227 Garner Rd Raleigh NC",
+        "longitude": -78.63133,
+        "latitude": 35.74963
+    },
+    {
+        "id": 2645,
+        "address": "5020-B Edwards Mill Rd Raleigh NC",
+        "longitude": -78.68284,
+        "latitude": 35.83831
+    },
+    {
         "id": 2661,
         "address": "1309-1325 Kent Rd Raleigh NC",
-        "longitude": -78.58679,
-        "latitude": 35.75885
+        "longitude": -78.69374,
+        "latitude": 35.77968
     },
     {
         "id": 2662,
@@ -1800,12 +1740,6 @@
         "latitude": 47.154631
     },
     {
-        "id": 2689,
-        "address": "1100 7TH AVE SE APT 10 PUYALLUP WA",
-        "longitude": -122.30851,
-        "latitude": 47.186255
-    },
-    {
         "id": 2690,
         "address": "15356 77TH AVE QUEENS NY",
         "longitude": -73.810637,
@@ -1884,22 +1818,28 @@
         "latitude": 41.04663
     },
     {
-        "id": 1460,
-        "address": "1 LAWRENCE PL  YONKERS NY",
-        "longitude": -73.888672,
-        "latitude": 40.926811
+        "id": 2681,
+        "address": "106 Meadow Ln Raeford NC",
+        "longitude": -79.22841,
+        "latitude": 34.99332
+    },
+    {
+        "id": 2689,
+        "address": "1100 7TH AVE SE APT 10 PUYALLUP WA",
+        "longitude": -122.27939,
+        "latitude": 47.185593
+    },
+    {
+        "id": 2669,
+        "address": "10304 BEAU JARDIN DR Raleigh MO",
+        "longitude": -90.406366,
+        "latitude": 38.677659
     },
     {
         "id": 1461,
         "address": "1465 Townsend Ave Youngstown OH",
         "longitude": -80.635088,
         "latitude": 41.163228
-    },
-    {
-        "id": 1463,
-        "address": "21 LAWRENCE PL YONKERS NY",
-        "longitude": -73.888005,
-        "latitude": 40.92675
     },
     {
         "id": 1465,
@@ -1998,12 +1938,6 @@
         "latitude": 45.147135
     },
     {
-        "id": 1484,
-        "address": "1609-1640 W Northwest Blvd Winston-Salem NC",
-        "longitude": -80.260402,
-        "latitude": 36.1034
-    },
-    {
         "id": 1485,
         "address": "4754 Kirk Rd Winston-Salem NC",
         "longitude": -80.343868,
@@ -2050,12 +1984,6 @@
         "address": "4665 Pratt Rd Winston-Salem NC",
         "longitude": -80.325419,
         "latitude": 36.161215
-    },
-    {
-        "id": 1491,
-        "address": "5780-5790 Indiana Ave Winston-Salem NC",
-        "longitude": -80.260496,
-        "latitude": 36.146684
     },
     {
         "id": 1492,
@@ -2122,6 +2050,30 @@
         "address": "401 Sterlingworth St Windsor NC",
         "longitude": -76.953249,
         "latitude": 35.99975
+    },
+    {
+        "id": 1464,
+        "address": "405 KILLION CT NW YELM WA",
+        "longitude": -122.6043,
+        "latitude": 46.9512
+    },
+    {
+        "id": 1491,
+        "address": "5780-5790 Indiana Ave Winston-Salem NC",
+        "longitude": -80.292778,
+        "latitude": 36.153217
+    },
+    {
+        "id": 1460,
+        "address": "1 LAWRENCE PL  YONKERS NY",
+        "longitude": -73.896345,
+        "latitude": 40.916275
+    },
+    {
+        "id": 1484,
+        "address": "1609-1640 W Northwest Blvd Winston-Salem NC",
+        "longitude": -80.271458,
+        "latitude": 36.094802
     },
     {
         "id": 1504,
@@ -2220,12 +2172,6 @@
         "latitude": 35.714769
     },
     {
-        "id": 1523,
-        "address": "4550 Atrium Ct Wilmington NC",
-        "longitude": -77.827969,
-        "latitude": 34.258991
-    },
-    {
         "id": 1524,
         "address": "14 Grace St Wilmington NC",
         "longitude": -77.949971,
@@ -2290,12 +2236,6 @@
         "address": "724 S Kerr Ave Wilmington NC",
         "longitude": -77.886128,
         "latitude": 34.22427
-    },
-    {
-        "id": 1534,
-        "address": "119-121 Chestnut St Wilmington NC",
-        "longitude": -77.9284845625,
-        "latitude": 34.2395045
     },
     {
         "id": 1535,
@@ -2364,16 +2304,16 @@
         "latitude": 35.910677
     },
     {
+        "id": 1515,
+        "address": "503-507 Vance St Wilson NC",
+        "longitude": -77.913008,
+        "latitude": 35.731461
+    },
+    {
         "id": 1549,
         "address": "176 W CAR DR CHAGRIN FALLS OH",
         "longitude": -81.3802,
         "latitude": 41.43357
-    },
-    {
-        "id": 1550,
-        "address": "1101 Auburn Dr, Castle Rock, Co 80109 Castle Rock CO",
-        "longitude": -104.903503,
-        "latitude": 39.401957
     },
     {
         "id": 1551,
@@ -2436,22 +2376,10 @@
         "latitude": 38.928619
     },
     {
-        "id": 1565,
-        "address": "3741-3745 E Market St Warren OH",
-        "longitude": -80.84269,
-        "latitude": 41.2357
-    },
-    {
         "id": 1568,
         "address": "301 HAMILTON ST  WASHINGTON DC",
         "longitude": -77.016225,
         "latitude": 38.953441
-    },
-    {
-        "id": 1571,
-        "address": "235 2ND ST  WASHINGTON DC",
-        "longitude": -77.003073,
-        "latitude": 38.892915
     },
     {
         "id": 1531,
@@ -2590,6 +2518,18 @@
         "address": "5061 NEW HAMPSHIRE AVE  WASHINGTON DC",
         "longitude": -77.012303,
         "latitude": 38.951969
+    },
+    {
+        "id": 1571,
+        "address": "235 2ND ST  WASHINGTON DC",
+        "longitude": -77.013448,
+        "latitude": 38.893339
+    },
+    {
+        "id": 1557,
+        "address": "5210-5212 E ST  WASHINGTON DC",
+        "longitude": -76.92735,
+        "latitude": 38.88229
     },
     {
         "id": 1592,
@@ -2904,18 +2844,6 @@
         "latitude": 40.425869
     },
     {
-        "id": 1614,
-        "address": "511 COUNTY ROAD 309  WELAKA FL",
-        "longitude": -81.672692,
-        "latitude": 29.489471
-    },
-    {
-        "id": 1629,
-        "address": "1018 Wait Ave Wake Forest NC",
-        "longitude": -78.479143,
-        "latitude": 35.967892
-    },
-    {
         "id": 1638,
         "address": "7423 HENDERSON BLVD SE TUMWATER WA",
         "longitude": -122.8867,
@@ -2982,6 +2910,30 @@
         "latitude": 39.82849
     },
     {
+        "id": 1629,
+        "address": "1018 Wait Ave Wake Forest NC",
+        "longitude": -78.49329,
+        "latitude": 35.97147
+    },
+    {
+        "id": 1614,
+        "address": "511 COUNTY ROAD 309  WELAKA FL",
+        "longitude": -81.66979,
+        "latitude": 29.47895
+    },
+    {
+        "id": 1652,
+        "address": "6321 E 9TH ST  TULSA OK",
+        "longitude": -95.905776,
+        "latitude": 36.150085
+    },
+    {
+        "id": 1650,
+        "address": "4733 S HARVARD AVE  TULSA OK",
+        "longitude": -95.939839,
+        "latitude": 36.093626
+    },
+    {
         "id": 1667,
         "address": "3424-3438 Broad St Wilmington NC",
         "longitude": -77.9029415,
@@ -2998,12 +2950,6 @@
         "address": "136 S Chauncey Ave West Lafayette IN",
         "longitude": -86.907077,
         "latitude": 40.422335
-    },
-    {
-        "id": 1670,
-        "address": "828 12TH ST WEST DES MOINES IA",
-        "longitude": -93.632165,
-        "latitude": 41.591754
     },
     {
         "id": 1671,
@@ -3132,12 +3078,6 @@
         "latitude": 34.23658
     },
     {
-        "id": 1704,
-        "address": "414-422 Vine St West Lafayette IN",
-        "longitude": -86.900844,
-        "latitude": 40.466424
-    },
-    {
         "id": 1705,
         "address": "1901 LYONS RD Tucson FL",
         "longitude": -80.1872,
@@ -3172,6 +3112,30 @@
         "address": "405 W ALEXIS RD TOLEDO OH",
         "longitude": -83.555452,
         "latitude": 41.72127
+    },
+    {
+        "id": 1704,
+        "address": "414-422 Vine St West Lafayette IN",
+        "longitude": -86.907832,
+        "latitude": 40.428108
+    },
+    {
+        "id": 1691,
+        "address": "189-195 Main St Washington NC",
+        "longitude": -77.057039,
+        "latitude": 35.542691
+    },
+    {
+        "id": 1670,
+        "address": "828 12TH ST WEST DES MOINES IA",
+        "longitude": -93.719806,
+        "latitude": 41.581867
+    },
+    {
+        "id": 1663,
+        "address": "5005 CALL PL  WASHINGTON DC",
+        "longitude": -76.93025,
+        "latitude": 38.88442
     },
     {
         "id": 1713,
@@ -3406,6 +3370,12 @@
         "address": "607 NE Lombard St Portland OR",
         "longitude": -122.659072,
         "latitude": 45.577436
+    },
+    {
+        "id": 1720,
+        "address": "1 N BROADWAY TACOMA WA",
+        "longitude": -122.44671,
+        "latitude": 47.26443
     },
     {
         "id": 2732,
@@ -3676,12 +3646,6 @@
         "address": "717 S ORLEANS AVE TAMPA FL",
         "longitude": -82.474032,
         "latitude": 27.93627
-    },
-    {
-        "id": 1751,
-        "address": "12120 Colorado Blvd, Thornton, Co 80241 Thornton CO",
-        "longitude": -104.944525,
-        "latitude": 39.929908
     },
     {
         "id": 1753,
@@ -4110,16 +4074,16 @@
         "latitude": 27.852099
     },
     {
-        "id": 1849,
-        "address": "14515 A ST S TACOMA WA",
-        "longitude": -122.428379224359,
-        "latitude": 47.160081
-    },
-    {
         "id": 1851,
         "address": "628 S Cowley St Spokane WA",
         "longitude": -117.408557,
         "latitude": 47.650144
+    },
+    {
+        "id": 1849,
+        "address": "14515 A ST S TACOMA WA",
+        "longitude": -122.431494,
+        "latitude": 47.124775
     },
     {
         "id": 1852,
@@ -4210,12 +4174,6 @@
         "address": "56 Sweet Ln Spring Lake NC",
         "longitude": -78.968668,
         "latitude": 35.251668
-    },
-    {
-        "id": 1869,
-        "address": "1425 N TO 1435 N PEARL ST TACOMA WA",
-        "longitude": -122.439875,
-        "latitude": 47.24958
     },
     {
         "id": 1870,
@@ -4336,6 +4294,12 @@
         "address": "100 Lake Point Ave Summerville SC",
         "longitude": -80.215372,
         "latitude": 33.016135
+    },
+    {
+        "id": 1869,
+        "address": "1425 N TO 1435 N PEARL ST TACOMA WA",
+        "longitude": -122.515479,
+        "latitude": 47.26409
     },
     {
         "id": 1896,
@@ -4986,12 +4950,6 @@
         "latitude": 46.665281
     },
     {
-        "id": 2009,
-        "address": "101-151 River Oaks Dr Selma NC",
-        "longitude": -78.284444,
-        "latitude": 35.536549
-    },
-    {
         "id": 2011,
         "address": "401 Broadway Seattle WA",
         "longitude": -122.321221,
@@ -5022,18 +4980,6 @@
         "latitude": 47.666659
     },
     {
-        "id": 2017,
-        "address": "9720 4th Ave. N.E. Seattle WA",
-        "longitude": -122.362068,
-        "latitude": 47.700263
-    },
-    {
-        "id": 2018,
-        "address": "2101 7TH AVE SEATTLE WA",
-        "longitude": -122.36669,
-        "latitude": 47.63799
-    },
-    {
         "id": 2019,
         "address": "6104 14TH AVE NW SEATTLE WA",
         "longitude": -122.37317,
@@ -5044,6 +4990,24 @@
         "address": "3845 AURORA AVE N SEATTLE WA",
         "longitude": -122.3477,
         "latitude": 47.653927
+    },
+    {
+        "id": 2010,
+        "address": "3210 LAKEVIEW DR #UNITS58-75 SEBRING FL",
+        "longitude": -81.469679,
+        "latitude": 27.512364
+    },
+    {
+        "id": 2009,
+        "address": "101-151 River Oaks Dr Selma NC",
+        "longitude": -78.294456,
+        "latitude": 35.548381
+    },
+    {
+        "id": 2018,
+        "address": "2101 7TH AVE SEATTLE WA",
+        "longitude": -122.339339,
+        "latitude": 47.615784
     },
     {
         "id": 2013,
@@ -5112,12 +5076,6 @@
         "latitude": 47.578087
     },
     {
-        "id": 2032,
-        "address": "6736 24TH AVE NW SEATTLE WA",
-        "longitude": -122.363453,
-        "latitude": 47.541592
-    },
-    {
         "id": 2033,
         "address": "5609 2ND AVE NW SEATTLE WA",
         "longitude": -122.360073,
@@ -5140,12 +5098,6 @@
         "address": "1801 20TH AVE SEATTLE WA",
         "longitude": -122.306475,
         "latitude": 47.61781
-    },
-    {
-        "id": 2038,
-        "address": "201 NE 40TH ST SEATTLE WA",
-        "longitude": -122.359255,
-        "latitude": 47.655405
     },
     {
         "id": 2040,
@@ -5268,12 +5220,6 @@
         "latitude": 47.584318
     },
     {
-        "id": 2039,
-        "address": "1918 8TH AVE SEATTLE WA",
-        "longitude": -122.36732,
-        "latitude": 47.63658
-    },
-    {
         "id": 2053,
         "address": "5333 15TH AVE S SEATTLE WA",
         "longitude": -122.313749,
@@ -5292,10 +5238,16 @@
         "latitude": 47.637857
     },
     {
-        "id": 2063,
-        "address": "2602 4TH AVE SEATTLE WA",
-        "longitude": -122.36197,
-        "latitude": 47.643385
+        "id": 2038,
+        "address": "201 NE 40TH ST SEATTLE WA",
+        "longitude": -122.326487,
+        "latitude": 47.655377
+    },
+    {
+        "id": 2034,
+        "address": "2727 NE 125TH ST SEATTLE WA",
+        "longitude": -122.29827,
+        "latitude": 47.719025
     },
     {
         "id": 2065,
@@ -5436,12 +5388,6 @@
         "latitude": 47.706681
     },
     {
-        "id": 2078,
-        "address": "712 3RD AVE SEATTLE WA",
-        "longitude": -122.360262,
-        "latitude": 47.62614
-    },
-    {
         "id": 2089,
         "address": "662 NE 42ND ST SEATTLE WA",
         "longitude": -122.3213,
@@ -5548,6 +5494,12 @@
         "address": "9100 45TH AVE SW SEATTLE WA",
         "longitude": -122.389895,
         "latitude": 47.522685
+    },
+    {
+        "id": 2078,
+        "address": "712 3RD AVE SEATTLE WA",
+        "longitude": -122.33221,
+        "latitude": 47.60412
     },
     {
         "id": 2108,
@@ -5698,12 +5650,6 @@
         "address": "1807 18TH AVE SEATTLE WA",
         "longitude": -122.309177,
         "latitude": 47.617935
-    },
-    {
-        "id": 2134,
-        "address": "11233 DES MOINES MEMORIAL DR S SEATTLE WA",
-        "longitude": -122.321588,
-        "latitude": 47.506877
     },
     {
         "id": 2135,
@@ -5874,22 +5820,10 @@
         "latitude": 45.466075
     },
     {
-        "id": 2773,
-        "address": "2020 SW SALMON ST PORTLAND OR",
-        "longitude": -122.694052,
-        "latitude": 45.52044
-    },
-    {
         "id": 2774,
         "address": "2308 SW OSAGE ST #2326 PORTLAND OR",
         "longitude": -122.699295,
         "latitude": 45.522745
-    },
-    {
-        "id": 2775,
-        "address": "3118 SE ALDER CT #3130 PORTLAND OR",
-        "longitude": -122.645736,
-        "latitude": 45.517891
     },
     {
         "id": 2776,
@@ -5920,12 +5854,6 @@
         "address": "4206 SE SALMON ST  PORTLAND OR",
         "longitude": -122.6191,
         "latitude": 45.51404
-    },
-    {
-        "id": 2833,
-        "address": "1334 NW 25TH AVE  PORTLAND OR",
-        "longitude": -122.957004,
-        "latitude": 45.534587
     },
     {
         "id": 2834,
@@ -5994,18 +5922,6 @@
         "latitude": 45.5092
     },
     {
-        "id": 2765,
-        "address": "2001 NE 21ST AVE #2015 PORTLAND OR",
-        "longitude": -122.9605,
-        "latitude": 45.538795
-    },
-    {
-        "id": 2768,
-        "address": "1510 NE 45TH AVE PORTLAND OR",
-        "longitude": -122.616164,
-        "latitude": 45.51203
-    },
-    {
         "id": 2772,
         "address": "2023 SE MADISON ST #2051 PORTLAND OR",
         "longitude": -122.64479,
@@ -6052,6 +5968,18 @@
         "address": "1619 43RD AVE E SEATTLE WA",
         "longitude": -122.27758,
         "latitude": 47.63395
+    },
+    {
+        "id": 2775,
+        "address": "3118 SE ALDER CT #3130 PORTLAND OR",
+        "longitude": -122.63296,
+        "latitude": 45.51787
+    },
+    {
+        "id": 2773,
+        "address": "2020 SW SALMON ST PORTLAND OR",
+        "longitude": -122.644785,
+        "latitude": 45.514071
     },
     {
         "id": 2157,
@@ -6108,12 +6036,6 @@
         "latitude": 47.621745
     },
     {
-        "id": 2171,
-        "address": "1402 3RD AVE 310 SEATTLE WA",
-        "longitude": -122.31361,
-        "latitude": 47.61614
-    },
-    {
         "id": 2172,
         "address": "1700 N 80TH ST SEATTLE WA",
         "longitude": -122.337517,
@@ -6124,12 +6046,6 @@
         "address": "1124 LAKEVIEW BLVD  SEATTLE WA",
         "longitude": -122.324963,
         "latitude": 47.629875
-    },
-    {
-        "id": 2174,
-        "address": "4130 36TH AVE  SEATTLE WA",
-        "longitude": -122.403606,
-        "latitude": 47.656949
     },
     {
         "id": 2176,
@@ -6210,12 +6126,6 @@
         "latitude": 47.681128
     },
     {
-        "id": 2168,
-        "address": "5017 38TH AVE SW SEATTLE WA",
-        "longitude": -122.284946,
-        "latitude": 47.559467
-    },
-    {
         "id": 2170,
         "address": "3306 BEACH DR SW SEATTLE WA",
         "longitude": -122.418583,
@@ -6252,18 +6162,6 @@
         "latitude": 47.63456
     },
     {
-        "id": 2191,
-        "address": "110 NW 104TH ST  SEATTLE WA",
-        "longitude": -122.358785,
-        "latitude": 47.704359
-    },
-    {
-        "id": 2192,
-        "address": "1000 32ND AVE  SEATTLE WA",
-        "longitude": -122.399027,
-        "latitude": 47.632343
-    },
-    {
         "id": 2193,
         "address": "2140 HALLECK AVE  SEATTLE WA",
         "longitude": -122.398053,
@@ -6274,12 +6172,6 @@
         "address": "465 N 43RD ST  SEATTLE WA",
         "longitude": -122.35243,
         "latitude": 47.658798
-    },
-    {
-        "id": 2217,
-        "address": "4701 15TH AVE  SEATTLE WA",
-        "longitude": -122.376233,
-        "latitude": 47.661942
     },
     {
         "id": 2218,
@@ -6312,6 +6204,12 @@
         "latitude": 47.654932
     },
     {
+        "id": 2168,
+        "address": "5017 38TH AVE SW SEATTLE WA",
+        "longitude": -122.380583,
+        "latitude": 47.556883
+    },
+    {
         "id": 2223,
         "address": "3421 23RD AVE  SEATTLE WA",
         "longitude": -122.386325,
@@ -6336,22 +6234,10 @@
         "latitude": 47.63748
     },
     {
-        "id": 2227,
-        "address": "3600 SW GENESEE ST  SEATTLE WA",
-        "longitude": -122.37794,
-        "latitude": 47.56497
-    },
-    {
         "id": 2228,
         "address": "1135 N 91ST ST  SEATTLE WA",
         "longitude": -122.343012,
         "latitude": 47.694715
-    },
-    {
-        "id": 2229,
-        "address": "1625 E MADISON ST  SEATTLE WA",
-        "longitude": -122.37799365625,
-        "latitude": 47.6392295
     },
     {
         "id": 2230,
@@ -6378,12 +6264,6 @@
         "latitude": 47.632146
     },
     {
-        "id": 2204,
-        "address": "107 1ST AVE  SEATTLE WA",
-        "longitude": -122.358067,
-        "latitude": 47.619452
-    },
-    {
         "id": 2205,
         "address": "3633 WOODLAWN AVE  SEATTLE WA",
         "longitude": -122.338992,
@@ -6408,18 +6288,6 @@
         "latitude": 47.640047
     },
     {
-        "id": 2211,
-        "address": "3820 34TH AVE  SEATTLE WA",
-        "longitude": -122.400478,
-        "latitude": 47.654723
-    },
-    {
-        "id": 2212,
-        "address": "4134 12TH AVE  SEATTLE WA",
-        "longitude": -122.315228,
-        "latitude": 47.657874
-    },
-    {
         "id": 2235,
         "address": "2029 13TH AVE  SEATTLE WA",
         "longitude": -122.374237,
@@ -6442,12 +6310,6 @@
         "address": "3200 NE 137TH ST  SEATTLE WA",
         "longitude": -122.293253,
         "latitude": 47.728492
-    },
-    {
-        "id": 2216,
-        "address": "3043 ALKI AVE  SEATTLE WA",
-        "longitude": -122.405267,
-        "latitude": 47.581344
     },
     {
         "id": 2220,
@@ -6492,18 +6354,6 @@
         "latitude": 47.53385
     },
     {
-        "id": 2197,
-        "address": "3238 15TH AVE  SEATTLE WA",
-        "longitude": -122.375796,
-        "latitude": 47.649637
-    },
-    {
-        "id": 2200,
-        "address": "2007 BOYLSTON AVE  SEATTLE WA",
-        "longitude": -122.323463,
-        "latitude": 47.618123
-    },
-    {
         "id": 2203,
         "address": "1916 N 44TH ST  SEATTLE WA",
         "longitude": -122.334046,
@@ -6522,40 +6372,16 @@
         "latitude": 47.669095
     },
     {
-        "id": 2244,
-        "address": "1532 12TH AVE  SEATTLE WA",
-        "longitude": -122.372567,
-        "latitude": 47.633692
-    },
-    {
         "id": 2241,
         "address": "2749 60TH AVE  SEATTLE WA",
         "longitude": -122.40974,
         "latitude": 47.577977
     },
     {
-        "id": 2242,
-        "address": "1304 6TH AVE  SEATTLE WA",
-        "longitude": -122.364429,
-        "latitude": 47.630527
-    },
-    {
-        "id": 2243,
-        "address": "2539 13TH AVE  SEATTLE WA",
-        "longitude": -122.373958,
-        "latitude": 47.641845
-    },
-    {
         "id": 2245,
         "address": "3650 14TH AVE W 7 SEATTLE WA",
         "longitude": -122.374543,
         "latitude": 47.6537
-    },
-    {
-        "id": 2249,
-        "address": "3422 21ST AVE  SEATTLE WA",
-        "longitude": -122.382917,
-        "latitude": 47.651037
     },
     {
         "id": 2247,
@@ -6568,6 +6394,24 @@
         "address": "354 NW 52ND ST  SEATTLE WA",
         "longitude": -122.363064,
         "latitude": 47.666655
+    },
+    {
+        "id": 2243,
+        "address": "2539 13TH AVE  SEATTLE WA",
+        "longitude": -122.316375,
+        "latitude": 47.579915
+    },
+    {
+        "id": 2249,
+        "address": "3422 21ST AVE  SEATTLE WA",
+        "longitude": -122.304231,
+        "latitude": 47.572389
+    },
+    {
+        "id": 2227,
+        "address": "3600 SW GENESEE ST  SEATTLE WA",
+        "longitude": -122.28685,
+        "latitude": 47.564381
     },
     {
         "id": 2250,
@@ -6612,12 +6456,6 @@
         "latitude": 47.562756
     },
     {
-        "id": 2257,
-        "address": "612 1ST AVE  SEATTLE WA",
-        "longitude": -122.357697,
-        "latitude": 47.62505
-    },
-    {
         "id": 2258,
         "address": "3643 WALLINGFORD AVE  SEATTLE WA",
         "longitude": -122.336629,
@@ -6648,22 +6486,10 @@
         "latitude": 47.66164
     },
     {
-        "id": 2263,
-        "address": "3428 25TH AVE  SEATTLE WA",
-        "longitude": -122.388192,
-        "latitude": 47.651259
-    },
-    {
         "id": 2264,
         "address": "1135 N 93RD ST  SEATTLE WA",
         "longitude": -122.342924,
         "latitude": 47.696155
-    },
-    {
-        "id": 2265,
-        "address": "1210 9TH AVE  SEATTLE WA",
-        "longitude": -122.368665,
-        "latitude": 47.63037
     },
     {
         "id": 2266,
@@ -6678,22 +6504,10 @@
         "latitude": 47.57653
     },
     {
-        "id": 2268,
-        "address": "214 SUMMIT AVE  SEATTLE WA",
-        "longitude": -122.322649,
-        "latitude": 47.610041
-    },
-    {
         "id": 2269,
         "address": "153 NW 80TH ST  SEATTLE WA",
         "longitude": -122.360323,
         "latitude": 47.68681
-    },
-    {
-        "id": 2270,
-        "address": "322 10TH AVE  SEATTLE WA",
-        "longitude": -122.33922,
-        "latitude": 47.72783
     },
     {
         "id": 2271,
@@ -6744,12 +6558,6 @@
         "latitude": 47.622283
     },
     {
-        "id": 2279,
-        "address": "601 SUMMIT AVE  SEATTLE WA",
-        "longitude": -122.32257,
-        "latitude": 47.610071
-    },
-    {
         "id": 2280,
         "address": "2714 FAIRVIEW AVE  SEATTLE WA",
         "longitude": -122.32722,
@@ -6778,12 +6586,6 @@
         "address": "3801 S ALASKA ST SEATTLE WA",
         "longitude": -122.284481,
         "latitude": 47.560466
-    },
-    {
-        "id": 2282,
-        "address": "706 N 95TH ST  SEATTLE WA",
-        "longitude": -122.308887,
-        "latitude": 47.683111
     },
     {
         "id": 2283,
@@ -6816,16 +6618,40 @@
         "latitude": 47.677013
     },
     {
-        "id": 2288,
-        "address": "2228 EASTLAKE AVE  SEATTLE WA",
-        "longitude": -122.26297,
-        "latitude": 47.54812
-    },
-    {
         "id": 2287,
         "address": "924 17TH AVE  SEATTLE WA",
         "longitude": -122.309815,
         "latitude": 47.6112
+    },
+    {
+        "id": 2288,
+        "address": "2228 EASTLAKE AVE  SEATTLE WA",
+        "longitude": -122.325546,
+        "latitude": 47.639041
+    },
+    {
+        "id": 2282,
+        "address": "706 N 95TH ST  SEATTLE WA",
+        "longitude": -122.3495,
+        "latitude": 47.69809
+    },
+    {
+        "id": 2270,
+        "address": "322 10TH AVE  SEATTLE WA",
+        "longitude": -122.319133,
+        "latitude": 47.60507
+    },
+    {
+        "id": 2268,
+        "address": "214 SUMMIT AVE  SEATTLE WA",
+        "longitude": -122.324974,
+        "latitude": 47.620178
+    },
+    {
+        "id": 2279,
+        "address": "601 SUMMIT AVE  SEATTLE WA",
+        "longitude": -122.32554,
+        "latitude": 47.624444
     },
     {
         "id": 2290,
@@ -6838,12 +6664,6 @@
         "address": "4191 GILMAN AVE  SEATTLE WA",
         "longitude": -122.388981,
         "latitude": 47.657495
-    },
-    {
-        "id": 2292,
-        "address": "1343 15TH AVE  SEATTLE WA",
-        "longitude": -122.312501,
-        "latitude": 47.630872
     },
     {
         "id": 2293,
@@ -6900,12 +6720,6 @@
         "latitude": 47.578405
     },
     {
-        "id": 2303,
-        "address": "1510 14TH AVE  SEATTLE WA",
-        "longitude": -122.375011,
-        "latitude": 47.636204
-    },
-    {
         "id": 2304,
         "address": "2044 NW 59TH ST  SEATTLE WA",
         "longitude": -122.384095,
@@ -6940,12 +6754,6 @@
         "address": "918 1ST AVE  SEATTLE WA",
         "longitude": -122.357599,
         "latitude": 47.627788
-    },
-    {
-        "id": 2310,
-        "address": "604 11TH AVE  SEATTLE WA",
-        "longitude": -122.318119,
-        "latitude": 47.606002
     },
     {
         "id": 2311,
@@ -6988,12 +6796,6 @@
         "address": "5201 42ND AVE  SEATTLE WA",
         "longitude": -122.281552,
         "latitude": 47.555162
-    },
-    {
-        "id": 2318,
-        "address": "3250 CALIFORNIA AVE  SEATTLE WA",
-        "longitude": -122.556364,
-        "latitude": 47.560481
     },
     {
         "id": 2319,
@@ -7044,12 +6846,6 @@
         "latitude": 47.53967
     },
     {
-        "id": 2332,
-        "address": "6539 42ND AVE  SEATTLE WA",
-        "longitude": -122.283599,
-        "latitude": 47.67689
-    },
-    {
         "id": 2331,
         "address": "1537 12TH AVE S SEATTLE WA",
         "longitude": -122.31775,
@@ -7078,6 +6874,12 @@
         "address": "525 1ST AVE  SEATTLE WA",
         "longitude": -122.35838,
         "latitude": 47.62405
+    },
+    {
+        "id": 2318,
+        "address": "3250 CALIFORNIA AVE  SEATTLE WA",
+        "longitude": -122.386407,
+        "latitude": 47.574108
     },
     {
         "id": 2337,
@@ -7114,24 +6916,6 @@
         "address": "714 HARVARD AVE  SEATTLE WA",
         "longitude": -122.322076,
         "latitude": 47.62553
-    },
-    {
-        "id": 2345,
-        "address": "1110 8TH AVE  SEATTLE WA",
-        "longitude": -122.36782,
-        "latitude": 47.631001
-    },
-    {
-        "id": 2346,
-        "address": "1317 6TH AVE  SEATTLE WA",
-        "longitude": -122.364429,
-        "latitude": 47.630527
-    },
-    {
-        "id": 2347,
-        "address": "12542 35TH AVE  SEATTLE WA",
-        "longitude": -122.3761835,
-        "latitude": 47.5367085
     },
     {
         "id": 2348,
@@ -7230,12 +7014,6 @@
         "latitude": 45.49793
     },
     {
-        "id": 2795,
-        "address": "1703 NE 47TH AVE #1761 PORTLAND OR",
-        "longitude": -122.614447,
-        "latitude": 45.510645
-    },
-    {
         "id": 2796,
         "address": "6210 SW POMONA ST PORTLAND OR",
         "longitude": -122.74137,
@@ -7254,12 +7032,6 @@
         "latitude": 45.50881
     },
     {
-        "id": 2350,
-        "address": "5818 15TH AVE  SEATTLE WA",
-        "longitude": -122.3119,
-        "latitude": 47.67092
-    },
-    {
         "id": 2351,
         "address": "4459 FREMONT AVE N SEATTLE WA",
         "longitude": -122.350361,
@@ -7272,22 +7044,10 @@
         "latitude": 47.726538
     },
     {
-        "id": 2353,
-        "address": "2523 15TH AVE  SEATTLE WA",
-        "longitude": -122.376218,
-        "latitude": 47.641566
-    },
-    {
         "id": 2359,
         "address": "7810 STROUD AVE  SEATTLE WA",
         "longitude": -122.335701,
         "latitude": 47.685585
-    },
-    {
-        "id": 2355,
-        "address": "2614 42ND AVE  SEATTLE WA",
-        "longitude": -122.411017,
-        "latitude": 47.644172
     },
     {
         "id": 2354,
@@ -7302,16 +7062,40 @@
         "latitude": 47.630172
     },
     {
-        "id": 2357,
-        "address": "1801 12TH AVE  SEATTLE WA",
-        "longitude": -122.372815,
-        "latitude": 47.634886
-    },
-    {
         "id": 2358,
         "address": "9014 45TH AVE  SEATTLE WA",
         "longitude": -122.279659,
         "latitude": 47.6941
+    },
+    {
+        "id": 2355,
+        "address": "2614 42ND AVE  SEATTLE WA",
+        "longitude": -122.384869,
+        "latitude": 47.580616
+    },
+    {
+        "id": 2353,
+        "address": "2523 15TH AVE  SEATTLE WA",
+        "longitude": -122.313785,
+        "latitude": 47.580262
+    },
+    {
+        "id": 2345,
+        "address": "1110 8TH AVE  SEATTLE WA",
+        "longitude": -122.32914,
+        "latitude": 47.60908
+    },
+    {
+        "id": 2346,
+        "address": "1317 6TH AVE  SEATTLE WA",
+        "longitude": -122.33322,
+        "latitude": 47.60962
+    },
+    {
+        "id": 2795,
+        "address": "1703 NE 47TH AVE #1761 PORTLAND OR",
+        "longitude": -122.615298,
+        "latitude": 45.535685
     },
     {
         "id": 2360,
@@ -7366,12 +7150,6 @@
         "address": "2700 ALKI AVE SW SEATTLE WA",
         "longitude": -122.40973,
         "latitude": 47.579125
-    },
-    {
-        "id": 2371,
-        "address": "2735 CALIFORNIA AVE  SEATTLE WA",
-        "longitude": -122.556503,
-        "latitude": 47.559196
     },
     {
         "id": 2372,
@@ -7764,12 +7542,6 @@
         "latitude": 39.115255
     },
     {
-        "id": 832,
-        "address": "1946 Humboldt Ct Colorado Springs CO",
-        "longitude": -104.825349,
-        "latitude": 38.833958
-    },
-    {
         "id": 833,
         "address": "405 W 15th St Pueblo CO",
         "longitude": -104.612309,
@@ -7906,6 +7678,12 @@
         "address": "8565 S Poplar Way Littleton CO",
         "longitude": -104.907699,
         "latitude": 39.562782
+    },
+    {
+        "id": 846,
+        "address": "1402 3rd Sterling CO",
+        "longitude": -103.214872,
+        "latitude": 40.612659
     },
     {
         "id": 859,
@@ -8130,12 +7908,6 @@
         "latitude": 39.567303
     },
     {
-        "id": 901,
-        "address": "1390 Chambers Rd Aurora CO",
-        "longitude": -104.809984,
-        "latitude": 39.691196
-    },
-    {
         "id": 899,
         "address": "10520 El Diente Ct Englewood CO",
         "longitude": -104.867818,
@@ -8170,12 +7942,6 @@
         "address": "2030 Lake Ave Pueblo CO",
         "longitude": -104.624101,
         "latitude": 38.232115
-    },
-    {
-        "id": 906,
-        "address": "10055 W 43rd Ave Wheat Ridge CO",
-        "longitude": -105.05162,
-        "latitude": 39.77488
     },
     {
         "id": 914,
@@ -8268,12 +8034,6 @@
         "latitude": 39.746435
     },
     {
-        "id": 922,
-        "address": "7271-7273 Kearney St Commerce City CO",
-        "longitude": -104.91732,
-        "latitude": 39.7975
-    },
-    {
         "id": 923,
         "address": "3235 Main Ave Durango CO",
         "longitude": -107.871026,
@@ -8334,18 +8094,6 @@
         "latitude": 38.808266
     },
     {
-        "id": 934,
-        "address": "5860 N Mesa Dr El Paso TX",
-        "longitude": -106.4410954,
-        "latitude": 31.7867031
-    },
-    {
-        "id": 935,
-        "address": "14153-14205 E Davies Ave Englewood CO",
-        "longitude": -104.825000553571,
-        "latitude": 39.5902425
-    },
-    {
         "id": 936,
         "address": "6008 Doniphan Dr El Paso TX",
         "longitude": -106.591374,
@@ -8370,12 +8118,6 @@
         "latitude": 38.838944
     },
     {
-        "id": 940,
-        "address": "4355-4365 E Pikes Peak Ave Colorado Springs CO",
-        "longitude": -104.725877096774,
-        "latitude": 38.830385
-    },
-    {
         "id": 941,
         "address": "15821 N Dysart Rd Surprise AZ",
         "longitude": -112.341676,
@@ -8386,6 +8128,18 @@
         "address": "6565 S Headley Rd Tucson AZ",
         "longitude": -111.00668,
         "latitude": 32.132142
+    },
+    {
+        "id": 906,
+        "address": "10055 W 43rd Ave Wheat Ridge CO",
+        "longitude": -105.12245,
+        "latitude": 39.77663
+    },
+    {
+        "id": 922,
+        "address": "7271-7273 Kearney St Commerce City CO",
+        "longitude": -104.918047,
+        "latitude": 39.828461
     },
     {
         "id": 944,
@@ -8572,12 +8326,6 @@
         "address": "1110 Joe Battle Blvd El Paso TX",
         "longitude": -106.281922,
         "latitude": 31.701391
-    },
-    {
-        "id": 977,
-        "address": "10485 Dyer St El Paso TX",
-        "longitude": -106.4102615,
-        "latitude": 31.888252
     },
     {
         "id": 978,
@@ -8772,12 +8520,6 @@
         "latitude": 38.056683
     },
     {
-        "id": 1015,
-        "address": "7503 Old 3rd Street Rd Louisville KY",
-        "longitude": -85.759407,
-        "latitude": 38.254238
-    },
-    {
         "id": 1012,
         "address": "3414 Burkland Blvd Shepherdsville KY",
         "longitude": -85.672447,
@@ -8814,12 +8556,6 @@
         "latitude": 38.15868
     },
     {
-        "id": 1020,
-        "address": "3412-3416 Breckenridge Ln Louisville KY",
-        "longitude": -85.6323385833333,
-        "latitude": 38.221267
-    },
-    {
         "id": 1021,
         "address": "8000 Cedar Creek Rd Louisville KY",
         "longitude": -85.58732,
@@ -8844,12 +8580,6 @@
         "latitude": 38.15393
     },
     {
-        "id": 1025,
-        "address": "4006-4010 Poplar Level Rd Louisville KY",
-        "longitude": -85.6962020195313,
-        "latitude": 38.1834675
-    },
-    {
         "id": 1024,
         "address": "5312 Poindexter Dr Louisville KY",
         "longitude": -85.603171,
@@ -8872,6 +8602,12 @@
         "address": "7025 Bronner Cir Louisville KY",
         "longitude": -85.62759,
         "latitude": 38.185739
+    },
+    {
+        "id": 1015,
+        "address": "7503 Old 3rd Street Rd Louisville KY",
+        "longitude": -85.77861,
+        "latitude": 38.14295
     },
     {
         "id": 1031,
@@ -9222,12 +8958,6 @@
         "latitude": 38.21468
     },
     {
-        "id": 1093,
-        "address": "7300-7310 Southside Dr Louisville KY",
-        "longitude": -85.76514,
-        "latitude": 38.16217
-    },
-    {
         "id": 1096,
         "address": "4500 Mason Ethan Ct Louisville KY",
         "longitude": -85.627719,
@@ -9348,12 +9078,6 @@
         "latitude": 35.95122
     },
     {
-        "id": 1085,
-        "address": "8923-8925 Preston Hwy Louisville KY",
-        "longitude": -85.71718,
-        "latitude": 38.18523
-    },
-    {
         "id": 1086,
         "address": "2020 Peabody Ln Louisville KY",
         "longitude": -85.674808,
@@ -9462,12 +9186,6 @@
         "latitude": 35.9595
     },
     {
-        "id": 1137,
-        "address": "1150-1200 20th St NE Cleveland TN",
-        "longitude": -84.8439446666667,
-        "latitude": 35.166706
-    },
-    {
         "id": 1136,
         "address": "4053 Priceless Vw Chattanooga TN",
         "longitude": -85.308401,
@@ -9574,6 +9292,12 @@
         "address": "3930 Summercrest Way Knoxville TN",
         "longitude": -83.94638,
         "latitude": 36.00649
+    },
+    {
+        "id": 1137,
+        "address": "1150-1200 20th St NE Cleveland TN",
+        "longitude": -84.856039,
+        "latitude": 35.167445
     },
     {
         "id": 1155,
@@ -9972,12 +9696,6 @@
         "latitude": 45.49246
     },
     {
-        "id": 2850,
-        "address": "1500 NE 72ND AVE  PORTLAND OR",
-        "longitude": -122.589023,
-        "latitude": 45.512266
-    },
-    {
         "id": 2851,
         "address": "8310 SE RHINE ST PORTLAND OR",
         "longitude": -122.57766,
@@ -10030,12 +9748,6 @@
         "address": "2801 N AINSWORTH ST PORTLAND OR",
         "longitude": -122.69593,
         "latitude": 45.56666
-    },
-    {
-        "id": 2860,
-        "address": "2020 SW SALMON ST  PORTLAND OR",
-        "longitude": -122.694052,
-        "latitude": 45.52044
     },
     {
         "id": 2861,
@@ -10182,12 +9894,6 @@
         "latitude": 45.54316
     },
     {
-        "id": 2886,
-        "address": "8332 SW 21ST AVE PORTLAND OR",
-        "longitude": -122.643082,
-        "latitude": 45.462284
-    },
-    {
         "id": 2887,
         "address": "6214 NE MULTNOMAH ST  PORTLAND OR",
         "longitude": -122.599699,
@@ -10198,6 +9904,12 @@
         "address": "2361 NW PETTYGROVE ST  PORTLAND OR",
         "longitude": -122.70003,
         "latitude": 45.53281
+    },
+    {
+        "id": 2860,
+        "address": "2020 SW SALMON ST  PORTLAND OR",
+        "longitude": -122.644785,
+        "latitude": 45.514071
     },
     {
         "id": 2889,
@@ -10320,12 +10032,6 @@
         "latitude": 26.238661
     },
     {
-        "id": 2909,
-        "address": "410 SW 15TH ST POMPANO BEACH FL",
-        "longitude": -80.115301,
-        "latitude": 26.289907
-    },
-    {
         "id": 2910,
         "address": "3233 NE 10TH ST POMPANO BEACH FL",
         "longitude": -80.088842,
@@ -10342,12 +10048,6 @@
         "address": "601 N OCEAN BLVD POMPANO BEACH FL",
         "longitude": -80.088378,
         "latitude": 26.241889
-    },
-    {
-        "id": 2913,
-        "address": "2400 NE 10TH CT POMPANO BEACH FL",
-        "longitude": -80.10207,
-        "latitude": 26.217167
     },
     {
         "id": 2912,
@@ -10440,16 +10140,16 @@
         "latitude": 40.37818
     },
     {
+        "id": 2913,
+        "address": "2400 NE 10TH CT POMPANO BEACH FL",
+        "longitude": -80.099155,
+        "latitude": 26.242915
+    },
+    {
         "id": 2933,
         "address": "305 S East St Plainfield IN",
         "longitude": -86.398747,
         "latitude": 39.70169
-    },
-    {
-        "id": 2937,
-        "address": "6900 Grand Ave Pittsburgh PA",
-        "longitude": -80.028258,
-        "latitude": 40.474948
     },
     {
         "id": 2934,
@@ -10474,12 +10174,6 @@
         "address": "1112 Mt Royal Blvd Pittsburgh PA",
         "longitude": -79.95818,
         "latitude": 40.51826
-    },
-    {
-        "id": 2940,
-        "address": "341 4th Ave Pittsburgh PA",
-        "longitude": -79.886435,
-        "latitude": 40.38836
     },
     {
         "id": 2941,
@@ -10572,12 +10266,6 @@
         "latitude": 40.44304
     },
     {
-        "id": 2957,
-        "address": "128 Stamm Ave Pittsburgh PA",
-        "longitude": -79.985431,
-        "latitude": 40.416485
-    },
-    {
         "id": 2958,
         "address": "525-529 S Aiken Ave Pittsburgh PA",
         "longitude": -79.937842,
@@ -10662,16 +10350,34 @@
         "latitude": 33.640063
     },
     {
+        "id": 2957,
+        "address": "128 Stamm Ave Pittsburgh PA",
+        "longitude": -79.891589,
+        "latitude": 40.488583
+    },
+    {
+        "id": 2935,
+        "address": "442 Center Ave Pittsburgh PA",
+        "longitude": -80.02441,
+        "latitude": 40.51855
+    },
+    {
+        "id": 2937,
+        "address": "6900 Grand Ave Pittsburgh PA",
+        "longitude": -80.14181,
+        "latitude": 40.51507
+    },
+    {
+        "id": 2956,
+        "address": "1709-1713 Termon Ave Pittsburgh PA",
+        "longitude": -80.042492,
+        "latitude": 40.481855
+    },
+    {
         "id": 2977,
         "address": "9220 W Indian School Rd Phoenix AZ",
         "longitude": -112.258886,
         "latitude": 33.49513
-    },
-    {
-        "id": 2978,
-        "address": "2123-2125 SPRUCE ST  PHILADELPHIA PA",
-        "longitude": -75.15794,
-        "latitude": 39.95847
     },
     {
         "id": 2980,
@@ -10690,12 +10396,6 @@
         "address": "2217 N 51ST ST  PHILADELPHIA PA",
         "longitude": -75.227689,
         "latitude": 39.990539
-    },
-    {
-        "id": 2981,
-        "address": "4725-4727 CHESTER AVE  PHILADELPHIA PA",
-        "longitude": -75.359652,
-        "latitude": 39.849451
     },
     {
         "id": 2986,
@@ -10750,12 +10450,6 @@
         "address": "4042 SPRUCE ST  PHILADELPHIA PA",
         "longitude": -75.20496,
         "latitude": 39.95167
-    },
-    {
-        "id": 3003,
-        "address": "800 SCENIC HWY PENSACOLA FL",
-        "longitude": -87.17682,
-        "latitude": 30.426995
     },
     {
         "id": 2995,
@@ -10872,6 +10566,30 @@
         "latitude": 30.13521
     },
     {
+        "id": 2979,
+        "address": "4600-4604 WALNUT ST  PHILADELPHIA PA",
+        "longitude": -75.2139,
+        "latitude": 39.955277
+    },
+    {
+        "id": 2994,
+        "address": "5925-5927 GREENE ST  PHILADELPHIA PA",
+        "longitude": -75.17951,
+        "latitude": 40.036565
+    },
+    {
+        "id": 3003,
+        "address": "800 SCENIC HWY PENSACOLA FL",
+        "longitude": -87.17348,
+        "latitude": 30.45056
+    },
+    {
+        "id": 2978,
+        "address": "2123-2125 SPRUCE ST  PHILADELPHIA PA",
+        "longitude": -75.177238,
+        "latitude": 39.948744
+    },
+    {
         "id": 3019,
         "address": "508 DEMENT CIR APT A PANAMA CITY BEACH FL",
         "longitude": -85.809022,
@@ -10882,12 +10600,6 @@
         "address": "160 N FOX AVE PANAMA CITY FL",
         "longitude": -85.56936,
         "latitude": 30.147539
-    },
-    {
-        "id": 3018,
-        "address": "10405 Vienna St, Parker, Co 80134 Parker CO",
-        "longitude": -104.771892,
-        "latitude": 39.522141
     },
     {
         "id": 3022,
@@ -11110,6 +10822,12 @@
         "address": "7817 SAMURAI DR SE OLYMPIA WA",
         "longitude": -122.773433,
         "latitude": 47.0503
+    },
+    {
+        "id": 3018,
+        "address": "10405 Vienna St, Parker, Co 80134 Parker CO",
+        "longitude": -104.81498,
+        "latitude": 39.53015
     },
     {
         "id": 3062,
@@ -11358,12 +11076,6 @@
         "latitude": 36.175155
     },
     {
-        "id": 3113,
-        "address": "447 NE 125TH ST NORTH MIAMI FL",
-        "longitude": -80.205793,
-        "latitude": 25.889409
-    },
-    {
         "id": 3112,
         "address": "1980 S GLADES DR NORTH MIAMI BEACH FL",
         "longitude": -80.160519,
@@ -11404,12 +11116,6 @@
         "address": "11950 N BAYSHORE DR NORTH MIAMI FL",
         "longitude": -80.152884,
         "latitude": 25.886681
-    },
-    {
-        "id": 3117,
-        "address": "690 NE 123RD ST NORTH MIAMI FL",
-        "longitude": -80.211292,
-        "latitude": 25.887347
     },
     {
         "id": 3120,
@@ -11472,12 +11178,6 @@
         "latitude": 40.902246
     },
     {
-        "id": 3133,
-        "address": "1415 APPLEGROVE ST NW NORTH CANTON OH",
-        "longitude": -81.39284,
-        "latitude": 40.89105
-    },
-    {
         "id": 3132,
         "address": "421 Main Ave S North Bend WA",
         "longitude": -121.78855,
@@ -11508,22 +11208,10 @@
         "latitude": 25.844418
     },
     {
-        "id": 3137,
-        "address": "7926 East Dr North Bay Village FL",
-        "longitude": -80.128339,
-        "latitude": 25.854371
-    },
-    {
         "id": 3138,
         "address": "1830 S Treasure Dr North Bay Village FL",
         "longitude": -80.147679,
         "latitude": 25.84444
-    },
-    {
-        "id": 3139,
-        "address": "7941 East Dr North Bay Village FL",
-        "longitude": -80.128339,
-        "latitude": 25.854371
     },
     {
         "id": 3141,
@@ -11590,6 +11278,24 @@
         "address": "407 E 85TH ST  NEW YORK NY",
         "longitude": -73.949274,
         "latitude": 40.77613
+    },
+    {
+        "id": 3137,
+        "address": "7926 East Dr North Bay Village FL",
+        "longitude": -80.15781,
+        "latitude": 25.8518
+    },
+    {
+        "id": 3133,
+        "address": "1415 APPLEGROVE ST NW NORTH CANTON OH",
+        "longitude": -81.37251,
+        "latitude": 40.88967
+    },
+    {
+        "id": 3139,
+        "address": "7941 East Dr North Bay Village FL",
+        "longitude": -80.157242,
+        "latitude": 25.853587
     },
     {
         "id": 3151,
@@ -11686,12 +11392,6 @@
         "address": "839 RIVERSIDE DR  NEW YORK NY",
         "longitude": -73.946783,
         "latitude": 40.836056
-    },
-    {
-        "id": 3169,
-        "address": "48 COMMERCE ST  NEW YORK NY",
-        "longitude": -74.005683,
-        "latitude": 40.731287
     },
     {
         "id": 3171,
@@ -11826,10 +11526,16 @@
         "latitude": 41.00082
     },
     {
-        "id": 3194,
-        "address": "247-293 S Clayton Rd New Lebanon OH",
-        "longitude": -84.3944515,
-        "latitude": 39.7307975
+        "id": 3168,
+        "address": "159 1/2 7TH AVE  NEW YORK NY",
+        "longitude": -74.00079,
+        "latitude": 40.73682
+    },
+    {
+        "id": 3169,
+        "address": "48 COMMERCE ST  NEW YORK NY",
+        "longitude": -74.168081,
+        "latitude": 40.612378
     },
     {
         "id": 3197,
@@ -11878,12 +11584,6 @@
         "address": "1350 Trent Blvd New Bern NC",
         "longitude": -77.058359,
         "latitude": 35.106602
-    },
-    {
-        "id": 3205,
-        "address": "305 Old Cherry Point Rd New Bern NC",
-        "longitude": -77.0115305,
-        "latitude": 35.0532685
     },
     {
         "id": 3204,
@@ -12000,12 +11700,6 @@
         "latitude": 36.1381
     },
     {
-        "id": 3233,
-        "address": "1624 16TH AVE S NASHVILLE TN",
-        "longitude": -86.79404,
-        "latitude": 36.136905
-    },
-    {
         "id": 3234,
         "address": "1908 CONVENT PL  NASHVILLE TN",
         "longitude": -86.803184,
@@ -12112,12 +11806,6 @@
         "address": "3810 MAYPOP CIR MYRTLE BEACH SC",
         "longitude": -78.983778,
         "latitude": 33.67635
-    },
-    {
-        "id": 3250,
-        "address": "1915 Holton Rd Muskegon MI",
-        "longitude": -86.281704,
-        "latitude": 43.287486
     },
     {
         "id": 3255,
@@ -12324,10 +12012,10 @@
         "latitude": 47.79148
     },
     {
-        "id": 3266,
-        "address": "1014 Hunters Ter Mount Pleasant SC",
-        "longitude": -79.862585,
-        "latitude": 32.794065
+        "id": 3250,
+        "address": "1915 Holton Rd Muskegon MI",
+        "longitude": -86.218922,
+        "latitude": 43.287659
     },
     {
         "id": 3268,
@@ -12558,16 +12246,16 @@
         "latitude": 25.994635
     },
     {
-        "id": 3308,
-        "address": "129 N 2ND ST MINNEAPOLIS MN",
-        "longitude": -93.257174,
-        "latitude": 44.978566
-    },
-    {
         "id": 3310,
         "address": "7650 PEMBROKE RD MIRAMAR FL",
         "longitude": -80.236978,
         "latitude": 25.994539
+    },
+    {
+        "id": 3308,
+        "address": "129 N 2ND ST MINNEAPOLIS MN",
+        "longitude": -93.27024,
+        "latitude": 44.984155
     },
     {
         "id": 3312,
@@ -12576,28 +12264,10 @@
         "latitude": 44.992156
     },
     {
-        "id": 3314,
-        "address": "214 4TH ST  MINNEAPOLIS MN",
-        "longitude": -93.27029,
-        "latitude": 44.980001
-    },
-    {
         "id": 3317,
         "address": "1937 FREMONT AVE S MINNEAPOLIS MN",
         "longitude": -93.295251,
         "latitude": 44.963195
-    },
-    {
-        "id": 3322,
-        "address": "8340 FREMONT AVE  MINNEAPOLIS MN",
-        "longitude": -93.29578,
-        "latitude": 44.950077
-    },
-    {
-        "id": 3325,
-        "address": "1325 JERSEY AVE  MINNEAPOLIS MN",
-        "longitude": -93.367745,
-        "latitude": 44.993666
     },
     {
         "id": 3327,
@@ -12738,22 +12408,10 @@
         "latitude": 25.78687
     },
     {
-        "id": 3382,
-        "address": "1419-1421 West Ave Miami Beach FL",
-        "longitude": -80.131033,
-        "latitude": 25.778939
-    },
-    {
         "id": 3341,
         "address": "2300 W 50TH ST  MINNEAPOLIS MN",
         "longitude": -93.30908,
         "latitude": 44.91262
-    },
-    {
-        "id": 3345,
-        "address": "720 6TH AVE  MINNEAPOLIS MN",
-        "longitude": -93.547007,
-        "latitude": 44.996748
     },
     {
         "id": 3347,
@@ -12796,6 +12454,36 @@
         "address": "4483 SE ROETHE RD  MILWAUKIE OR",
         "longitude": -122.616699,
         "latitude": 45.4
+    },
+    {
+        "id": 3335,
+        "address": "2451 109TH AVE  MINNEAPOLIS MN",
+        "longitude": -93.33011,
+        "latitude": 45.16881
+    },
+    {
+        "id": 3382,
+        "address": "1419-1421 West Ave Miami Beach FL",
+        "longitude": -80.14197,
+        "latitude": 25.786035
+    },
+    {
+        "id": 3345,
+        "address": "720 6TH AVE  MINNEAPOLIS MN",
+        "longitude": -93.24376,
+        "latitude": 44.98826
+    },
+    {
+        "id": 3320,
+        "address": "2539 LYNDALE AVE  MINNEAPOLIS MN",
+        "longitude": -93.287616,
+        "latitude": 44.956057
+    },
+    {
+        "id": 3322,
+        "address": "8340 FREMONT AVE  MINNEAPOLIS MN",
+        "longitude": -93.29706,
+        "latitude": 44.85182
     },
     {
         "id": 3359,
@@ -12954,36 +12642,6 @@
         "latitude": 25.795416
     },
     {
-        "id": 3414,
-        "address": "929 Michigan Ave Miami Beach FL",
-        "longitude": -80.139584,
-        "latitude": 25.795958
-    },
-    {
-        "id": 3416,
-        "address": "740 Michigan Ave Miami Beach FL",
-        "longitude": -80.13969,
-        "latitude": 25.796137
-    },
-    {
-        "id": 3418,
-        "address": "645 Michigan Ave Miami Beach FL",
-        "longitude": -80.139743,
-        "latitude": 25.796227
-    },
-    {
-        "id": 3420,
-        "address": "636 Michigan Ave Miami Beach FL",
-        "longitude": -80.139748,
-        "latitude": 25.796236
-    },
-    {
-        "id": 3422,
-        "address": "625 Michigan Ave Miami Beach FL",
-        "longitude": -80.139754,
-        "latitude": 25.796246
-    },
-    {
         "id": 3386,
         "address": "1750 S Treasure Dr Miami Beach FL",
         "longitude": -80.149049,
@@ -13032,6 +12690,24 @@
         "latitude": 25.784265
     },
     {
+        "id": 3422,
+        "address": "625 Michigan Ave Miami Beach FL",
+        "longitude": -80.138049,
+        "latitude": 25.776311
+    },
+    {
+        "id": 3418,
+        "address": "645 Michigan Ave Miami Beach FL",
+        "longitude": -80.13806,
+        "latitude": 25.776595
+    },
+    {
+        "id": 3416,
+        "address": "740 Michigan Ave Miami Beach FL",
+        "longitude": -80.138741,
+        "latitude": 25.777825
+    },
+    {
         "id": 3403,
         "address": "1010 Pennsylvania Ave Miami Beach FL",
         "longitude": -80.13432,
@@ -13050,46 +12726,10 @@
         "latitude": 25.795341
     },
     {
-        "id": 3409,
-        "address": "1040-1050 Michigan Ave Miami Beach FL",
-        "longitude": -80.139854,
-        "latitude": 25.796346
-    },
-    {
         "id": 3413,
         "address": "1607 Michigan Ave Miami Beach FL",
         "longitude": -80.139167,
         "latitude": 25.795338
-    },
-    {
-        "id": 3415,
-        "address": "845 Michigan Ave Miami Beach FL",
-        "longitude": -80.139632,
-        "latitude": 25.796037
-    },
-    {
-        "id": 3417,
-        "address": "835 MICHIGAN Ave Miami Beach FL",
-        "longitude": -80.139638,
-        "latitude": 25.796046
-    },
-    {
-        "id": 3419,
-        "address": "650 Michigan Ave Miami Beach FL",
-        "longitude": -80.13974,
-        "latitude": 25.796223
-    },
-    {
-        "id": 3421,
-        "address": "620 Michigan Ave Miami Beach FL",
-        "longitude": -80.139756,
-        "latitude": 25.796251
-    },
-    {
-        "id": 3425,
-        "address": "419 Michigan Ave Miami Beach FL",
-        "longitude": -80.139909,
-        "latitude": 25.79641
     },
     {
         "id": 3427,
@@ -13206,12 +12846,6 @@
         "latitude": 25.771639
     },
     {
-        "id": 3463,
-        "address": "333-343 Jefferson Ave Miami Beach FL",
-        "longitude": -80.1346115,
-        "latitude": 25.814182
-    },
-    {
         "id": 3424,
         "address": "3900 N Meridian Ave Miami Beach FL",
         "longitude": -80.13382,
@@ -13278,6 +12912,30 @@
         "latitude": 25.78706
     },
     {
+        "id": 3463,
+        "address": "333-343 Jefferson Ave Miami Beach FL",
+        "longitude": -80.136805,
+        "latitude": 25.773105
+    },
+    {
+        "id": 3421,
+        "address": "620 Michigan Ave Miami Beach FL",
+        "longitude": -80.138681,
+        "latitude": 25.776159
+    },
+    {
+        "id": 3409,
+        "address": "1040-1050 Michigan Ave Miami Beach FL",
+        "longitude": -80.13888,
+        "latitude": 25.78163
+    },
+    {
+        "id": 3425,
+        "address": "419 Michigan Ave Miami Beach FL",
+        "longitude": -80.138055,
+        "latitude": 25.773979
+    },
+    {
         "id": 3447,
         "address": "1685 Lenox Ave Miami Beach FL",
         "longitude": -80.139665,
@@ -13312,12 +12970,6 @@
         "address": "945 Jefferson Ave Miami Beach FL",
         "longitude": -80.13704,
         "latitude": 25.78021
-    },
-    {
-        "id": 3461,
-        "address": "918-922 Jefferson Ave Miami Beach FL",
-        "longitude": -80.1346115,
-        "latitude": 25.814182
     },
     {
         "id": 3466,
@@ -13356,30 +13008,6 @@
         "latitude": 25.79376
     },
     {
-        "id": 3478,
-        "address": "1115 Euclid Ave Miami Beach FL",
-        "longitude": -80.14289,
-        "latitude": 25.79376
-    },
-    {
-        "id": 3480,
-        "address": "1056 Euclid Ave Miami Beach FL",
-        "longitude": -80.14289,
-        "latitude": 25.79376
-    },
-    {
-        "id": 3482,
-        "address": "1026 Euclid Ave Miami Beach FL",
-        "longitude": -80.14289,
-        "latitude": 25.79376
-    },
-    {
-        "id": 3483,
-        "address": "951 Euclid Ave Miami Beach FL",
-        "longitude": -80.14289,
-        "latitude": 25.79376
-    },
-    {
         "id": 3485,
         "address": "1101 Euclid Ave Miami Beach FL",
         "longitude": -80.134826,
@@ -13390,12 +13018,6 @@
         "address": "410 Euclid Ave Miami Beach FL",
         "longitude": -80.135245,
         "latitude": 25.773905
-    },
-    {
-        "id": 3488,
-        "address": "912 Euclid Ave Miami Beach FL",
-        "longitude": -80.14289,
-        "latitude": 25.79376
     },
     {
         "id": 3490,
@@ -13506,18 +13128,6 @@
         "latitude": 25.78823
     },
     {
-        "id": 3489,
-        "address": "1040 Euclid Ave Miami Beach FL",
-        "longitude": -80.14289,
-        "latitude": 25.79376
-    },
-    {
-        "id": 3491,
-        "address": "626 Euclid Ave Miami Beach FL",
-        "longitude": -80.14289,
-        "latitude": 25.79376
-    },
-    {
         "id": 3486,
         "address": "907-911 Euclid Ave Miami Beach FL",
         "longitude": -80.1354505,
@@ -13530,16 +13140,46 @@
         "latitude": 25.787029
     },
     {
+        "id": 3480,
+        "address": "1056 Euclid Ave Miami Beach FL",
+        "longitude": -80.135359,
+        "latitude": 25.781747
+    },
+    {
+        "id": 3482,
+        "address": "1026 Euclid Ave Miami Beach FL",
+        "longitude": -80.13545,
+        "latitude": 25.781203
+    },
+    {
+        "id": 3488,
+        "address": "912 Euclid Ave Miami Beach FL",
+        "longitude": -80.1353,
+        "latitude": 25.77972
+    },
+    {
+        "id": 3491,
+        "address": "626 Euclid Ave Miami Beach FL",
+        "longitude": -80.135301,
+        "latitude": 25.776385
+    },
+    {
+        "id": 3478,
+        "address": "1115 Euclid Ave Miami Beach FL",
+        "longitude": -80.13485,
+        "latitude": 25.782169
+    },
+    {
+        "id": 3489,
+        "address": "1040 Euclid Ave Miami Beach FL",
+        "longitude": -80.13546,
+        "latitude": 25.78147
+    },
+    {
         "id": 3497,
         "address": "1335 Drexel Ave Miami Beach FL",
         "longitude": -80.132675,
         "latitude": 25.784851
-    },
-    {
-        "id": 3495,
-        "address": "7924 East Dr Miami Beach FL",
-        "longitude": -80.128339,
-        "latitude": 25.854371
     },
     {
         "id": 3505,
@@ -13644,36 +13284,6 @@
         "latitude": 25.787599
     },
     {
-        "id": 3532,
-        "address": "1239 15th St Miami Beach FL",
-        "longitude": -80.214629,
-        "latitude": 25.759294
-    },
-    {
-        "id": 3534,
-        "address": "1240 11th St Miami Beach FL",
-        "longitude": -80.224651,
-        "latitude": 25.783725
-    },
-    {
-        "id": 3536,
-        "address": "1241 13th St Miami Beach FL",
-        "longitude": -80.215183,
-        "latitude": 25.760842
-    },
-    {
-        "id": 3538,
-        "address": "622 15th St Miami Beach FL",
-        "longitude": -80.191064,
-        "latitude": 25.78951
-    },
-    {
-        "id": 3507,
-        "address": "1525 Bay Rd Miami Beach FL",
-        "longitude": -80.153213,
-        "latitude": 25.849099
-    },
-    {
         "id": 3509,
         "address": "1501 Bay Rd Miami Beach FL",
         "longitude": -80.143349,
@@ -13686,28 +13296,10 @@
         "latitude": 25.789175
     },
     {
-        "id": 3512,
-        "address": "6805-6807 Abbott Ave Miami Beach FL",
-        "longitude": -80.12014,
-        "latitude": 25.865668
-    },
-    {
-        "id": 3514,
-        "address": "237 38th St Miami Beach FL",
-        "longitude": -80.199563,
-        "latitude": 25.81181
-    },
-    {
         "id": 3516,
         "address": "356 W 46th St Miami Beach FL",
         "longitude": -80.12721,
         "latitude": 25.82056
-    },
-    {
-        "id": 3526,
-        "address": "511-515 16th St Miami Beach FL",
-        "longitude": -80.1990695,
-        "latitude": 25.790043
     },
     {
         "id": 3518,
@@ -13722,88 +13314,100 @@
         "latitude": 25.78836
     },
     {
-        "id": 3524,
-        "address": "430-440 16th St Miami Beach FL",
-        "longitude": -80.1990695,
-        "latitude": 25.790043
-    },
-    {
-        "id": 3531,
-        "address": "721 15th St Miami Beach FL",
-        "longitude": -80.185605,
-        "latitude": 25.789659
-    },
-    {
         "id": 3537,
         "address": "1038 11th St Miami Beach FL",
         "longitude": -80.212216,
         "latitude": 25.76299
     },
     {
-        "id": 3533,
-        "address": "730-742 15th St Miami Beach FL",
-        "longitude": -80.19809,
-        "latitude": 25.78945
+        "id": 3524,
+        "address": "430-440 16th St Miami Beach FL",
+        "longitude": -80.13231,
+        "latitude": 25.78903
     },
     {
-        "id": 3540,
-        "address": "627-641 10th St Miami Beach FL",
-        "longitude": -80.263174,
-        "latitude": 25.780127
-    },
-    {
-        "id": 3539,
-        "address": "790 10th St Miami Beach FL",
-        "longitude": -80.20861,
-        "latitude": 25.783317
-    },
-    {
-        "id": 3541,
-        "address": "600 12th St Miami Beach FL",
-        "longitude": -80.207114,
-        "latitude": 25.785636
-    },
-    {
-        "id": 3542,
-        "address": "541 13th St Miami Beach FL",
-        "longitude": -80.198871,
-        "latitude": 25.78685
-    },
-    {
-        "id": 3543,
-        "address": "701 10th St Miami Beach FL",
-        "longitude": -80.206989,
-        "latitude": 25.783589
-    },
-    {
-        "id": 3544,
-        "address": "1125 9th St Miami Beach FL",
-        "longitude": -80.21333,
-        "latitude": 25.764972
+        "id": 3531,
+        "address": "721 15th St Miami Beach FL",
+        "longitude": -80.13567,
+        "latitude": 25.787703
     },
     {
         "id": 3545,
         "address": "1035 9th St Miami Beach FL",
-        "longitude": -80.212274,
-        "latitude": 25.764928
+        "longitude": -80.139296,
+        "latitude": 25.77951
     },
     {
-        "id": 3546,
-        "address": "1005-1013 9th St Miami Beach FL",
-        "longitude": -80.203825,
-        "latitude": 25.765072
+        "id": 3544,
+        "address": "1125 9th St Miami Beach FL",
+        "longitude": -80.140121,
+        "latitude": 25.779479
     },
     {
-        "id": 3547,
-        "address": "830 9th St Miami Beach FL",
-        "longitude": -80.201847,
-        "latitude": 25.782582
+        "id": 3495,
+        "address": "7924 East Dr Miami Beach FL",
+        "longitude": -80.1578,
+        "latitude": 25.85158
     },
     {
-        "id": 3548,
-        "address": "940 8th St Miami Beach FL",
-        "longitude": -80.20987,
-        "latitude": 25.765953
+        "id": 3532,
+        "address": "1239 15th St Miami Beach FL",
+        "longitude": -80.142006,
+        "latitude": 25.787484
+    },
+    {
+        "id": 3534,
+        "address": "1240 11th St Miami Beach FL",
+        "longitude": -80.141837,
+        "latitude": 25.78156
+    },
+    {
+        "id": 3538,
+        "address": "622 15th St Miami Beach FL",
+        "longitude": -80.134761,
+        "latitude": 25.78727
+    },
+    {
+        "id": 3507,
+        "address": "1525 Bay Rd Miami Beach FL",
+        "longitude": -80.143358,
+        "latitude": 25.787927
+    },
+    {
+        "id": 3526,
+        "address": "511-515 16th St Miami Beach FL",
+        "longitude": -80.133429,
+        "latitude": 25.78927
+    },
+    {
+        "id": 3533,
+        "address": "730-742 15th St Miami Beach FL",
+        "longitude": -80.13567,
+        "latitude": 25.78738
+    },
+    {
+        "id": 3540,
+        "address": "627-641 10th St Miami Beach FL",
+        "longitude": -80.1343,
+        "latitude": 25.78077
+    },
+    {
+        "id": 3539,
+        "address": "790 10th St Miami Beach FL",
+        "longitude": -80.13569,
+        "latitude": 25.78055
+    },
+    {
+        "id": 3541,
+        "address": "600 12th St Miami Beach FL",
+        "longitude": -80.134385,
+        "latitude": 25.782749
+    },
+    {
+        "id": 3543,
+        "address": "701 10th St Miami Beach FL",
+        "longitude": -80.205936,
+        "latitude": 25.764265
     },
     {
         "id": 3559,
@@ -13816,30 +13420,6 @@
         "address": "10418 8th St Miami Beach FL",
         "longitude": -80.368369,
         "latitude": 25.761202
-    },
-    {
-        "id": 3551,
-        "address": "935 8th St Miami Beach FL",
-        "longitude": -80.209674,
-        "latitude": 25.765953
-    },
-    {
-        "id": 3550,
-        "address": "1150-1160 8th St Miami Beach FL",
-        "longitude": -80.47985,
-        "latitude": 25.76133
-    },
-    {
-        "id": 3552,
-        "address": "807-811 8th St Miami Beach FL",
-        "longitude": -80.263174,
-        "latitude": 25.780127
-    },
-    {
-        "id": 3553,
-        "address": "900-910 7th St Miami Beach FL",
-        "longitude": -80.263174,
-        "latitude": 25.780127
     },
     {
         "id": 3555,
@@ -13864,12 +13444,6 @@
         "address": "1971 Bay Dr Miami Beach FL",
         "longitude": -80.141495,
         "latitude": 25.850355
-    },
-    {
-        "id": 3571,
-        "address": "1025-1029 94th St Miami Beach FL",
-        "longitude": -80.239257,
-        "latitude": 25.8598575
     },
     {
         "id": 3561,
@@ -13900,18 +13474,6 @@
         "address": "7330 Harding Ave Miami Beach FL",
         "longitude": -80.122513,
         "latitude": 25.858955
-    },
-    {
-        "id": 3566,
-        "address": "1175-1185 98th St Miami Beach FL",
-        "longitude": -80.20541,
-        "latitude": 25.86489
-    },
-    {
-        "id": 3567,
-        "address": "9431-9481 Bay Harbor Ter Miami Beach FL",
-        "longitude": -80.263174,
-        "latitude": 25.780127
     },
     {
         "id": 3568,
@@ -14052,6 +13614,30 @@
         "latitude": 25.862637
     },
     {
+        "id": 3566,
+        "address": "1175-1185 98th St Miami Beach FL",
+        "longitude": -80.13292,
+        "latitude": 25.88894
+    },
+    {
+        "id": 3567,
+        "address": "9431-9481 Bay Harbor Ter Miami Beach FL",
+        "longitude": -80.13106,
+        "latitude": 25.88504
+    },
+    {
+        "id": 3548,
+        "address": "940 8th St Miami Beach FL",
+        "longitude": -80.13775,
+        "latitude": 25.77817
+    },
+    {
+        "id": 3547,
+        "address": "830 9th St Miami Beach FL",
+        "longitude": -80.137007,
+        "latitude": 25.779113
+    },
+    {
         "id": 3591,
         "address": "800 Pennsylvania Ave Miami Beach FL",
         "longitude": -80.134249,
@@ -14068,12 +13654,6 @@
         "address": "1940 Biarritz Dr Miami Beach FL",
         "longitude": -80.140826,
         "latitude": 25.850512
-    },
-    {
-        "id": 3597,
-        "address": "6890-6896 Abbott Ave Miami Beach FL",
-        "longitude": -80.12014,
-        "latitude": 25.865668
     },
     {
         "id": 3595,
@@ -14094,22 +13674,10 @@
         "latitude": 25.868808
     },
     {
-        "id": 3598,
-        "address": "1060 95th St Miami Beach FL",
-        "longitude": -80.213502,
-        "latitude": 25.86169
-    },
-    {
         "id": 3600,
         "address": "815 80th St Miami Beach FL",
         "longitude": -80.12638,
         "latitude": 25.86614
-    },
-    {
-        "id": 3601,
-        "address": "603 7th St Miami Beach FL",
-        "longitude": -80.207618,
-        "latitude": 25.782555
     },
     {
         "id": 3602,
@@ -14286,28 +13854,10 @@
         "latitude": 25.855447
     },
     {
-        "id": 3633,
-        "address": "300 17th St Miami Beach FL",
-        "longitude": -80.189032,
-        "latitude": 25.791433
-    },
-    {
         "id": 3634,
         "address": "9300 Collins Ave Miami Beach FL",
         "longitude": -80.12261,
         "latitude": 25.882585
-    },
-    {
-        "id": 3637,
-        "address": "740 83rd St Miami Beach FL",
-        "longitude": -80.127211,
-        "latitude": 25.86801
-    },
-    {
-        "id": 3636,
-        "address": "835 83rd St Miami Beach FL",
-        "longitude": -80.128165,
-        "latitude": 25.868211
     },
     {
         "id": 3635,
@@ -14316,16 +13866,22 @@
         "latitude": 25.85978
     },
     {
+        "id": 3598,
+        "address": "1060 95th St Miami Beach FL",
+        "longitude": -80.13035,
+        "latitude": 25.88568
+    },
+    {
+        "id": 3637,
+        "address": "740 83rd St Miami Beach FL",
+        "longitude": -80.18155,
+        "latitude": 25.851461
+    },
+    {
         "id": 3639,
         "address": "8118-8124 Harding Ave Miami Beach FL",
         "longitude": -80.1226315,
         "latitude": 25.868765
-    },
-    {
-        "id": 3640,
-        "address": "420 78th St Miami Beach FL",
-        "longitude": -80.189775,
-        "latitude": 25.846547
     },
     {
         "id": 3647,
@@ -14334,22 +13890,10 @@
         "latitude": 25.852059
     },
     {
-        "id": 3642,
-        "address": "115-117 N Shore Dr Miami Beach FL",
-        "longitude": -80.263174,
-        "latitude": 25.780127
-    },
-    {
         "id": 3641,
         "address": "2180 Bay Dr Miami Beach FL",
         "longitude": -80.144619,
         "latitude": 25.852346
-    },
-    {
-        "id": 3643,
-        "address": "1029 79th St Miami Beach FL",
-        "longitude": -80.151957,
-        "latitude": 25.848822
     },
     {
         "id": 3650,
@@ -14380,18 +13924,6 @@
         "address": "1725 Marseille Dr Miami Beach FL",
         "longitude": -80.138519,
         "latitude": 25.853486
-    },
-    {
-        "id": 3654,
-        "address": "1055 92nd St Miami Beach FL",
-        "longitude": -80.222685,
-        "latitude": 25.85818
-    },
-    {
-        "id": 3651,
-        "address": "7633-7635 Dickens Ave Miami Beach FL",
-        "longitude": -80.125944,
-        "latitude": 25.878279
     },
     {
         "id": 3652,
@@ -14502,12 +14034,6 @@
         "latitude": 25.861788
     },
     {
-        "id": 3670,
-        "address": "715 Michigan Ave Miami Beach FL",
-        "longitude": -80.139704,
-        "latitude": 25.796161
-    },
-    {
         "id": 3671,
         "address": "4541 Prairie Ave Miami Beach FL",
         "longitude": -80.129348,
@@ -14550,28 +14076,34 @@
         "latitude": 25.785736
     },
     {
-        "id": 3677,
-        "address": "715 EUCLID AVE MIAMI BEACH FL",
-        "longitude": -80.14289,
-        "latitude": 25.79376
-    },
-    {
         "id": 3680,
         "address": "6839 ABBOTT AVE 7 MIAMI BEACH FL",
         "longitude": -80.121979,
         "latitude": 25.853175
     },
     {
-        "id": 3682,
-        "address": "848 JEFFERSON AVE  MIAMI BEACH FL",
-        "longitude": -80.1346115,
-        "latitude": 25.814182
-    },
-    {
         "id": 3683,
         "address": "735 Meridian Ave Miami Beach FL",
         "longitude": -80.135849,
         "latitude": 25.777756
+    },
+    {
+        "id": 3640,
+        "address": "420 78th St Miami Beach FL",
+        "longitude": -80.12318,
+        "latitude": 25.86303
+    },
+    {
+        "id": 3643,
+        "address": "1029 79th St Miami Beach FL",
+        "longitude": -80.127879,
+        "latitude": 25.864656
+    },
+    {
+        "id": 3654,
+        "address": "1055 92nd St Miami Beach FL",
+        "longitude": -80.13019,
+        "latitude": 25.88316
     },
     {
         "id": 3684,
@@ -14604,12 +14136,6 @@
         "latitude": 25.859602
     },
     {
-        "id": 3689,
-        "address": "810 7th St Miami FL",
-        "longitude": -80.136441,
-        "latitude": 25.776919
-    },
-    {
         "id": 3688,
         "address": "8250 HARDING AVE  MIAMI BEACH FL",
         "longitude": -80.122619,
@@ -14638,12 +14164,6 @@
         "address": "1600 NW NORTH RIVER DR MIAMI FL",
         "longitude": -80.221593,
         "latitude": 25.78588
-    },
-    {
-        "id": 3698,
-        "address": "1014 NE 84TH ST  MIAMI FL",
-        "longitude": -80.222255,
-        "latitude": 25.851722
     },
     {
         "id": 3697,
@@ -14688,12 +14208,6 @@
         "latitude": 25.75068
     },
     {
-        "id": 3703,
-        "address": "1020 NW 45TH AVE  MIAMI FL",
-        "longitude": -80.26931,
-        "latitude": 25.761769
-    },
-    {
         "id": 3704,
         "address": "1119 NW 6TH ST MIAMI FL",
         "longitude": -80.213471,
@@ -14724,24 +14238,6 @@
         "latitude": 25.769039
     },
     {
-        "id": 3711,
-        "address": "2751 NW 7TH AVE  MIAMI FL",
-        "longitude": -80.212866,
-        "latitude": 25.758003
-    },
-    {
-        "id": 3710,
-        "address": "1640 SW 1ST ST MIAMI FL",
-        "longitude": -80.195539,
-        "latitude": 25.760512
-    },
-    {
-        "id": 3712,
-        "address": "12100 SW 60TH CT  MIAMI FL",
-        "longitude": -80.374606,
-        "latitude": 25.711649
-    },
-    {
         "id": 3713,
         "address": "3130 BIRD AVE  MIAMI FL",
         "longitude": -80.244613,
@@ -14752,12 +14248,6 @@
         "address": "1060 NE 78TH STREET RD MIAMI FL",
         "longitude": -80.175284,
         "latitude": 25.846854
-    },
-    {
-        "id": 3715,
-        "address": "1860 CORAL WAY MIAMI FL",
-        "longitude": -80.31861,
-        "latitude": 25.76961
     },
     {
         "id": 3717,
@@ -14788,12 +14278,6 @@
         "address": "4361 NW 9TH ST  MIAMI FL",
         "longitude": -80.267199,
         "latitude": 25.781291
-    },
-    {
-        "id": 3721,
-        "address": "1515 NW 18TH ST  MIAMI FL",
-        "longitude": -80.22144,
-        "latitude": 25.79235
     },
     {
         "id": 3722,
@@ -14836,6 +14320,18 @@
         "address": "437 SW 2ND ST  MIAMI FL",
         "longitude": -80.201607,
         "latitude": 25.772178
+    },
+    {
+        "id": 3710,
+        "address": "1640 SW 1ST ST MIAMI FL",
+        "longitude": -80.22193,
+        "latitude": 25.77221
+    },
+    {
+        "id": 3712,
+        "address": "12100 SW 60TH CT  MIAMI FL",
+        "longitude": -80.291409,
+        "latitude": 25.658705
     },
     {
         "id": 3729,
@@ -14988,12 +14484,6 @@
         "latitude": 41.89739
     },
     {
-        "id": 3755,
-        "address": "891 O’Hare Pky Medford OR",
-        "longitude": -122.8171835,
-        "latitude": 42.3166505
-    },
-    {
         "id": 3756,
         "address": "4411 Brownridge Ter Medford OR",
         "longitude": -122.807478,
@@ -15118,12 +14608,6 @@
         "address": "2631 Ohio State Dr SE Massillon OH",
         "longitude": -81.48485,
         "latitude": 40.7717
-    },
-    {
-        "id": 3781,
-        "address": "5010-5020 Grove St Marysville WA",
-        "longitude": -122.173419,
-        "latitude": 48.06106
     },
     {
         "id": 3779,
@@ -15318,6 +14802,12 @@
         "latitude": 34.661265
     },
     {
+        "id": 3781,
+        "address": "5010-5020 Grove St Marysville WA",
+        "longitude": -122.162602,
+        "latitude": 48.061016
+    },
+    {
         "id": 3815,
         "address": "3160 Oregon Dr Lower Burrell PA",
         "longitude": -79.702818,
@@ -15414,12 +14904,6 @@
         "latitude": 46.128287
     },
     {
-        "id": 3938,
-        "address": "2275 35TH ST  LONG ISLAND CITY NY",
-        "longitude": -73.93429,
-        "latitude": 40.758316
-    },
-    {
         "id": 3940,
         "address": "3098 44TH ST  LONG ISLAND CITY NY",
         "longitude": -73.913872,
@@ -15462,28 +14946,16 @@
         "latitude": 40.758488
     },
     {
-        "id": 3946,
-        "address": "9550 Halstead Ln, Lone Tree, Co 80124 Lone Tree  CO",
-        "longitude": -104.878385,
-        "latitude": 39.52915
+        "id": 3938,
+        "address": "2275 35TH ST  LONG ISLAND CITY NY",
+        "longitude": -73.910707,
+        "latitude": 40.773123
     },
     {
         "id": 3947,
         "address": "233 SHORE RD  LONG BEACH NY",
         "longitude": -73.657135,
         "latitude": 40.584185
-    },
-    {
-        "id": 3950,
-        "address": "9550 Halstead Ln, Lone Tree, Co 80124 Lone Tree CO",
-        "longitude": -104.878385,
-        "latitude": 39.52915
-    },
-    {
-        "id": 3951,
-        "address": "9550 Halstead Ln, Lone Tree, Co 80124 Lone Tree Co",
-        "longitude": -104.878385,
-        "latitude": 39.52915
     },
     {
         "id": 3954,
@@ -15660,6 +15132,24 @@
         "latitude": 40.68271
     },
     {
+        "id": 3946,
+        "address": "9550 Halstead Ln, Lone Tree, Co 80124 Lone Tree  CO",
+        "longitude": -104.89289,
+        "latitude": 39.562447
+    },
+    {
+        "id": 3950,
+        "address": "9550 Halstead Ln, Lone Tree, Co 80124 Lone Tree CO",
+        "longitude": -104.89289,
+        "latitude": 39.562447
+    },
+    {
+        "id": 3951,
+        "address": "9550 Halstead Ln, Lone Tree, Co 80124 Lone Tree Co",
+        "longitude": -104.89289,
+        "latitude": 39.562447
+    },
+    {
         "id": 3988,
         "address": "200 Hallmark Dr Lexington NC",
         "longitude": -80.235238,
@@ -15826,12 +15316,6 @@
         "address": "3601 VEGAS PLAZA DR LAS VEGAS NV",
         "longitude": -115.175255,
         "latitude": 36.124197
-    },
-    {
-        "id": 4052,
-        "address": "3408 TO 3412 S 90TH ST S LAKEWOOD WA",
-        "longitude": -122.518458,
-        "latitude": 47.171765
     },
     {
         "id": 4050,
@@ -16032,12 +15516,6 @@
         "latitude": 39.661945
     },
     {
-        "id": 4060,
-        "address": "13468 CLIFTON BLVD LAKEWOOD OH",
-        "longitude": -81.807316,
-        "latitude": 41.491203
-    },
-    {
         "id": 4055,
         "address": "4702 108TH ST SW LAKEWOOD WA",
         "longitude": -122.500187,
@@ -16104,6 +15582,24 @@
         "latitude": 26.59655
     },
     {
+        "id": 4051,
+        "address": "10901 TO 10923 ADDISON ST SW LAKEWOOD WA",
+        "longitude": -122.501822,
+        "latitude": 47.15787
+    },
+    {
+        "id": 4053,
+        "address": "14607 TO 14619 MURRAY RD SW LAKEWOOD WA",
+        "longitude": -122.54228,
+        "latitude": 47.12451
+    },
+    {
+        "id": 4060,
+        "address": "13468 CLIFTON BLVD LAKEWOOD OH",
+        "longitude": -81.785385,
+        "latitude": 41.491394
+    },
+    {
         "id": 4071,
         "address": "10406 116TH ST  LAKEWOOD WA",
         "longitude": -122.575492,
@@ -16132,12 +15628,6 @@
         "address": "12510 18TH ST  LAKE STEVENS WA",
         "longitude": -122.06309,
         "latitude": 48.01335
-    },
-    {
-        "id": 4073,
-        "address": "124 N Palmway, Lake Worth Lake Worth FL",
-        "longitude": -80.125745,
-        "latitude": 26.596559
     },
     {
         "id": 4076,
@@ -16236,10 +15726,16 @@
         "latitude": 41.81298
     },
     {
+        "id": 4073,
+        "address": "124 N Palmway, Lake Worth Lake Worth FL",
+        "longitude": -80.050185,
+        "latitude": 26.617275
+    },
+    {
         "id": 4095,
         "address": "200 W 265 South Rd Kokomo IN",
-        "longitude": -86.133635,
-        "latitude": 40.486444
+        "longitude": -86.16403,
+        "latitude": 40.43757
     },
     {
         "id": 4124,
@@ -16270,12 +15766,6 @@
         "address": "6520 PINE BLUFF BLVD KNOXVILLE TN",
         "longitude": -84.0502,
         "latitude": 35.95097
-    },
-    {
-        "id": 4133,
-        "address": "13611-13615 100th Ave NE Kirkland WA",
-        "longitude": -122.20668,
-        "latitude": 47.77099
     },
     {
         "id": 4132,
@@ -16324,12 +15814,6 @@
         "address": "802 KIRKLAND AVE KIRKLAND WA",
         "longitude": -122.194151,
         "latitude": 47.67584
-    },
-    {
-        "id": 4175,
-        "address": "3100 PARK AVE KANSAS CITY MO",
-        "longitude": -94.55315,
-        "latitude": 39.158047
     },
     {
         "id": 4141,
@@ -16392,12 +15876,6 @@
         "latitude": 36.27508
     },
     {
-        "id": 4151,
-        "address": "1216 E Dorothy Ln Kettering OH",
-        "longitude": -84.170786,
-        "latitude": 39.710364
-    },
-    {
         "id": 4152,
         "address": "2358 S Patterson Blvd Kettering OH",
         "longitude": -84.193611,
@@ -16438,6 +15916,30 @@
         "address": "125 SUMMIT AVE  KENT WA",
         "longitude": -122.219324,
         "latitude": 47.382221
+    },
+    {
+        "id": 4138,
+        "address": "11135 NE 128TH ST H102 KIRKLAND WA",
+        "longitude": -122.192131,
+        "latitude": 47.714544
+    },
+    {
+        "id": 4133,
+        "address": "13611-13615 100th Ave NE Kirkland WA",
+        "longitude": -122.208282,
+        "latitude": 47.722512
+    },
+    {
+        "id": 4175,
+        "address": "3100 PARK AVE KANSAS CITY MO",
+        "longitude": -94.556121,
+        "latitude": 39.069442
+    },
+    {
+        "id": 4151,
+        "address": "1216 E Dorothy Ln Kettering OH",
+        "longitude": -84.143995,
+        "latitude": 39.703509
     },
     {
         "id": 4159,
@@ -16674,6 +16176,12 @@
         "latitude": 39.65817
     },
     {
+        "id": 4160,
+        "address": "3825 89TH ST KENOSHA WI",
+        "longitude": -87.853763,
+        "latitude": 42.544
+    },
+    {
         "id": 4203,
         "address": "8201 135TH ST  JAMAICA NY",
         "longitude": -73.82275,
@@ -16756,12 +16264,6 @@
         "address": "1217 Underhill Dr Jacksonville FL",
         "longitude": -81.591075,
         "latitude": 30.33309
-    },
-    {
-        "id": 4219,
-        "address": "2206-2216 Spring Park Rd Jacksonville FL",
-        "longitude": -81.621360280112,
-        "latitude": 30.28438
     },
     {
         "id": 4220,
@@ -16908,6 +16410,12 @@
         "latitude": 30.38114
     },
     {
+        "id": 4219,
+        "address": "2206-2216 Spring Park Rd Jacksonville FL",
+        "longitude": -81.635236,
+        "latitude": 30.30258
+    },
+    {
         "id": 4247,
         "address": "1535 Blair Rd Jacksonville FL",
         "longitude": -81.831422,
@@ -17008,12 +16516,6 @@
         "address": "2045 JAMMES RD JACKSONVILLE FL",
         "longitude": -81.747193,
         "latitude": 30.280185
-    },
-    {
-        "id": 4266,
-        "address": "2930 STONEMONT ST 7-2 1-13 ST #7-2 JACKSONVILLE FL",
-        "longitude": -81.395379,
-        "latitude": 30.323763
     },
     {
         "id": 4267,
@@ -17144,8 +16646,8 @@
     {
         "id": 4290,
         "address": "5500 S Emerson Ave Indianapolis IN",
-        "longitude": -86.073594,
-        "latitude": 39.715842
+        "longitude": -86.082514,
+        "latitude": 39.686984
     },
     {
         "id": 4291,
@@ -17176,12 +16678,6 @@
         "address": "2405 E 10th St Indianapolis IN",
         "longitude": -86.120993,
         "latitude": 39.781186
-    },
-    {
-        "id": 4296,
-        "address": "632 Dr Martin Luther King Jr St Indianapolis IN",
-        "longitude": -86.13592,
-        "latitude": 39.7965
     },
     {
         "id": 4297,
@@ -17260,12 +16756,6 @@
         "address": "902 N Pennsylvania St Indianapolis IN",
         "longitude": -86.156264,
         "latitude": 39.779335
-    },
-    {
-        "id": 4310,
-        "address": "19738 GULF BLVD INDIAN SHORES FL",
-        "longitude": -82.8487194227941,
-        "latitude": 27.8946525
     },
     {
         "id": 4312,
@@ -17394,6 +16884,12 @@
         "latitude": 29.746395
     },
     {
+        "id": 4310,
+        "address": "19738 GULF BLVD INDIAN SHORES FL",
+        "longitude": -82.847775,
+        "latitude": 27.85964
+    },
+    {
         "id": 4333,
         "address": "7525 HILLCROFT ST  HOUSTON TX",
         "longitude": -95.492266,
@@ -17478,12 +16974,6 @@
         "latitude": 25.470888
     },
     {
-        "id": 4349,
-        "address": "151 SE 8TH ST HOMESTEAD FL",
-        "longitude": -80.474236,
-        "latitude": 25.477199
-    },
-    {
         "id": 4351,
         "address": "234 NE 9TH ST  HOMESTEAD FL",
         "longitude": -80.47251,
@@ -17518,12 +17008,6 @@
         "address": "2920 Pierce St. Hollywood  FL",
         "longitude": -80.166034,
         "latitude": 26.015437
-    },
-    {
-        "id": 4357,
-        "address": "315 BUCHANAN ST #1-5 HOLLYWOOD FL",
-        "longitude": -80.207159,
-        "latitude": 26.0155105
     },
     {
         "id": 4366,
@@ -17622,16 +17106,22 @@
         "latitude": 26.002091
     },
     {
-        "id": 4373,
-        "address": "1857 JEFFERSON ST HOLLYWOOD FL",
-        "longitude": -80.2111995,
-        "latitude": 26.0043105
-    },
-    {
         "id": 4374,
         "address": "1621 VAN BUREN ST HOLLYWOOD FL",
         "longitude": -80.139683,
         "latitude": 26.010002
+    },
+    {
+        "id": 4356,
+        "address": "1400 N 17TH AVE HOLLYWOOD FL",
+        "longitude": -80.141495,
+        "latitude": 26.023831
+    },
+    {
+        "id": 4373,
+        "address": "1857 JEFFERSON ST HOLLYWOOD FL",
+        "longitude": -80.144658,
+        "latitude": 26.006172
     },
     {
         "id": 4375,
@@ -17838,22 +17328,28 @@
         "latitude": 45.532689
     },
     {
-        "id": 4415,
-        "address": "5401 Main St Hilliard OH",
-        "longitude": -83.159611,
-        "latitude": 40.033814
-    },
-    {
-        "id": 4418,
-        "address": "358 W Burgundy St, Highlands Ranch, Co 80129 Highlands Ranch CO",
-        "longitude": -104.988498,
-        "latitude": 39.559131
-    },
-    {
         "id": 4419,
         "address": "304 S Scientific St High Point NC",
         "longitude": -79.953078,
         "latitude": 35.97674
+    },
+    {
+        "id": 4415,
+        "address": "5401 Main St Hilliard OH",
+        "longitude": -83.13905,
+        "latitude": 40.082838
+    },
+    {
+        "id": 4416,
+        "address": "3901-3951 Bronson Ct Hilliard OH",
+        "longitude": -83.147321,
+        "latitude": 40.032772
+    },
+    {
+        "id": 4418,
+        "address": "358 W Burgundy St, Highlands Ranch, Co 80129 Highlands Ranch CO",
+        "longitude": -104.994135,
+        "latitude": 39.544323
     },
     {
         "id": 4422,
@@ -18096,12 +17592,6 @@
         "latitude": 35.3135
     },
     {
-        "id": 4461,
-        "address": "2158-2204 Howard Gap Rd Hendersonville NC",
-        "longitude": -82.4377416666667,
-        "latitude": 35.3551543333333
-    },
-    {
         "id": 4463,
         "address": "1000 W Young Ave Henderson NC",
         "longitude": -78.419618,
@@ -18216,12 +17706,6 @@
         "latitude": 25.994232
     },
     {
-        "id": 4486,
-        "address": "1008 NE 10TH ST HALLANDALE BEACH FL",
-        "longitude": -80.160839,
-        "latitude": 25.995296
-    },
-    {
         "id": 4485,
         "address": "212 NW 3RD ST HALLANDALE BEACH FL",
         "longitude": -80.150711,
@@ -18282,12 +17766,6 @@
         "latitude": 34.223818
     },
     {
-        "id": 4495,
-        "address": "8300 E Prentice Ave, Greenwood Village, Co 80111 Greenwood Village CO",
-        "longitude": -104.878297,
-        "latitude": 39.605102
-    },
-    {
         "id": 4494,
         "address": "2624 SE 182ND AVE  GRESHAM OR",
         "longitude": -122.475087,
@@ -18340,6 +17818,12 @@
         "address": "1397 Westpointe Dr Greenville NC",
         "longitude": -77.42985,
         "latitude": 35.601835
+    },
+    {
+        "id": 4504,
+        "address": "945-955 Spring Forest Rd Greenville NC",
+        "longitude": -77.408476,
+        "latitude": 35.594106
     },
     {
         "id": 4506,
@@ -18418,12 +17902,6 @@
         "address": "405 PALADIN DR GREENVILLE NC",
         "longitude": -77.410368,
         "latitude": 35.620423
-    },
-    {
-        "id": 4521,
-        "address": "121 Wedgewood Dr Greenville NC",
-        "longitude": -77.309036,
-        "latitude": 35.56762
     },
     {
         "id": 4520,
@@ -18762,12 +18240,6 @@
         "latitude": 40.40992
     },
     {
-        "id": 4585,
-        "address": "400 5TH ST  GREAT FALLS MT",
-        "longitude": -111.300851,
-        "latitude": 47.499796
-    },
-    {
         "id": 4584,
         "address": "1317 ROSITA DR  GREAT FALLS MT",
         "longitude": -111.33751,
@@ -18820,6 +18292,12 @@
         "address": "20 Leonard St NW Grand Rapids MI",
         "longitude": -85.669276,
         "latitude": 42.984537
+    },
+    {
+        "id": 4585,
+        "address": "400 5TH ST  GREAT FALLS MT",
+        "longitude": -111.29927,
+        "latitude": 47.51
     },
     {
         "id": 4595,
@@ -19200,12 +18678,6 @@
         "latitude": 41.04776
     },
     {
-        "id": 4672,
-        "address": "1250 Ralph St Fort Wayne IN",
-        "longitude": -85.138602,
-        "latitude": 41.07999
-    },
-    {
         "id": 4673,
         "address": "2908 Lynn Ave Fort Wayne IN",
         "longitude": -85.102119,
@@ -19264,6 +18736,12 @@
         "address": "1400 NE 53RD CT FORT LAUDERDALE FL",
         "longitude": -80.130601,
         "latitude": 26.193707
+    },
+    {
+        "id": 4672,
+        "address": "1250 Ralph St Fort Wayne IN",
+        "longitude": -85.159166,
+        "latitude": 41.099178
     },
     {
         "id": 4688,
@@ -19356,12 +18834,6 @@
         "latitude": 26.190995
     },
     {
-        "id": 4700,
-        "address": "740 Ne 13Th Ct Fort Lauderdale FL",
-        "longitude": -80.121414,
-        "latitude": 26.142758
-    },
-    {
         "id": 4698,
         "address": "2412 Ne 26Th St Fort Lauderdale FL",
         "longitude": -80.11565,
@@ -19402,12 +18874,6 @@
         "address": "1400 NE 56TH ST FORT LAUDERDALE FL",
         "longitude": -80.130637,
         "latitude": 26.19601
-    },
-    {
-        "id": 4705,
-        "address": "707 Ne 14Th St Fort Lauderdale FL",
-        "longitude": -80.155296,
-        "latitude": 26.143404
     },
     {
         "id": 4708,
@@ -19452,12 +18918,6 @@
         "latitude": 26.118975
     },
     {
-        "id": 4715,
-        "address": "525 NW 2ND AVE FORT LAUDERDALE FL",
-        "longitude": -80.145743,
-        "latitude": 26.116003
-    },
-    {
         "id": 4722,
         "address": "1107 NE 1ST ST FORT LAUDERDALE FL",
         "longitude": -80.1319,
@@ -19482,12 +18942,6 @@
         "latitude": 26.201268
     },
     {
-        "id": 4720,
-        "address": "519 SW 27TH AVE FORT LAUDERDALE FL",
-        "longitude": -80.178144,
-        "latitude": 26.127903
-    },
-    {
         "id": 4721,
         "address": "824 NE 17TH TER FORT LAUDERDALE FL",
         "longitude": -80.124505,
@@ -19500,10 +18954,22 @@
         "latitude": 26.120037
     },
     {
-        "id": 4726,
-        "address": "2615 NE 49TH ST FORT LAUDERDALE FL",
-        "longitude": -80.178612,
-        "latitude": 26.187114
+        "id": 4705,
+        "address": "707 Ne 14Th St Fort Lauderdale FL",
+        "longitude": -80.136565,
+        "latitude": 26.14442
+    },
+    {
+        "id": 4683,
+        "address": "4200 Pan Am Boulevard Fort Pierce FL",
+        "longitude": -80.37413,
+        "latitude": 27.4885
+    },
+    {
+        "id": 4700,
+        "address": "740 Ne 13Th Ct Fort Lauderdale FL",
+        "longitude": -80.13586,
+        "latitude": 26.14327
     },
     {
         "id": 4727,
@@ -19530,22 +18996,10 @@
         "latitude": 26.12564
     },
     {
-        "id": 4730,
-        "address": "1911 NE 8TH CT FORT LAUDERDALE FL",
-        "longitude": -80.167093,
-        "latitude": 26.133227
-    },
-    {
         "id": 4731,
         "address": "1336 NE 5TH AVE FORT LAUDERDALE FL",
         "longitude": -80.13936,
         "latitude": 26.14372
-    },
-    {
-        "id": 4732,
-        "address": "1820 NE 26TH AVE FORT LAUDERDALE FL",
-        "longitude": -80.112338,
-        "latitude": 26.150866
     },
     {
         "id": 4733,
@@ -19558,12 +19012,6 @@
         "address": "1220 MIAMI RD  FORT LAUDERDALE FL",
         "longitude": -80.13586,
         "latitude": 26.10693
-    },
-    {
-        "id": 4735,
-        "address": "515 SE 9TH ST FORT LAUDERDALE FL",
-        "longitude": -80.14876,
-        "latitude": 26.111357
     },
     {
         "id": 4736,
@@ -19582,12 +19030,6 @@
         "address": "415 SE 11TH CT FORT LAUDERDALE FL",
         "longitude": -80.138463,
         "latitude": 26.108803
-    },
-    {
-        "id": 4739,
-        "address": "1612 SE 12TH ST APT 17 FORT LAUDERDALE FL",
-        "longitude": -80.195005,
-        "latitude": 26.104692
     },
     {
         "id": 4740,
@@ -19662,12 +19104,6 @@
         "latitude": 26.206343
     },
     {
-        "id": 4760,
-        "address": "1501 BAYVIEW DR 10 FORT LAUDERDALE FL",
-        "longitude": -80.143379,
-        "latitude": 26.122308
-    },
-    {
         "id": 4765,
         "address": "125 N MELDRUM ST FORT COLLINS CO",
         "longitude": -105.082971,
@@ -19684,6 +19120,42 @@
         "address": "4006 149TH ST  FLUSHING NY",
         "longitude": -73.816485,
         "latitude": 40.76287
+    },
+    {
+        "id": 4726,
+        "address": "2615 NE 49TH ST FORT LAUDERDALE FL",
+        "longitude": -80.110099,
+        "latitude": 26.18898
+    },
+    {
+        "id": 4760,
+        "address": "1501 BAYVIEW DR 10 FORT LAUDERDALE FL",
+        "longitude": -80.111805,
+        "latitude": 26.146668
+    },
+    {
+        "id": 4730,
+        "address": "1911 NE 8TH CT FORT LAUDERDALE FL",
+        "longitude": -80.120737,
+        "latitude": 26.135828
+    },
+    {
+        "id": 4732,
+        "address": "1820 NE 26TH AVE FORT LAUDERDALE FL",
+        "longitude": -80.177436,
+        "latitude": 26.149786
+    },
+    {
+        "id": 4735,
+        "address": "515 SE 9TH ST FORT LAUDERDALE FL",
+        "longitude": -80.137723,
+        "latitude": 26.111564
+    },
+    {
+        "id": 4739,
+        "address": "1612 SE 12TH ST APT 17 FORT LAUDERDALE FL",
+        "longitude": -80.126231,
+        "latitude": 26.107713
     },
     {
         "id": 4767,
@@ -19768,12 +19240,6 @@
         "address": "8842 50TH AVE  FLUSHING NY",
         "longitude": -73.874424,
         "latitude": 40.739955
-    },
-    {
-        "id": 4782,
-        "address": "5914 175TH ST  FLUSHING NY",
-        "longitude": -73.784462,
-        "latitude": 40.704951
     },
     {
         "id": 4783,
@@ -20052,12 +19518,6 @@
         "latitude": 39.861095
     },
     {
-        "id": 4831,
-        "address": "9200 Elm Ct, Federal Heights, Co 80260 Federal Heights CO",
-        "longitude": -105.011361,
-        "latitude": 39.865102
-    },
-    {
         "id": 4832,
         "address": "1033 Appamattox Ct Fayetteville NC",
         "longitude": -78.897682,
@@ -20104,12 +19564,6 @@
         "address": "1404 Deer Trail Dr Fayetteville NC",
         "longitude": -79.05458,
         "latitude": 35.0558
-    },
-    {
-        "id": 4842,
-        "address": "502 Setter Dr Fayetteville NC",
-        "longitude": -78.878292,
-        "latitude": 35.052576
     },
     {
         "id": 4841,
@@ -20166,22 +19620,16 @@
         "latitude": 42.455202
     },
     {
-        "id": 4854,
-        "address": "3810 25TH ST S FARGO ND",
-        "longitude": -96.819674,
-        "latitude": 46.75121
+        "id": 4842,
+        "address": "502 Setter Dr Fayetteville NC",
+        "longitude": -78.88696,
+        "latitude": 35.12529
     },
     {
-        "id": 4855,
-        "address": "27883 INDEPENDENCE ST 103G FARMINGTON HILLS MI",
-        "longitude": -83.377155,
-        "latitude": 42.485313
-    },
-    {
-        "id": 4856,
-        "address": "4310 47TH ST  FARGO ND",
-        "longitude": -96.865254,
-        "latitude": 46.934223
+        "id": 4831,
+        "address": "9200 Elm Ct, Federal Heights, Co 80260 Federal Heights CO",
+        "longitude": -105.02256,
+        "latitude": 39.8635
     },
     {
         "id": 4857,
@@ -20196,34 +19644,10 @@
         "latitude": 46.855003
     },
     {
-        "id": 4858,
-        "address": "4230 47TH ST  FARGO ND",
-        "longitude": -96.865264,
-        "latitude": 46.935063
-    },
-    {
         "id": 4861,
         "address": "1232 BEACH 9TH ST  FAR ROCKAWAY NY",
         "longitude": -73.746334,
         "latitude": 40.608579
-    },
-    {
-        "id": 4860,
-        "address": "1401 27TH AVE S FARGO ND",
-        "longitude": -96.810573,
-        "latitude": 46.838368
-    },
-    {
-        "id": 4862,
-        "address": "3725 WARRENSVILLE CENTER RD Fairview Park OH",
-        "longitude": -81.852652,
-        "latitude": 41.446173
-    },
-    {
-        "id": 4863,
-        "address": "20600 LORAIN RD FAIRVIEW PARK OH",
-        "longitude": -81.83307,
-        "latitude": 41.45225
     },
     {
         "id": 4873,
@@ -20242,12 +19666,6 @@
         "address": "3977 WOODRIDGE BLVD FAIRFIELD OH",
         "longitude": -84.495302,
         "latitude": 39.307539
-    },
-    {
-        "id": 4867,
-        "address": "45 HIGH ST FAIRPORT HARBOR OH",
-        "longitude": -81.277117,
-        "latitude": 41.756735
     },
     {
         "id": 4869,
@@ -20412,6 +19830,36 @@
         "latitude": 42.04606
     },
     {
+        "id": 4855,
+        "address": "27883 INDEPENDENCE ST 103G FARMINGTON HILLS MI",
+        "longitude": -83.324072,
+        "latitude": 42.448805
+    },
+    {
+        "id": 4862,
+        "address": "3725 WARRENSVILLE CENTER RD Fairview Park OH",
+        "longitude": -81.534629,
+        "latitude": 41.457949
+    },
+    {
+        "id": 4863,
+        "address": "20600 LORAIN RD FAIRVIEW PARK OH",
+        "longitude": -81.848652,
+        "latitude": 41.448395
+    },
+    {
+        "id": 4867,
+        "address": "45 HIGH ST FAIRPORT HARBOR OH",
+        "longitude": -81.24379,
+        "latitude": 41.721031
+    },
+    {
+        "id": 4854,
+        "address": "3810 25TH ST S FARGO ND",
+        "longitude": -96.81932,
+        "latitude": 46.82092
+    },
+    {
         "id": 4904,
         "address": "2620 CENTRAL ST  EVANSTON IL",
         "longitude": -87.71005,
@@ -20568,12 +20016,6 @@
         "latitude": 39.62569
     },
     {
-        "id": 4931,
-        "address": "10450 Spring Green Dr, Englewood, Co 80112 Englewood CO",
-        "longitude": -104.87676,
-        "latitude": 39.591823
-    },
-    {
         "id": 4933,
         "address": "3430 S Grant St, Englewood, Co 80113 Englewood CO",
         "longitude": -104.987964,
@@ -20604,12 +20046,6 @@
         "latitude": 39.65254
     },
     {
-        "id": 4939,
-        "address": "3444 S Marion St, Englewood, Co 80113 Englewood CO",
-        "longitude": -104.987964,
-        "latitude": 39.648206
-    },
-    {
         "id": 4938,
         "address": "3655 S Delaware St, Englewood, Co 80110 Englewood CO",
         "longitude": -104.998581,
@@ -20620,6 +20056,18 @@
         "address": "3421 S Downing St, Englewood, Co 80113 Englewood CO",
         "longitude": -104.973868,
         "latitude": 39.654605
+    },
+    {
+        "id": 4939,
+        "address": "3444 S Marion St, Englewood, Co 80113 Englewood CO",
+        "longitude": -104.972068,
+        "latitude": 39.654065
+    },
+    {
+        "id": 4931,
+        "address": "10450 Spring Green Dr, Englewood, Co 80112 Englewood CO",
+        "longitude": -104.86698,
+        "latitude": 39.57312
     },
     {
         "id": 4941,
@@ -20790,10 +20238,10 @@
         "latitude": 47.809946
     },
     {
-        "id": 4984,
-        "address": "21822-21830 76th Ave W Edmonds WA",
-        "longitude": -122.5392069,
-        "latitude": 47.2407814
+        "id": 4961,
+        "address": "1159 S US 17 Hwy Elizabeth City NC",
+        "longitude": -76.311214,
+        "latitude": 36.380423
     },
     {
         "id": 4985,
@@ -20922,12 +20370,6 @@
         "latitude": 42.758378
     },
     {
-        "id": 5011,
-        "address": "250 E Saginaw St East Lansing MI",
-        "longitude": -84.547118,
-        "latitude": 42.740814
-    },
-    {
         "id": 5014,
         "address": "16901 MEADOW CREEK DR  EAGLE RIVER AK",
         "longitude": -149.566046,
@@ -20964,12 +20406,6 @@
         "latitude": 35.980707
     },
     {
-        "id": 5026,
-        "address": "2129 Chapel Hill Rd Durham NC",
-        "longitude": -78.938067,
-        "latitude": 35.971315
-    },
-    {
         "id": 5021,
         "address": "14 Wood Cottage Ct Durham NC",
         "longitude": -78.92447,
@@ -21000,12 +20436,6 @@
         "latitude": 35.900211
     },
     {
-        "id": 5024,
-        "address": "1520 Chapel Hill Rd Durham NC",
-        "longitude": -78.938067,
-        "latitude": 35.971315
-    },
-    {
         "id": 5025,
         "address": "1332 Fidelity Dr Durham NC",
         "longitude": -78.869892,
@@ -21022,6 +20452,36 @@
         "address": "902-904 Lambeth Cir Durham NC",
         "longitude": -78.94914,
         "latitude": 36.00702
+    },
+    {
+        "id": 5026,
+        "address": "2129 Chapel Hill Rd Durham NC",
+        "longitude": -78.92937,
+        "latitude": 35.98395
+    },
+    {
+        "id": 5011,
+        "address": "250 E Saginaw St East Lansing MI",
+        "longitude": -84.481067,
+        "latitude": 42.746294
+    },
+    {
+        "id": 5024,
+        "address": "1520 Chapel Hill Rd Durham NC",
+        "longitude": -78.922803,
+        "latitude": 35.993988
+    },
+    {
+        "id": 4984,
+        "address": "21822-21830 76th Ave W Edmonds WA",
+        "longitude": -122.33603,
+        "latitude": 47.800695
+    },
+    {
+        "id": 4994,
+        "address": "216 N Oakland Ave Eden NC",
+        "longitude": -79.777656,
+        "latitude": 36.507175
     },
     {
         "id": 5031,
@@ -21126,12 +20586,6 @@
         "latitude": 34.933677
     },
     {
-        "id": 5051,
-        "address": "255-318 5 Points Rd Dudley NC",
-        "longitude": -78.645874,
-        "latitude": 35.804059
-    },
-    {
         "id": 5052,
         "address": "221 W 4TH ST  DULUTH MN",
         "longitude": -92.106094,
@@ -21186,22 +20640,10 @@
         "latitude": 41.526983
     },
     {
-        "id": 5062,
-        "address": "4532 DOUGLAS AVE DES MOINES IA",
-        "longitude": -93.524059,
-        "latitude": 41.629602
-    },
-    {
         "id": 5063,
         "address": "1015 MEADOW LN DES MOINES IA",
         "longitude": -93.62805,
         "latitude": 41.51633
-    },
-    {
-        "id": 5064,
-        "address": "535 35TH ST DES MOINES IA",
-        "longitude": -93.545,
-        "latitude": 41.585426
     },
     {
         "id": 5066,
@@ -21214,12 +20656,6 @@
         "address": "1011 S KENT DES MOINES RD DES MOINES WA",
         "longitude": -122.32063,
         "latitude": 47.39502
-    },
-    {
-        "id": 5069,
-        "address": "707 18TH ST DES MOINES IA",
-        "longitude": -93.587151,
-        "latitude": 41.583562
     },
     {
         "id": 5071,
@@ -21244,6 +20680,30 @@
         "address": "423 E PHILIP ST  DES MOINES IA",
         "longitude": -93.608029,
         "latitude": 41.542162
+    },
+    {
+        "id": 5051,
+        "address": "255-318 5 Points Rd Dudley NC",
+        "longitude": -78.0362,
+        "latitude": 35.33284
+    },
+    {
+        "id": 5062,
+        "address": "4532 DOUGLAS AVE DES MOINES IA",
+        "longitude": -93.68035,
+        "latitude": 41.62917
+    },
+    {
+        "id": 5064,
+        "address": "535 35TH ST DES MOINES IA",
+        "longitude": -93.663854,
+        "latitude": 41.585345
+    },
+    {
+        "id": 5069,
+        "address": "707 18TH ST DES MOINES IA",
+        "longitude": -93.640982,
+        "latitude": 41.590629
     },
     {
         "id": 5090,
@@ -21456,12 +20916,6 @@
         "latitude": 39.72968
     },
     {
-        "id": 5131,
-        "address": "3665 S Julian St, Denver, Co 80236 Denver CO",
-        "longitude": -105.01918,
-        "latitude": 39.676506
-    },
-    {
         "id": 5130,
         "address": "2924 S Federal Blvd, Denver, Co 80236 Denver CO",
         "longitude": -105.024458,
@@ -21618,12 +21072,6 @@
         "latitude": 39.728747
     },
     {
-        "id": 5158,
-        "address": "4675 S Monaco St, Denver, Co 80237 Denver CO",
-        "longitude": -104.910741,
-        "latitude": 39.641021
-    },
-    {
         "id": 5159,
         "address": "2831 W 27Th Ave, Denver, Co 80211 Denver CO",
         "longitude": -105.023056,
@@ -21762,12 +21210,6 @@
         "latitude": 39.76175
     },
     {
-        "id": 5184,
-        "address": "2135 S Depew St, Denver, Co 80227 Denver CO",
-        "longitude": -105.07969,
-        "latitude": 39.66576
-    },
-    {
         "id": 5186,
         "address": "3201 Arapahoe St, Denver, Co 80205 Denver CO",
         "longitude": -104.97524,
@@ -21798,28 +21240,22 @@
         "latitude": 39.66628
     },
     {
-        "id": 5191,
-        "address": "4900 Trenton St, Denver, Co 80238 Denver CO",
-        "longitude": -104.913317,
-        "latitude": 39.738118
-    },
-    {
         "id": 5193,
         "address": "1323 N Gilpin St, Denver, Co 80218 Denver CO",
         "longitude": -104.967598,
         "latitude": 39.73727
     },
     {
-        "id": 5192,
-        "address": "2635 Federal Blvd, Denver, Co 80211 Denver CO",
-        "longitude": -105.025704,
-        "latitude": 39.755759
-    },
-    {
         "id": 5281,
         "address": "5233 GROVE ST DENVER CO",
         "longitude": -105.028725,
         "latitude": 39.791735
+    },
+    {
+        "id": 5184,
+        "address": "2135 S Depew St, Denver, Co 80227 Denver CO",
+        "longitude": -105.05781,
+        "latitude": 39.67768
     },
     {
         "id": 5196,
@@ -21864,12 +21300,6 @@
         "latitude": 39.679025
     },
     {
-        "id": 5204,
-        "address": "6275 Kearney St, Commerce City, Co 80022 Denver CO",
-        "longitude": -104.933868,
-        "latitude": 39.80832
-    },
-    {
         "id": 5205,
         "address": "6925 Broadway, Denver, Co 80221 Denver CO",
         "longitude": -104.987886,
@@ -21892,12 +21322,6 @@
         "address": "7582 E Technology Way, Denver, Co 80237 Denver CO",
         "longitude": -104.90104,
         "latitude": 39.62981
-    },
-    {
-        "id": 5210,
-        "address": "4400 E Mississippi Ave, Denver, Co 80246 Denver CO",
-        "longitude": -104.94739,
-        "latitude": 39.68552
     },
     {
         "id": 5212,
@@ -22038,6 +21462,18 @@
         "latitude": 39.662225
     },
     {
+        "id": 5210,
+        "address": "4400 E Mississippi Ave, Denver, Co 80246 Denver CO",
+        "longitude": -104.93623,
+        "latitude": 39.69651
+    },
+    {
+        "id": 5204,
+        "address": "6275 Kearney St, Commerce City, Co 80022 Denver CO",
+        "longitude": -104.918067,
+        "latitude": 39.810515
+    },
+    {
         "id": 5236,
         "address": "4587 FEDERAL BLVD #4591 DENVER CO",
         "longitude": -105.02556,
@@ -22120,12 +21556,6 @@
         "address": "1105 N CLARKSON ST DENVER CO",
         "longitude": -104.977918,
         "latitude": 39.733889
-    },
-    {
-        "id": 5251,
-        "address": "8805 E 12Th Ave, Denver, Co 80220 Denver CO",
-        "longitude": -104.92451,
-        "latitude": 39.73475
     },
     {
         "id": 5249,
@@ -22692,12 +22122,6 @@
         "latitude": 29.198448
     },
     {
-        "id": 5351,
-        "address": "3104-3200 W Riverview Ave Dayton OH",
-        "longitude": -84.219954375,
-        "latitude": 39.7629185
-    },
-    {
         "id": 5353,
         "address": "601 Xenia Ave Dayton OH",
         "longitude": -84.16733,
@@ -22714,18 +22138,6 @@
         "address": "602 St Paul Ave Dayton OH",
         "longitude": -84.16269,
         "latitude": 39.75046
-    },
-    {
-        "id": 5360,
-        "address": "3515-3519 W Siebenthaler Ave Dayton OH",
-        "longitude": -84.232424,
-        "latitude": 39.798595
-    },
-    {
-        "id": 5354,
-        "address": "2605-2609 Revere Ave Dayton OH",
-        "longitude": -84.6879678571429,
-        "latitude": 39.1096065
     },
     {
         "id": 5358,
@@ -22746,28 +22158,10 @@
         "latitude": 39.648954
     },
     {
-        "id": 5357,
-        "address": "1584-1592 Woodman Dr Dayton OH",
-        "longitude": -84.12437,
-        "latitude": 39.7217
-    },
-    {
         "id": 5363,
         "address": "315-335 Hillview Ct Dayton OH",
         "longitude": -84.306225,
         "latitude": 39.7989
-    },
-    {
-        "id": 5362,
-        "address": "310-316 Superior Ave Dayton OH",
-        "longitude": -84.21591,
-        "latitude": 39.76582
-    },
-    {
-        "id": 5364,
-        "address": "1430-1434 N James H Mcgee Blvd Dayton OH",
-        "longitude": -84.22353,
-        "latitude": 39.75028
     },
     {
         "id": 5367,
@@ -22780,6 +22174,42 @@
         "address": "1333 W Fairview Ave Dayton OH",
         "longitude": -84.231663,
         "latitude": 39.787574
+    },
+    {
+        "id": 5354,
+        "address": "2605-2609 Revere Ave Dayton OH",
+        "longitude": -84.151196,
+        "latitude": 39.731429
+    },
+    {
+        "id": 5362,
+        "address": "310-316 Superior Ave Dayton OH",
+        "longitude": -84.205466,
+        "latitude": 39.766725
+    },
+    {
+        "id": 5364,
+        "address": "1430-1434 N James H Mcgee Blvd Dayton OH",
+        "longitude": -84.23995,
+        "latitude": 39.7674
+    },
+    {
+        "id": 5365,
+        "address": "5430-5472 Hoover Ave Dayton OH",
+        "longitude": -84.28087,
+        "latitude": 39.76109
+    },
+    {
+        "id": 5368,
+        "address": "2030-2036 Catalpa Dr Dayton OH",
+        "longitude": -84.22513,
+        "latitude": 39.78481
+    },
+    {
+        "id": 5360,
+        "address": "3515-3519 W Siebenthaler Ave Dayton OH",
+        "longitude": -84.24606,
+        "latitude": 39.79819
     },
     {
         "id": 5366,
@@ -22806,12 +22236,6 @@
         "latitude": 39.74696
     },
     {
-        "id": 5372,
-        "address": "7835-7837 N Main St Dayton OH",
-        "longitude": -84.19613,
-        "latitude": 39.77129
-    },
-    {
         "id": 5374,
         "address": "4700 Germantown Pike Dayton OH",
         "longitude": -84.26621,
@@ -22822,12 +22246,6 @@
         "address": "1321-1341 Redbluff Dr Dayton OH",
         "longitude": -84.23365,
         "latitude": 39.66311
-    },
-    {
-        "id": 5376,
-        "address": "255 N Main St Dayton OH",
-        "longitude": -84.19324,
-        "latitude": 39.763475
     },
     {
         "id": 5377,
@@ -23032,6 +22450,18 @@
         "address": "4241 BUENA VISTA ST  DALLAS TX",
         "longitude": -96.794874,
         "latitude": 32.817908
+    },
+    {
+        "id": 5372,
+        "address": "7835-7837 N Main St Dayton OH",
+        "longitude": -84.25669,
+        "latitude": 39.83696
+    },
+    {
+        "id": 5376,
+        "address": "255 N Main St Dayton OH",
+        "longitude": -84.15875,
+        "latitude": 39.63539
     },
     {
         "id": 5415,
@@ -23466,6 +22896,18 @@
         "latitude": 40.08978
     },
     {
+        "id": 5491,
+        "address": "363-379 Roosevelt Ave Columbus OH",
+        "longitude": -82.925579,
+        "latitude": 39.97874
+    },
+    {
+        "id": 5486,
+        "address": "742-766 Robinwood Ave Columbus OH",
+        "longitude": -82.8972,
+        "latitude": 39.95802
+    },
+    {
         "id": 5498,
         "address": "32-36 Viotis Dr Columbus OH",
         "longitude": -83.10061,
@@ -23548,12 +22990,6 @@
         "address": "1524 Neil Ave Columbus OH",
         "longitude": -83.013641,
         "latitude": 39.99258
-    },
-    {
-        "id": 5517,
-        "address": "730-748 N Nelson Rd Columbus OH",
-        "longitude": -82.943488,
-        "latitude": 39.973224
     },
     {
         "id": 5515,
@@ -23676,12 +23112,6 @@
         "latitude": 39.978275
     },
     {
-        "id": 5537,
-        "address": "320 S Grener Ave Columbus OH",
-        "longitude": -83.12177,
-        "latitude": 39.9593
-    },
-    {
         "id": 5536,
         "address": "1855 E Rich St Columbus OH",
         "longitude": -82.949795,
@@ -23710,6 +23140,18 @@
         "address": "1770 Summit St Columbus OH",
         "longitude": -83.000845,
         "latitude": 39.998944
+    },
+    {
+        "id": 5520,
+        "address": "1162 Franklin Ave Columbus OH",
+        "longitude": -82.96879,
+        "latitude": 39.96196
+    },
+    {
+        "id": 5509,
+        "address": "937-951 N High St Columbus OH",
+        "longitude": -83.004769,
+        "latitude": 39.981416
     },
     {
         "id": 5539,
@@ -23758,6 +23200,12 @@
         "address": "2265 Eakin Rd Columbus OH",
         "longitude": -83.056835,
         "latitude": 39.933153
+    },
+    {
+        "id": 5552,
+        "address": "83-85 E 9th Ave Columbus OH",
+        "longitude": -82.997388,
+        "latitude": 39.99319
     },
     {
         "id": 5553,
@@ -23878,6 +23326,12 @@
         "address": "105 W BROADWAY COLUMBIA MO",
         "longitude": -92.33959,
         "latitude": 38.95183
+    },
+    {
+        "id": 5543,
+        "address": "5400 Cedar Springs Rd Columbus OH",
+        "longitude": -83.153886,
+        "latitude": 39.966636
     },
     {
         "id": 5621,
@@ -24066,12 +23520,6 @@
         "latitude": 41.52044
     },
     {
-        "id": 5657,
-        "address": "1374 WEST BLVD CLEVELAND OH",
-        "longitude": -81.616481,
-        "latitude": 41.519949
-    },
-    {
         "id": 5647,
         "address": "2501 N TAYLOR RD CLEVELAND HEIGHTS OH",
         "longitude": -81.554922,
@@ -24154,6 +23602,12 @@
         "address": "300 JONES ST CLEARWATER FL",
         "longitude": -82.80228,
         "latitude": 27.96931
+    },
+    {
+        "id": 5657,
+        "address": "1374 WEST BLVD CLEVELAND OH",
+        "longitude": -81.75073,
+        "latitude": 41.480345
     },
     {
         "id": 5669,
@@ -24520,12 +23974,6 @@
         "address": "7115 S EAST END AVE #25 CHICAGO IL",
         "longitude": -87.58313,
         "latitude": 41.76554
-    },
-    {
-        "id": 5738,
-        "address": "3422 W FOSTER AVE #24 CHICAGO IL",
-        "longitude": -87.73963,
-        "latitude": 41.97977
     },
     {
         "id": 5739,
@@ -24928,12 +24376,6 @@
         "address": "5254 N GLENWOOD AVE  CHICAGO IL",
         "longitude": -87.66533,
         "latitude": 41.97787
-    },
-    {
-        "id": 5810,
-        "address": "5054 N WOLCOTT AVE  CHICAGO IL",
-        "longitude": -87.814465,
-        "latitude": 41.974395
     },
     {
         "id": 5811,
@@ -25458,12 +24900,6 @@
         "latitude": 35.25588
     },
     {
-        "id": 5929,
-        "address": "363-369 King St Charleston SC",
-        "longitude": -79.931903,
-        "latitude": 32.770975
-    },
-    {
         "id": 5930,
         "address": "900-930 E Estates Blvd Charleston SC",
         "longitude": -80.049838,
@@ -25492,6 +24928,12 @@
         "address": "1551 SAM RITTENBERG BLVD APT 263 CHARLESTON SC",
         "longitude": -80.006844,
         "latitude": 32.807725
+    },
+    {
+        "id": 5929,
+        "address": "363-369 King St Charleston SC",
+        "longitude": -79.93624,
+        "latitude": 32.785046
     },
     {
         "id": 5933,
@@ -25536,12 +24978,6 @@
         "latitude": 28.9444647055242
     },
     {
-        "id": 5947,
-        "address": "1020 Highland Ridge Way, Castle Rock, Co 80109 Castle Rock CO",
-        "longitude": -104.903503,
-        "latitude": 39.401957
-    },
-    {
         "id": 5949,
         "address": "1749-1B Dobbins Dr Chapel Hill NC",
         "longitude": -79.01699,
@@ -25582,12 +25018,6 @@
         "address": "104 Brogan Pl Cary NC",
         "longitude": -78.78547,
         "latitude": 35.76431
-    },
-    {
-        "id": 5952,
-        "address": "2264 Castlegate Dr N, Castle Rock, Co 80108 Castle Rock CO",
-        "longitude": -104.879878,
-        "latitude": 39.470593
     },
     {
         "id": 5950,
@@ -25674,12 +25104,6 @@
         "latitude": 41.43523
     },
     {
-        "id": 5967,
-        "address": "535 W Castle Pines Pkwy, Castle Pines, Co 80108 Castle Pines CO",
-        "longitude": -104.896026,
-        "latitude": 39.472658
-    },
-    {
         "id": 5968,
         "address": "420 LARK DR CARMEL IN",
         "longitude": -86.13212,
@@ -25732,6 +25156,12 @@
         "address": "4722 Castlebar St NW Canton OH",
         "longitude": -81.43293,
         "latitude": 40.82265
+    },
+    {
+        "id": 5967,
+        "address": "535 W Castle Pines Pkwy, Castle Pines, Co 80108 Castle Pines CO",
+        "longitude": -104.79486,
+        "latitude": 39.42338
     },
     {
         "id": 5977,
@@ -25890,12 +25320,6 @@
         "latitude": 47.492302
     },
     {
-        "id": 6007,
-        "address": "15510 AMBAUM BLVD  BURIEN WA",
-        "longitude": -122.337606,
-        "latitude": 47.463095
-    },
-    {
         "id": 6008,
         "address": "892 TIFFT ST  BUFFALO NY",
         "longitude": -78.82528,
@@ -25966,6 +25390,18 @@
         "address": "423 Elizabeth Ln Brownsburg IN",
         "longitude": -86.40775,
         "latitude": 39.844869
+    },
+    {
+        "id": 5982,
+        "address": "1319 Walnut Ave Canton OH",
+        "longitude": -81.369807,
+        "latitude": 40.810665
+    },
+    {
+        "id": 6007,
+        "address": "15510 AMBAUM BLVD  BURIEN WA",
+        "longitude": -122.331661,
+        "latitude": 47.45185
     },
     {
         "id": 6022,
@@ -26988,12 +26424,6 @@
         "latitude": 40.663
     },
     {
-        "id": 6225,
-        "address": "2394-2408 E Main St Bexley OH",
-        "longitude": -82.89754,
-        "latitude": 39.95209
-    },
-    {
         "id": 6224,
         "address": "405 E Cottage Grove Ave Bloomington IN",
         "longitude": -86.529362,
@@ -27100,6 +26530,12 @@
         "address": "208 Brighton Rd Bellevue PA",
         "longitude": -80.04681,
         "latitude": 40.49325
+    },
+    {
+        "id": 6225,
+        "address": "2394-2408 E Main St Bexley OH",
+        "longitude": -82.93472,
+        "latitude": 39.95719
     },
     {
         "id": 6246,
@@ -27330,12 +26766,6 @@
         "latitude": 41.00846
     },
     {
-        "id": 6285,
-        "address": "740-742 Beech Mountain Pky Banner Elk NC",
-        "longitude": -81.87225,
-        "latitude": 36.17752
-    },
-    {
         "id": 6290,
         "address": "905 QUAIL TERRACE CT BALLWIN MO",
         "longitude": -90.564977,
@@ -27346,6 +26776,12 @@
         "address": "1201 HARWOOD AVE  BALTIMORE MD",
         "longitude": -76.59439,
         "latitude": 39.35521
+    },
+    {
+        "id": 6285,
+        "address": "740-742 Beech Mountain Pky Banner Elk NC",
+        "longitude": -81.87284,
+        "latitude": 36.1899
     },
     {
         "id": 6289,
@@ -27408,28 +26844,10 @@
         "latitude": 41.07962
     },
     {
-        "id": 6340,
-        "address": "1208 Dallas St, Aurora, Co 80010 Aurora CO",
-        "longitude": -104.820498,
-        "latitude": 39.719739
-    },
-    {
         "id": 6339,
         "address": "2200 Chambers Rd, Aurora, Co 80011 Aurora CO",
         "longitude": -104.809152,
         "latitude": 39.749365
-    },
-    {
-        "id": 6338,
-        "address": "1925 S Vaughn Way, Aurora, Co 80014 Aurora CO",
-        "longitude": -104.82768,
-        "latitude": 39.670381
-    },
-    {
-        "id": 6337,
-        "address": "1470 S Havana St, Aurora, Co 80012 Aurora CO",
-        "longitude": -104.842232,
-        "latitude": 39.710684
     },
     {
         "id": 6336,
@@ -27444,22 +26862,10 @@
         "latitude": 39.741527
     },
     {
-        "id": 6331,
-        "address": "1005 S Jamaica St, Aurora, Co 80012 Aurora CO",
-        "longitude": -104.820498,
-        "latitude": 39.719739
-    },
-    {
         "id": 6330,
         "address": "1768 Billings St, Aurora, Co 80011 Aurora CO",
         "longitude": -104.82431,
         "latitude": 39.74444
-    },
-    {
-        "id": 6329,
-        "address": "1342 Macon St, Aurora, Co 80010 Aurora CO",
-        "longitude": -104.820498,
-        "latitude": 39.719739
     },
     {
         "id": 6328,
@@ -27474,46 +26880,10 @@
         "latitude": 39.738005
     },
     {
-        "id": 6326,
-        "address": "15300 E Arizona Ave, Aurora, Co 80017 Aurora CO",
-        "longitude": -104.791888,
-        "latitude": 39.705705
-    },
-    {
-        "id": 6325,
-        "address": "1752 Chester St, Aurora, Co 80010 Aurora CO",
-        "longitude": -104.820498,
-        "latitude": 39.719739
-    },
-    {
         "id": 6324,
         "address": "15870 E 13Th Pl, Aurora, Co 80011 Aurora CO",
         "longitude": -104.796632487179,
         "latitude": 39.73672
-    },
-    {
-        "id": 6322,
-        "address": "7660 S Winnipeg St, Aurora, Co 80016 Aurora CO",
-        "longitude": -104.767895,
-        "latitude": 39.594447
-    },
-    {
-        "id": 6321,
-        "address": "15504 E Arizona Ave, Aurora, Co 80017 Aurora CO",
-        "longitude": -104.791888,
-        "latitude": 39.705705
-    },
-    {
-        "id": 6320,
-        "address": "4260 S Cimarron Way, Aurora, Co 80014 Aurora CO",
-        "longitude": -104.82768,
-        "latitude": 39.670381
-    },
-    {
-        "id": 6319,
-        "address": "14594 E Mississippi Ave, Aurora, Co 80012 Aurora CO",
-        "longitude": -104.839897,
-        "latitude": 39.742438
     },
     {
         "id": 6318,
@@ -27532,6 +26902,72 @@
         "address": "12001 E 33Rd Ave Aurora Co",
         "longitude": -104.84821,
         "latitude": 39.765005
+    },
+    {
+        "id": 6329,
+        "address": "1342 Macon St, Aurora, Co 80010 Aurora CO",
+        "longitude": -104.854961,
+        "latitude": 39.737415
+    },
+    {
+        "id": 6337,
+        "address": "1470 S Havana St, Aurora, Co 80012 Aurora CO",
+        "longitude": -104.863017,
+        "latitude": 39.689368
+    },
+    {
+        "id": 6325,
+        "address": "1752 Chester St, Aurora, Co 80010 Aurora CO",
+        "longitude": -104.878401,
+        "latitude": 39.744735
+    },
+    {
+        "id": 6340,
+        "address": "1208 Dallas St, Aurora, Co 80010 Aurora CO",
+        "longitude": -104.876145,
+        "latitude": 39.73482
+    },
+    {
+        "id": 6338,
+        "address": "1925 S Vaughn Way, Aurora, Co 80014 Aurora CO",
+        "longitude": -104.836795,
+        "latitude": 39.68135
+    },
+    {
+        "id": 6321,
+        "address": "15504 E Arizona Ave, Aurora, Co 80017 Aurora CO",
+        "longitude": -104.80732,
+        "latitude": 39.69413
+    },
+    {
+        "id": 6335,
+        "address": "2617 W Evans Ave, Denver, Co 80219 Aurora CO",
+        "longitude": -105.018547,
+        "latitude": 39.679111
+    },
+    {
+        "id": 6331,
+        "address": "1005 S Jamaica St, Aurora, Co 80012 Aurora CO",
+        "longitude": -104.862969,
+        "latitude": 39.698195
+    },
+    {
+        "id": 6322,
+        "address": "7660 S Winnipeg St, Aurora, Co 80016 Aurora CO",
+        "longitude": -104.71931,
+        "latitude": 39.57719
+    },
+    {
+        "id": 6320,
+        "address": "4260 S Cimarron Way, Aurora, Co 80014 Aurora CO",
+        "longitude": -104.82192,
+        "latitude": 39.63915
+    },
+    {
+        "id": 6326,
+        "address": "15300 E Arizona Ave, Aurora, Co 80017 Aurora CO",
+        "longitude": -104.8093,
+        "latitude": 39.69434
     },
     {
         "id": 6306,
@@ -27570,12 +27006,6 @@
         "latitude": 39.738635
     },
     {
-        "id": 6314,
-        "address": "10756 E Virginia Ave, Aurora, Co 80012 Aurora CO",
-        "longitude": -104.820498,
-        "latitude": 39.719739
-    },
-    {
         "id": 6332,
         "address": "2955 Vallejo St, Denver, Co 80211 Aurora CO",
         "longitude": -105.013532,
@@ -27592,12 +27022,6 @@
         "address": "700 M St NE Auburn WA",
         "longitude": -122.213151,
         "latitude": 47.314623
-    },
-    {
-        "id": 6369,
-        "address": "504 Ft Macon Rd W Atlantic Beach NC",
-        "longitude": -76.740211,
-        "latitude": 34.699051
     },
     {
         "id": 6359,
@@ -27660,12 +27084,6 @@
         "latitude": 39.736825
     },
     {
-        "id": 6354,
-        "address": "1995 DEL MAR PKWY AURORA CO",
-        "longitude": -104.878817,
-        "latitude": 39.732889
-    },
-    {
         "id": 6353,
         "address": "14319 MONTVIEW BLVD AURORA CO",
         "longitude": -104.822125,
@@ -27720,12 +27138,6 @@
         "latitude": 39.73785
     },
     {
-        "id": 6371,
-        "address": "4341 CASCADE RD  ATLANTA GA",
-        "longitude": -84.444196,
-        "latitude": 33.730304
-    },
-    {
         "id": 6348,
         "address": "1422 MACON ST AURORA CO",
         "longitude": -104.85495,
@@ -27760,6 +27172,30 @@
         "address": "780 DIXIE AVE NE ATLANTA GA",
         "longitude": -84.362233,
         "latitude": 33.757114
+    },
+    {
+        "id": 6371,
+        "address": "4341 CASCADE RD  ATLANTA GA",
+        "longitude": -84.530461,
+        "latitude": 33.734536
+    },
+    {
+        "id": 6314,
+        "address": "10756 E Virginia Ave, Aurora, Co 80012 Aurora CO",
+        "longitude": -104.86237,
+        "latitude": 39.70709
+    },
+    {
+        "id": 6369,
+        "address": "504 Ft Macon Rd W Atlantic Beach NC",
+        "longitude": -76.7294,
+        "latitude": 34.69945
+    },
+    {
+        "id": 6354,
+        "address": "1995 DEL MAR PKWY AURORA CO",
+        "longitude": -104.874405,
+        "latitude": 39.747065
     },
     {
         "id": 6374,
@@ -27888,12 +27324,6 @@
         "latitude": 39.81383
     },
     {
-        "id": 6400,
-        "address": "8525 W 53Rd Ave, Arvada, Co 80002 Arvada CO",
-        "longitude": -105.13712,
-        "latitude": 39.79299
-    },
-    {
         "id": 6387,
         "address": "64 Webb Cove Rd Asheville NC",
         "longitude": -82.51333,
@@ -27922,12 +27352,6 @@
         "address": "42 Furman Ave Asheville NC",
         "longitude": -82.54435,
         "latitude": 35.60081
-    },
-    {
-        "id": 6389,
-        "address": "132 Springside Rd Asheville NC",
-        "longitude": -82.639998,
-        "latitude": 35.639546
     },
     {
         "id": 6391,
@@ -28000,6 +27424,18 @@
         "address": "610 Upchurch St Apex NC",
         "longitude": -78.861365,
         "latitude": 35.72827
+    },
+    {
+        "id": 6400,
+        "address": "8525 W 53Rd Ave, Arvada, Co 80002 Arvada CO",
+        "longitude": -105.092855,
+        "latitude": 39.793275
+    },
+    {
+        "id": 6389,
+        "address": "132 Springside Rd Asheville NC",
+        "longitude": -82.535268,
+        "latitude": 35.488818
     },
     {
         "id": 6415,
@@ -28126,12 +27562,6 @@
         "address": "918 NE CRESTMOOR PL APT 208 ANKENY IA",
         "longitude": -93.59647,
         "latitude": 41.739545
-    },
-    {
-        "id": 6460,
-        "address": "100-118 Sebastian Dr Aliquippa PA",
-        "longitude": -80.3107,
-        "latitude": 40.64698
     },
     {
         "id": 6450,
@@ -28440,22 +27870,10 @@
         "latitude": 41.067893
     },
     {
-        "id": 6475,
-        "address": "788-798 N Main St Akron OH",
-        "longitude": -81.5161295,
-        "latitude": 41.086131
-    },
-    {
         "id": 6488,
         "address": "1920 N GARDEN CT #1965 AKRON OH",
         "longitude": -81.45902,
         "latitude": 41.05564
-    },
-    {
-        "id": 6483,
-        "address": "2360-2368 E Market St Akron OH",
-        "longitude": -81.570783,
-        "latitude": 41.110853
     },
     {
         "id": 6477,
@@ -28468,6 +27886,24 @@
         "address": "730 Lenore St, Nashville, Tn 37206  ",
         "longitude": -86.7544,
         "latitude": 36.16478
+    },
+    {
+        "id": 6475,
+        "address": "788-798 N Main St Akron OH",
+        "longitude": -81.510987,
+        "latitude": 41.106733
+    },
+    {
+        "id": 6487,
+        "address": "610 S Peachtree St Ahoskie NC",
+        "longitude": -76.983893,
+        "latitude": 36.276464
+    },
+    {
+        "id": 6483,
+        "address": "2360-2368 E Market St Akron OH",
+        "longitude": -81.444606,
+        "latitude": 41.056258
     },
     {
         "id": 6486,
@@ -28632,12 +28068,6 @@
         "latitude": 36.186915
     },
     {
-        "id": 3082,
-        "address": "4900 SW 46TH CT APT 209 OCALA FL",
-        "longitude": -82.11295,
-        "latitude": 29.16171
-    },
-    {
         "id": 6509,
         "address": "600 Nissan Dr, Smyrna, Tn 37167  ",
         "longitude": -86.494346,
@@ -28752,6 +28182,24 @@
         "latitude": 47.84888
     },
     {
+        "id": 6553,
+        "address": "LOCUST GROVE RD   PA",
+        "longitude": -75.335446,
+        "latitude": 40.023426
+    },
+    {
+        "id": 6552,
+        "address": "277 BROADWAY ST   CO",
+        "longitude": -103.20285,
+        "latitude": 40.633072
+    },
+    {
+        "id": 3082,
+        "address": "4900 SW 46TH CT APT 209 OCALA FL",
+        "longitude": -82.191615,
+        "latitude": 29.136874
+    },
+    {
         "id": 3299,
         "address": "2060 COOPER ST  MISSOULA MT",
         "longitude": -114.021222,
@@ -28774,18 +28222,6 @@
         "address": "355 Washington Ave Miami Beach FL",
         "longitude": -80.134069,
         "latitude": 25.77331
-    },
-    {
-        "id": 3423,
-        "address": "545 Michigan Ave Miami Beach FL",
-        "longitude": -80.139808,
-        "latitude": 25.796315
-    },
-    {
-        "id": 3465,
-        "address": "6055-6061 Indian Creek Dr Miami Beach FL",
-        "longitude": -80.1245775,
-        "latitude": 25.80882
     },
     {
         "id": 3506,
@@ -28914,18 +28350,6 @@
         "latitude": 40.603334
     },
     {
-        "id": 1665,
-        "address": "6740-6744 Carolina Beach Rd Wilmington NC",
-        "longitude": -77.88753,
-        "latitude": 34.07075
-    },
-    {
-        "id": 1683,
-        "address": "1175 Albion St, Denver, Co 80220 Westminster CO",
-        "longitude": -104.892675,
-        "latitude": 39.733619
-    },
-    {
         "id": 1725,
         "address": "8331 S Valley Hwy, Englewood, Co 80112 Westminster CO",
         "longitude": -104.86855,
@@ -28986,6 +28410,18 @@
         "latitude": 47.678324
     },
     {
+        "id": 1683,
+        "address": "1175 Albion St, Denver, Co 80220 Westminster CO",
+        "longitude": -104.939831,
+        "latitude": 39.73423
+    },
+    {
+        "id": 3423,
+        "address": "545 Michigan Ave Miami Beach FL",
+        "longitude": -80.13802,
+        "latitude": 25.77535
+    },
+    {
         "id": 1956,
         "address": "535 NISSAN DR  SMYRNA TN",
         "longitude": -86.492447,
@@ -29028,18 +28464,6 @@
         "latitude": 42.765747
     },
     {
-        "id": 6347,
-        "address": "1600 Clinton St, Aurora, Co 80010 Aurora CO",
-        "longitude": -104.820498,
-        "latitude": 39.719739
-    },
-    {
-        "id": 1698,
-        "address": "3860 Tennyson St, Denver, Co 80212 Tucson CO",
-        "longitude": -105.055598,
-        "latitude": 39.763901
-    },
-    {
         "id": 1743,
         "address": "8863 Colorado Blvd, Thornton, Co 80229 Thornton CO",
         "longitude": -104.94229,
@@ -29050,12 +28474,6 @@
         "address": "7044 EASTERN AVE  WASHINGTON DC",
         "longitude": -77.017556,
         "latitude": 38.97716
-    },
-    {
-        "id": 6341,
-        "address": "10603 E Jewell Ave, Aurora, Co 80012 Aurora CO",
-        "longitude": -104.863153,
-        "latitude": 39.697086
     },
     {
         "id": 2093,
@@ -29094,12 +28512,6 @@
         "latitude": 47.639347
     },
     {
-        "id": 2325,
-        "address": "1826 14TH AVE  SEATTLE WA",
-        "longitude": -122.375011,
-        "latitude": 47.63634
-    },
-    {
         "id": 2747,
         "address": "4210 SW VIEW POINT TER #4230 PORTLAND OR",
         "longitude": -122.677435,
@@ -29128,12 +28540,6 @@
         "address": "10300 DES MOINES MEMORIAL DR  SEATTLE WA",
         "longitude": -122.306465,
         "latitude": 47.511265
-    },
-    {
-        "id": 2289,
-        "address": "403 SUMMIT AVE  SEATTLE WA",
-        "longitude": -122.32261,
-        "latitude": 47.610056
     },
     {
         "id": 775,
@@ -29190,12 +28596,6 @@
         "latitude": 40.412428
     },
     {
-        "id": 794,
-        "address": "2485-2495 E Pikes Peak Ave Colorado Springs CO",
-        "longitude": -104.725877096774,
-        "latitude": 38.830385
-    },
-    {
         "id": 919,
         "address": "9304 N 43rd Ave Glendale AZ",
         "longitude": -112.153228,
@@ -29212,6 +28612,24 @@
         "address": "4352 Trail Boss Dr Castle Rock CO",
         "longitude": -104.858842,
         "latitude": 39.405643
+    },
+    {
+        "id": 794,
+        "address": "2485-2495 E Pikes Peak Ave Colorado Springs CO",
+        "longitude": -104.783741,
+        "latitude": 38.832302
+    },
+    {
+        "id": 2289,
+        "address": "403 SUMMIT AVE  SEATTLE WA",
+        "longitude": -122.325505,
+        "latitude": 47.62217
+    },
+    {
+        "id": 6341,
+        "address": "10603 E Jewell Ave, Aurora, Co 80012 Aurora CO",
+        "longitude": -104.864236,
+        "latitude": 39.682937
     },
     {
         "id": 877,
@@ -29340,12 +28758,6 @@
         "latitude": 45.544527
     },
     {
-        "id": 2917,
-        "address": "333 SE 11TH AVE POMPANO BEACH FL",
-        "longitude": -80.1087146666667,
-        "latitude": 26.273593
-    },
-    {
         "id": 2921,
         "address": "1711 S CYPRESS RD POMPANO BEACH FL",
         "longitude": -80.12336,
@@ -29356,12 +28768,6 @@
         "address": "5059 S CATHERINE ST PLATTSBURGH NY",
         "longitude": -73.457936,
         "latitude": 44.69249
-    },
-    {
-        "id": 2963,
-        "address": "1 Pennridge Ct Pittsburgh PA",
-        "longitude": -79.863104,
-        "latitude": 40.4427865
     },
     {
         "id": 2966,
@@ -29430,12 +28836,6 @@
         "latitude": 25.791953
     },
     {
-        "id": 3481,
-        "address": "1011 Euclid Ave Miami Beach FL",
-        "longitude": -80.14289,
-        "latitude": 25.79376
-    },
-    {
         "id": 3106,
         "address": "2340 W 76Th Ave, Denver, Co 80221 Northglenn CO",
         "longitude": -105.014627,
@@ -29448,6 +28848,12 @@
         "latitude": 40.863406
     },
     {
+        "id": 2963,
+        "address": "1 Pennridge Ct Pittsburgh PA",
+        "longitude": -79.810482,
+        "latitude": 40.460045
+    },
+    {
         "id": 3170,
         "address": "465 W 49TH ST  NEW YORK NY",
         "longitude": -73.991765,
@@ -29458,12 +28864,6 @@
         "address": "152 ORCHARD ST  NEW YORK NY",
         "longitude": -73.98867,
         "latitude": 40.720735
-    },
-    {
-        "id": 3535,
-        "address": "440-470 15th St Miami Beach FL",
-        "longitude": -80.19809,
-        "latitude": 25.78945
     },
     {
         "id": 3705,
@@ -29502,12 +28902,6 @@
         "latitude": 25.76804
     },
     {
-        "id": 3727,
-        "address": "1312 NW 31ST AVE  MIAMI FL",
-        "longitude": -80.244783,
-        "latitude": 25.759439
-    },
-    {
         "id": 3768,
         "address": "230 SE EVANS ST #A6 MCMINNVILLE OR",
         "longitude": -123.193859,
@@ -29536,12 +28930,6 @@
         "address": "16225 112TH RD  JAMAICA NY",
         "longitude": -73.786784,
         "latitude": 40.68994
-    },
-    {
-        "id": 4409,
-        "address": "1000 Timbers Dr Hillsborough NC",
-        "longitude": -79.121581,
-        "latitude": 36.054977
     },
     {
         "id": 3936,
@@ -29598,12 +28986,6 @@
         "latitude": 47.66559
     },
     {
-        "id": 4139,
-        "address": "321 5TH AVE KIRKLAND WA",
-        "longitude": -122.213964,
-        "latitude": 47.681993
-    },
-    {
         "id": 4277,
         "address": "2601 UNIVERSITY BLVD W JACKSONVILLE FL",
         "longitude": -81.631538,
@@ -29650,6 +29032,30 @@
         "address": "109-111 Belltown Rd Havelock NC",
         "longitude": -76.910727,
         "latitude": 34.877356
+    },
+    {
+        "id": 4409,
+        "address": "1000 Timbers Dr Hillsborough NC",
+        "longitude": -79.11035,
+        "latitude": 36.06411
+    },
+    {
+        "id": 3727,
+        "address": "1312 NW 31ST AVE  MIAMI FL",
+        "longitude": -80.246763,
+        "latitude": 25.786185
+    },
+    {
+        "id": 4139,
+        "address": "321 5TH AVE KIRKLAND WA",
+        "longitude": -122.202805,
+        "latitude": 47.678671
+    },
+    {
+        "id": 3535,
+        "address": "440-470 15th St Miami Beach FL",
+        "longitude": -80.13255,
+        "latitude": 25.78742
     },
     {
         "id": 4347,
@@ -29778,12 +29184,6 @@
         "latitude": 35.1005075
     },
     {
-        "id": 5273,
-        "address": "1945 S Depew St, Denver, Co 80227 Denver CO",
-        "longitude": -105.07969,
-        "latitude": 39.66576
-    },
-    {
         "id": 4847,
         "address": "801-915 Applewood Ln Fayetteville NC",
         "longitude": -79.009481,
@@ -29832,12 +29232,6 @@
         "latitude": 42.10965
     },
     {
-        "id": 2190,
-        "address": "6010 14TH AVE NW SEATTLE WA",
-        "longitude": -122.352587,
-        "latitude": 47.542804
-    },
-    {
         "id": 4991,
         "address": "18614 76TH AVE  EDMONDS WA",
         "longitude": -122.338055,
@@ -29862,12 +29256,6 @@
         "latitude": 28.049239
     },
     {
-        "id": 5059,
-        "address": "511 29TH ST DES MOINES IA",
-        "longitude": -93.560815,
-        "latitude": 41.584825
-    },
-    {
         "id": 5068,
         "address": "811 S 227TH PL DES MOINES WA",
         "longitude": -122.32331,
@@ -29878,6 +29266,18 @@
         "address": "1360 Allison St, Lakewood, Co 80214 Denver CO",
         "longitude": -105.0858,
         "latitude": 39.73786
+    },
+    {
+        "id": 5059,
+        "address": "511 29TH ST DES MOINES IA",
+        "longitude": -93.656232,
+        "latitude": 41.585181
+    },
+    {
+        "id": 5273,
+        "address": "1945 S Depew St, Denver, Co 80227 Denver CO",
+        "longitude": -105.057569,
+        "latitude": 39.681147
     },
     {
         "id": 5157,
@@ -29940,12 +29340,6 @@
         "latitude": 29.02555
     },
     {
-        "id": 5359,
-        "address": "3290-3300 Wilmington Pike Dayton OH",
-        "longitude": -84.1525816388889,
-        "latitude": 39.724965
-    },
-    {
         "id": 5383,
         "address": "100 SAIL BOAT RUN DAYTON OH",
         "longitude": -84.16038,
@@ -29986,12 +29380,6 @@
         "address": "6153 S KENWOOD AVE 59 CHICAGO IL",
         "longitude": -87.59277,
         "latitude": 41.782665
-    },
-    {
-        "id": 5507,
-        "address": "2021-2025 W Broad St Columbus OH",
-        "longitude": -83.1269844521739,
-        "latitude": 39.951791
     },
     {
         "id": 5756,
@@ -30078,12 +29466,6 @@
         "latitude": 41.932756
     },
     {
-        "id": 5905,
-        "address": "3830-3838 Tuckaseegee Rd Charlotte NC",
-        "longitude": -80.917373,
-        "latitude": 35.2449485
-    },
-    {
         "id": 5864,
         "address": "5450 W HIGGINS AVE  CHICAGO IL",
         "longitude": -87.76325,
@@ -30094,6 +29476,18 @@
         "address": "1684 Bishop Rd Chehalis WA",
         "longitude": -122.927838,
         "latitude": 46.623611
+    },
+    {
+        "id": 5359,
+        "address": "3290-3300 Wilmington Pike Dayton OH",
+        "longitude": -84.140078,
+        "latitude": 39.69821
+    },
+    {
+        "id": 5905,
+        "address": "3830-3838 Tuckaseegee Rd Charlotte NC",
+        "longitude": -80.889608,
+        "latitude": 35.246594
     },
     {
         "id": 5924,
@@ -30172,5 +29566,1013 @@
         "address": "69 BAY 29TH ST  BROOKLYN NY",
         "longitude": -73.995975,
         "latitude": 40.600825
+    },
+    {
+        "id": 6153,
+        "address": "180 S 20Th Ave, Brighton, Co 80601 Brighton CO",
+        "longitude": -104.797449,
+        "latitude": 39.98482
+    },
+    {
+        "id": 6218,
+        "address": "250 Avena Rd Black Mountain NC",
+        "longitude": -82.313523,
+        "latitude": 35.625065
+    },
+    {
+        "id": 6230,
+        "address": "101 NORTHGATE LN BESSEMER CITY NC",
+        "longitude": -81.281002,
+        "latitude": 35.29955
+    },
+    {
+        "id": 6261,
+        "address": "5700 PERKINS RD BEDFORD HEIGHTS OH",
+        "longitude": -81.501106,
+        "latitude": 41.40371
+    },
+    {
+        "id": 6278,
+        "address": "220 Goodale Ave E Battle Creek MI",
+        "longitude": -85.181727,
+        "latitude": 42.340617
+    },
+    {
+        "id": 6416,
+        "address": "1813 SE DESOTO LNDG ARCADIA FL",
+        "longitude": -81.84594,
+        "latitude": 27.20733
+    },
+    {
+        "id": 6470,
+        "address": "1175 Southcrest Dr Akron OH",
+        "longitude": -81.564737,
+        "latitude": 40.9668
+    },
+    {
+        "id": 2489,
+        "address": "589 CLEVELAND AVE  SAINT PAUL MN",
+        "longitude": -93.187668,
+        "latitude": 44.92373
+    },
+    {
+        "id": 1565,
+        "address": "3741-3745 E Market St Warren OH",
+        "longitude": -80.770391,
+        "latitude": 41.23785
+    },
+    {
+        "id": 2583,
+        "address": "1836 Eaglecrest Cir Rocky Mount NC",
+        "longitude": -77.79107,
+        "latitude": 35.91956
+    },
+    {
+        "id": 2257,
+        "address": "612 1ST AVE  SEATTLE WA",
+        "longitude": -122.3337,
+        "latitude": 47.602331
+    },
+    {
+        "id": 935,
+        "address": "14153-14205 E Davies Ave Englewood CO",
+        "longitude": -104.890335,
+        "latitude": 39.588548
+    },
+    {
+        "id": 2542,
+        "address": "6652 WASHINGTON AVE SAINT LOUIS MO",
+        "longitude": -90.307957,
+        "latitude": 38.65463
+    },
+    {
+        "id": 3698,
+        "address": "1014 NE 84TH ST  MIAMI FL",
+        "longitude": -80.17628,
+        "latitude": 25.85287
+    },
+    {
+        "id": 4461,
+        "address": "2158-2204 Howard Gap Rd Hendersonville NC",
+        "longitude": -82.465462,
+        "latitude": 35.371402
+    },
+    {
+        "id": 2134,
+        "address": "11233 DES MOINES MEMORIAL DR S SEATTLE WA",
+        "longitude": -122.305664,
+        "latitude": 47.502014
+    },
+    {
+        "id": 3113,
+        "address": "447 NE 125TH ST NORTH MIAMI FL",
+        "longitude": -80.189596,
+        "latitude": 25.890445
+    },
+    {
+        "id": 3194,
+        "address": "247-293 S Clayton Rd New Lebanon OH",
+        "longitude": -84.395879,
+        "latitude": 39.741605
+    },
+    {
+        "id": 1457,
+        "address": "205-211 Park Ave Youngstown OH",
+        "longitude": -80.646,
+        "latitude": 41.113115
+    },
+    {
+        "id": 2200,
+        "address": "2007 BOYLSTON AVE  SEATTLE WA",
+        "longitude": -122.323813,
+        "latitude": 47.637097
+    },
+    {
+        "id": 1534,
+        "address": "119-121 Chestnut St Wilmington NC",
+        "longitude": -77.948159,
+        "latitude": 34.237772
+    },
+    {
+        "id": 5158,
+        "address": "4675 S Monaco St, Denver, Co 80237 Denver CO",
+        "longitude": -104.91295,
+        "latitude": 39.62927
+    },
+    {
+        "id": 5191,
+        "address": "4900 Trenton St, Denver, Co 80238 Denver CO",
+        "longitude": -104.895115,
+        "latitude": 39.786125
+    },
+    {
+        "id": 2063,
+        "address": "2602 4TH AVE SEATTLE WA",
+        "longitude": -122.346969,
+        "latitude": 47.61764
+    },
+    {
+        "id": 3417,
+        "address": "835 MICHIGAN Ave Miami Beach FL",
+        "longitude": -80.138139,
+        "latitude": 25.77893
+    },
+    {
+        "id": 2765,
+        "address": "2001 NE 21ST AVE #2015 PORTLAND OR",
+        "longitude": -122.645215,
+        "latitude": 45.53704
+    },
+    {
+        "id": 2438,
+        "address": "647 S 1200  SALT LAKE CITY UT",
+        "longitude": -111.855938,
+        "latitude": 40.754905
+    },
+    {
+        "id": 2265,
+        "address": "1210 9TH AVE  SEATTLE WA",
+        "longitude": -122.328739,
+        "latitude": 47.610249
+    },
+    {
+        "id": 2350,
+        "address": "5818 15TH AVE  SEATTLE WA",
+        "longitude": -122.31316,
+        "latitude": 47.55061
+    },
+    {
+        "id": 832,
+        "address": "1946 Humboldt Ct Colorado Springs CO",
+        "longitude": -104.75596,
+        "latitude": 38.804211
+    },
+    {
+        "id": 1085,
+        "address": "8923-8925 Preston Hwy Louisville KY",
+        "longitude": -85.678062,
+        "latitude": 38.122774
+    },
+    {
+        "id": 3325,
+        "address": "1325 JERSEY AVE  MINNEAPOLIS MN",
+        "longitude": -93.367902,
+        "latitude": 44.970333
+    },
+    {
+        "id": 4782,
+        "address": "5914 175TH ST  FLUSHING NY",
+        "longitude": -73.795342,
+        "latitude": 40.7398
+    },
+    {
+        "id": 4495,
+        "address": "8300 E Prentice Ave, Greenwood Village, Co 80111 Greenwood Village CO",
+        "longitude": -104.89299,
+        "latitude": 39.62016
+    },
+    {
+        "id": 4858,
+        "address": "4230 47TH ST  FARGO ND",
+        "longitude": -96.8665,
+        "latitude": 46.81666
+    },
+    {
+        "id": 2197,
+        "address": "3238 15TH AVE  SEATTLE WA",
+        "longitude": -122.313102,
+        "latitude": 47.573929
+    },
+    {
+        "id": 1463,
+        "address": "21 LAWRENCE PL YONKERS NY",
+        "longitude": -73.850153,
+        "latitude": 40.930986
+    },
+    {
+        "id": 2242,
+        "address": "1304 6TH AVE  SEATTLE WA",
+        "longitude": -122.34464,
+        "latitude": 47.63082
+    },
+    {
+        "id": 2332,
+        "address": "6539 42ND AVE  SEATTLE WA",
+        "longitude": -122.386067,
+        "latitude": 47.543656
+    },
+    {
+        "id": 2940,
+        "address": "341 4th Ave Pittsburgh PA",
+        "longitude": -79.999802,
+        "latitude": 40.439048
+    },
+    {
+        "id": 2532,
+        "address": "1245 N NORTH AND SOUTH RD SAINT LOUIS MO",
+        "longitude": -90.337258,
+        "latitude": 38.67386
+    },
+    {
+        "id": 4357,
+        "address": "315 BUCHANAN ST #1-5 HOLLYWOOD FL",
+        "longitude": -80.115824,
+        "latitude": 26.0179
+    },
+    {
+        "id": 3461,
+        "address": "918-922 Jefferson Ave Miami Beach FL",
+        "longitude": -80.137678,
+        "latitude": 25.779774
+    },
+    {
+        "id": 2431,
+        "address": "25 S 1100 E SALT LAKE CITY UT",
+        "longitude": -111.859155,
+        "latitude": 40.768635
+    },
+    {
+        "id": 4720,
+        "address": "519 SW 27TH AVE FORT LAUDERDALE FL",
+        "longitude": -80.178272,
+        "latitude": 26.114975
+    },
+    {
+        "id": 3536,
+        "address": "1241 13th St Miami Beach FL",
+        "longitude": -80.14198,
+        "latitude": 25.784115
+    },
+    {
+        "id": 2981,
+        "address": "4725-4727 CHESTER AVE  PHILADELPHIA PA",
+        "longitude": -75.215363,
+        "latitude": 39.945369
+    },
+    {
+        "id": 3512,
+        "address": "6805-6807 Abbott Ave Miami Beach FL",
+        "longitude": -80.12199,
+        "latitude": 25.852486
+    },
+    {
+        "id": 3465,
+        "address": "6055-6061 Indian Creek Dr Miami Beach FL",
+        "longitude": -80.12125,
+        "latitude": 25.84374
+    },
+    {
+        "id": 3419,
+        "address": "650 Michigan Ave Miami Beach FL",
+        "longitude": -80.138698,
+        "latitude": 25.776711
+    },
+    {
+        "id": 2191,
+        "address": "110 NW 104TH ST  SEATTLE WA",
+        "longitude": -122.3358,
+        "latitude": 47.510544
+    },
+    {
+        "id": 2432,
+        "address": "2828 S 200  SALT LAKE CITY UT",
+        "longitude": -111.907478,
+        "latitude": 40.76458
+    },
+    {
+        "id": 1093,
+        "address": "7300-7310 Southside Dr Louisville KY",
+        "longitude": -85.772839,
+        "latitude": 38.148355
+    },
+    {
+        "id": 3601,
+        "address": "603 7th St Miami Beach FL",
+        "longitude": -80.134203,
+        "latitude": 25.77725
+    },
+    {
+        "id": 3755,
+        "address": "891 O’Hare Pky Medford OR",
+        "longitude": -122.877392,
+        "latitude": 42.36691
+    },
+    {
+        "id": 4240,
+        "address": "1212 E 1st St Jacksonville FL",
+        "longitude": -81.639047,
+        "latitude": 30.335975
+    },
+    {
+        "id": 3597,
+        "address": "6890-6896 Abbott Ave Miami Beach FL",
+        "longitude": -80.122535,
+        "latitude": 25.854045
+    },
+    {
+        "id": 3331,
+        "address": "4445 CHOWEN AVE  MINNEAPOLIS MN",
+        "longitude": -93.325084,
+        "latitude": 44.921705
+    },
+    {
+        "id": 5984,
+        "address": "2411 Diamond Rd Canton OH",
+        "longitude": -81.335384,
+        "latitude": 40.896611
+    },
+    {
+        "id": 2833,
+        "address": "1334 NW 25TH AVE  PORTLAND OR",
+        "longitude": -122.702444,
+        "latitude": 45.532424
+    },
+    {
+        "id": 2216,
+        "address": "3043 ALKI AVE  SEATTLE WA",
+        "longitude": -122.417489,
+        "latitude": 47.577474
+    },
+    {
+        "id": 2328,
+        "address": "12722 76TH AVE  SEATTLE WA",
+        "longitude": -122.237975,
+        "latitude": 47.488905
+    },
+    {
+        "id": 1020,
+        "address": "3412-3416 Breckenridge Ln Louisville KY",
+        "longitude": -85.624674,
+        "latitude": 38.19943
+    },
+    {
+        "id": 3266,
+        "address": "1014 Hunters Ter Mount Pleasant SC",
+        "longitude": -79.864998,
+        "latitude": 32.80797
+    },
+    {
+        "id": 3786,
+        "address": "1 Glenwood Dr Marvin NC",
+        "longitude": -80.780641,
+        "latitude": 34.970791
+    },
+    {
+        "id": 4420,
+        "address": "1411 Bergamot Loop High Point NC",
+        "longitude": -79.97693,
+        "latitude": 35.98391
+    },
+    {
+        "id": 4486,
+        "address": "1008 NE 10TH ST HALLANDALE BEACH FL",
+        "longitude": -80.1383,
+        "latitude": 25.9957
+    },
+    {
+        "id": 1550,
+        "address": "1101 Auburn Dr, Castle Rock, Co 80109 Castle Rock CO",
+        "longitude": -104.87628,
+        "latitude": 39.37917
+    },
+    {
+        "id": 2174,
+        "address": "4130 36TH AVE  SEATTLE WA",
+        "longitude": -122.377049,
+        "latitude": 47.5655
+    },
+    {
+        "id": 3233,
+        "address": "1624 16TH AVE S NASHVILLE TN",
+        "longitude": -86.80652,
+        "latitude": 36.17678
+    },
+    {
+        "id": 1025,
+        "address": "4006-4010 Poplar Level Rd Louisville KY",
+        "longitude": -85.710077,
+        "latitude": 38.20064
+    },
+    {
+        "id": 2931,
+        "address": "5660-5680 Forward Ave Pittsburgh PA",
+        "longitude": -79.9252,
+        "latitude": 40.42858
+    },
+    {
+        "id": 3642,
+        "address": "115-117 N Shore Dr Miami Beach FL",
+        "longitude": -80.12958,
+        "latitude": 25.85875
+    },
+    {
+        "id": 1570,
+        "address": "1317 K ST  WASHINGTON DC",
+        "longitude": -76.987466,
+        "latitude": 38.878205
+    },
+    {
+        "id": 5351,
+        "address": "3104-3200 W Riverview Ave Dayton OH",
+        "longitude": -84.23965,
+        "latitude": 39.76866
+    },
+    {
+        "id": 4856,
+        "address": "4310 47TH ST  FARGO ND",
+        "longitude": -96.86654,
+        "latitude": 46.81585
+    },
+    {
+        "id": 2039,
+        "address": "1918 8TH AVE SEATTLE WA",
+        "longitude": -122.335974,
+        "latitude": 47.615667
+    },
+    {
+        "id": 5517,
+        "address": "730-748 N Nelson Rd Columbus OH",
+        "longitude": -82.941397,
+        "latitude": 39.98361
+    },
+    {
+        "id": 5738,
+        "address": "3422 W FOSTER AVE #24 CHICAGO IL",
+        "longitude": -87.71456,
+        "latitude": 41.97595
+    },
+    {
+        "id": 2982,
+        "address": "312-314 S 24TH ST  PHILADELPHIA PA",
+        "longitude": -75.180371,
+        "latitude": 39.948457
+    },
+    {
+        "id": 1698,
+        "address": "3860 Tennyson St, Denver, Co 80212 Tucson CO",
+        "longitude": -105.043697,
+        "latitude": 39.7704
+    },
+    {
+        "id": 3205,
+        "address": "305 Old Cherry Point Rd New Bern NC",
+        "longitude": -77.03495,
+        "latitude": 35.09019
+    },
+    {
+        "id": 2303,
+        "address": "1510 14TH AVE  SEATTLE WA",
+        "longitude": -122.313972,
+        "latitude": 47.614535
+    },
+    {
+        "id": 2357,
+        "address": "1801 12TH AVE  SEATTLE WA",
+        "longitude": -122.31729,
+        "latitude": 47.617777
+    },
+    {
+        "id": 4249,
+        "address": "1263 22nd St Jacksonville FL",
+        "longitude": -81.67502,
+        "latitude": 30.35759
+    },
+    {
+        "id": 3329,
+        "address": "2707 HUMBOLDT AVE  MINNEAPOLIS MN",
+        "longitude": -93.298923,
+        "latitude": 44.953345
+    },
+    {
+        "id": 5947,
+        "address": "1020 Highland Ridge Way, Castle Rock, Co 80109 Castle Rock CO",
+        "longitude": -104.874517,
+        "latitude": 39.377004
+    },
+    {
+        "id": 5131,
+        "address": "3665 S Julian St, Denver, Co 80236 Denver CO",
+        "longitude": -105.03132,
+        "latitude": 39.64969
+    },
+    {
+        "id": 3414,
+        "address": "929 Michigan Ave Miami Beach FL",
+        "longitude": -80.138172,
+        "latitude": 25.779893
+    },
+    {
+        "id": 6347,
+        "address": "1600 Clinton St, Aurora, Co 80010 Aurora CO",
+        "longitude": -104.87731,
+        "latitude": 39.74219
+    },
+    {
+        "id": 5507,
+        "address": "2021-2025 W Broad St Columbus OH",
+        "longitude": -83.054194,
+        "latitude": 39.95561
+    },
+    {
+        "id": 3415,
+        "address": "845 Michigan Ave Miami Beach FL",
+        "longitude": -80.13814,
+        "latitude": 25.77908
+    },
+    {
+        "id": 2190,
+        "address": "6010 14TH AVE NW SEATTLE WA",
+        "longitude": -122.373165,
+        "latitude": 47.6728
+    },
+    {
+        "id": 2204,
+        "address": "107 1ST AVE  SEATTLE WA",
+        "longitude": -122.334458,
+        "latitude": 47.601518
+    },
+    {
+        "id": 2292,
+        "address": "1343 15TH AVE  SEATTLE WA",
+        "longitude": -122.314272,
+        "latitude": 47.590294
+    },
+    {
+        "id": 977,
+        "address": "10485 Dyer St El Paso TX",
+        "longitude": -106.397309,
+        "latitude": 31.917842
+    },
+    {
+        "id": 4052,
+        "address": "3408 TO 3412 S 90TH ST S LAKEWOOD WA",
+        "longitude": -122.481975,
+        "latitude": 47.175045
+    },
+    {
+        "id": 4266,
+        "address": "2930 STONEMONT ST 7-2 1-13 ST #7-2 JACKSONVILLE FL",
+        "longitude": -81.63683,
+        "latitude": 30.293665
+    },
+    {
+        "id": 4349,
+        "address": "151 SE 8TH ST HOMESTEAD FL",
+        "longitude": -80.47388,
+        "latitude": 25.46291
+    },
+    {
+        "id": 4521,
+        "address": "121 Wedgewood Dr Greenville NC",
+        "longitude": -77.36318,
+        "latitude": 35.5815
+    },
+    {
+        "id": 1523,
+        "address": "4550 Atrium Ct Wilmington NC",
+        "longitude": -77.85173,
+        "latitude": 34.26873
+    },
+    {
+        "id": 3553,
+        "address": "900-910 7th St Miami Beach FL",
+        "longitude": -80.137571,
+        "latitude": 25.776881
+    },
+    {
+        "id": 5192,
+        "address": "2635 Federal Blvd, Denver, Co 80211 Denver CO",
+        "longitude": -105.025402,
+        "latitude": 39.669875
+    },
+    {
+        "id": 5537,
+        "address": "320 S Grener Ave Columbus OH",
+        "longitude": -83.12379,
+        "latitude": 39.94578
+    },
+    {
+        "id": 2768,
+        "address": "1510 NE 45TH AVE PORTLAND OR",
+        "longitude": -122.61665,
+        "latitude": 45.53394
+    },
+    {
+        "id": 3195,
+        "address": "600 Weakley Ln, Smyrna, Tn 37167 NEW SMYRNA BEACH FL",
+        "longitude": -86.492588,
+        "latitude": 36.017995
+    },
+    {
+        "id": 2229,
+        "address": "1625 E MADISON ST  SEATTLE WA",
+        "longitude": -122.310385,
+        "latitude": 47.61531
+    },
+    {
+        "id": 2192,
+        "address": "1000 32ND AVE  SEATTLE WA",
+        "longitude": -122.290746,
+        "latitude": 47.627455
+    },
+    {
+        "id": 2371,
+        "address": "2735 CALIFORNIA AVE  SEATTLE WA",
+        "longitude": -122.386984,
+        "latitude": 47.578198
+    },
+    {
+        "id": 883,
+        "address": "614-618 N Main St Pueblo CO",
+        "longitude": -104.60836,
+        "latitude": 38.273062
+    },
+    {
+        "id": 2886,
+        "address": "8332 SW 21ST AVE PORTLAND OR",
+        "longitude": -122.698834,
+        "latitude": 45.464398
+    },
+    {
+        "id": 3571,
+        "address": "1025-1029 94th St Miami Beach FL",
+        "longitude": -80.129477,
+        "latitude": 25.884825
+    },
+    {
+        "id": 5357,
+        "address": "1584-1592 Woodman Dr Dayton OH",
+        "longitude": -84.12124,
+        "latitude": 39.73468
+    },
+    {
+        "id": 2325,
+        "address": "1826 14TH AVE  SEATTLE WA",
+        "longitude": -122.313882,
+        "latitude": 47.618425
+    },
+    {
+        "id": 3117,
+        "address": "690 NE 123RD ST NORTH MIAMI FL",
+        "longitude": -80.184758,
+        "latitude": 25.88826
+    },
+    {
+        "id": 2195,
+        "address": "3512 NE 94TH ST  SEATTLE WA",
+        "longitude": -122.289832,
+        "latitude": 47.696946
+    },
+    {
+        "id": 2263,
+        "address": "3428 25TH AVE  SEATTLE WA",
+        "longitude": -122.300254,
+        "latitude": 47.572187
+    },
+    {
+        "id": 2310,
+        "address": "604 11TH AVE  SEATTLE WA",
+        "longitude": -122.31746,
+        "latitude": 47.624428
+    },
+    {
+        "id": 2909,
+        "address": "410 SW 15TH ST POMPANO BEACH FL",
+        "longitude": -80.129157,
+        "latitude": 26.210667
+    },
+    {
+        "id": 1751,
+        "address": "12120 Colorado Blvd, Thornton, Co 80241 Thornton CO",
+        "longitude": -104.939897,
+        "latitude": 39.917301
+    },
+    {
+        "id": 3542,
+        "address": "541 13th St Miami Beach FL",
+        "longitude": -80.13378,
+        "latitude": 25.784358
+    },
+    {
+        "id": 3651,
+        "address": "7633-7635 Dickens Ave Miami Beach FL",
+        "longitude": -80.125308,
+        "latitude": 25.861789
+    },
+    {
+        "id": 3703,
+        "address": "1020 NW 45TH AVE  MIAMI FL",
+        "longitude": -80.270007,
+        "latitude": 25.782234
+    },
+    {
+        "id": 2032,
+        "address": "6736 24TH AVE NW SEATTLE WA",
+        "longitude": -122.387188,
+        "latitude": 47.678841
+    },
+    {
+        "id": 4715,
+        "address": "525 NW 2ND AVE FORT LAUDERDALE FL",
+        "longitude": -80.14593,
+        "latitude": 26.12842
+    },
+    {
+        "id": 5810,
+        "address": "5054 N WOLCOTT AVE  CHICAGO IL",
+        "longitude": -87.677,
+        "latitude": 41.97409
+    },
+    {
+        "id": 5251,
+        "address": "8805 E 12Th Ave, Denver, Co 80220 Denver CO",
+        "longitude": -104.885846,
+        "latitude": 39.735881
+    },
+    {
+        "id": 2631,
+        "address": "9016 WOODINVILLE-REDMOND RD REDMOND WA",
+        "longitude": -122.121895,
+        "latitude": 47.682695
+    },
+    {
+        "id": 1665,
+        "address": "6740-6744 Carolina Beach Rd Wilmington NC",
+        "longitude": -77.89915,
+        "latitude": 34.090735
+    },
+    {
+        "id": 3420,
+        "address": "636 Michigan Ave Miami Beach FL",
+        "longitude": -80.138685,
+        "latitude": 25.776432
+    },
+    {
+        "id": 3481,
+        "address": "1011 Euclid Ave Miami Beach FL",
+        "longitude": -80.134802,
+        "latitude": 25.780923
+    },
+    {
+        "id": 2217,
+        "address": "4701 15TH AVE  SEATTLE WA",
+        "longitude": -122.312314,
+        "latitude": 47.663297
+    },
+    {
+        "id": 2211,
+        "address": "3820 34TH AVE  SEATTLE WA",
+        "longitude": -122.374772,
+        "latitude": 47.569366
+    },
+    {
+        "id": 2347,
+        "address": "12542 35TH AVE  SEATTLE WA",
+        "longitude": -122.290391,
+        "latitude": 47.720557
+    },
+    {
+        "id": 3682,
+        "address": "848 JEFFERSON AVE  MIAMI BEACH FL",
+        "longitude": -80.137649,
+        "latitude": 25.779225
+    },
+    {
+        "id": 3689,
+        "address": "810 7th St Miami FL",
+        "longitude": -80.207834,
+        "latitude": 25.7668
+    },
+    {
+        "id": 4296,
+        "address": "632 Dr Martin Luther King Jr St Indianapolis IN",
+        "longitude": -86.16705,
+        "latitude": 39.77671
+    },
+    {
+        "id": 4860,
+        "address": "1401 27TH AVE S FARGO ND",
+        "longitude": -96.80032,
+        "latitude": 46.83921
+    },
+    {
+        "id": 5701,
+        "address": "300 Kate St, Madison, Tn 37115 CHICAGO IL",
+        "longitude": -86.705202,
+        "latitude": 36.264699
+    },
+    {
+        "id": 3514,
+        "address": "237 38th St Miami Beach FL",
+        "longitude": -80.124075,
+        "latitude": 25.81134
+    },
+    {
+        "id": 2917,
+        "address": "333 SE 11TH AVE POMPANO BEACH FL",
+        "longitude": -80.112722,
+        "latitude": 26.22799
+    },
+    {
+        "id": 2212,
+        "address": "4134 12TH AVE  SEATTLE WA",
+        "longitude": -122.31689,
+        "latitude": 47.566111
+    },
+    {
+        "id": 2434,
+        "address": "1594 E 3300 S SALT LAKE CITY UT",
+        "longitude": -111.84607,
+        "latitude": 40.699685
+    },
+    {
+        "id": 3636,
+        "address": "835 83rd St Miami Beach FL",
+        "longitude": -80.211504,
+        "latitude": 25.850878
+    },
+    {
+        "id": 1536,
+        "address": "33400 VINE ST WILLOWICK OH",
+        "longitude": -81.45079,
+        "latitude": 41.64125
+    },
+    {
+        "id": 3550,
+        "address": "1150-1160 8th St Miami Beach FL",
+        "longitude": -80.140369,
+        "latitude": 25.77806
+    },
+    {
+        "id": 3633,
+        "address": "300 17th St Miami Beach FL",
+        "longitude": -80.131076,
+        "latitude": 25.79215
+    },
+    {
+        "id": 3721,
+        "address": "1515 NW 18TH ST  MIAMI FL",
+        "longitude": -80.219407,
+        "latitude": 25.755855
+    },
+    {
+        "id": 6319,
+        "address": "14594 E Mississippi Ave, Aurora, Co 80012 Aurora CO",
+        "longitude": -104.81843,
+        "latitude": 39.69607
+    },
+    {
+        "id": 934,
+        "address": "5860 N Mesa Dr El Paso TX",
+        "longitude": -106.523841,
+        "latitude": 31.826417
+    },
+    {
+        "id": 3551,
+        "address": "935 8th St Miami Beach FL",
+        "longitude": -80.138099,
+        "latitude": 25.778507
+    },
+    {
+        "id": 940,
+        "address": "4355-4365 E Pikes Peak Ave Colorado Springs CO",
+        "longitude": -104.747395,
+        "latitude": 38.833894
+    },
+    {
+        "id": 2960,
+        "address": "20 Thomas St Pittsburgh PA",
+        "longitude": -80.068331,
+        "latitude": 40.438755
+    },
+    {
+        "id": 4179,
+        "address": "8700 HOLMES RD 101 KANSAS CITY MO",
+        "longitude": -94.582026,
+        "latitude": 38.969915
+    },
+    {
+        "id": 2850,
+        "address": "1500 NE 72ND AVE  PORTLAND OR",
+        "longitude": -122.589017,
+        "latitude": 45.533871
+    },
+    {
+        "id": 3546,
+        "address": "1005-1013 9th St Miami Beach FL",
+        "longitude": -80.138804,
+        "latitude": 25.779514
+    },
+    {
+        "id": 3552,
+        "address": "807-811 8th St Miami Beach FL",
+        "longitude": -80.136979,
+        "latitude": 25.778408
+    },
+    {
+        "id": 3711,
+        "address": "2751 NW 7TH AVE  MIAMI FL",
+        "longitude": -80.20675,
+        "latitude": 25.80225
+    },
+    {
+        "id": 4244,
+        "address": "1230 E 7th St Jacksonville FL",
+        "longitude": -81.638562,
+        "latitude": 30.34343
+    },
+    {
+        "id": 4658,
+        "address": "52-56 Main St Freeport PA",
+        "longitude": -79.690609,
+        "latitude": 40.678715
+    },
+    {
+        "id": 5952,
+        "address": "2264 Castlegate Dr N, Castle Rock, Co 80108 Castle Rock CO",
+        "longitude": -104.884567,
+        "latitude": 39.422565
+    },
+    {
+        "id": 3670,
+        "address": "715 Michigan Ave Miami Beach FL",
+        "longitude": -80.138085,
+        "latitude": 25.777279
+    },
+    {
+        "id": 3677,
+        "address": "715 EUCLID AVE MIAMI BEACH FL",
+        "longitude": -80.134708,
+        "latitude": 25.777399
+    },
+    {
+        "id": 3715,
+        "address": "1860 CORAL WAY MIAMI FL",
+        "longitude": -80.225316,
+        "latitude": 25.750482
+    },
+    {
+        "id": 2017,
+        "address": "9720 4th Ave. N.E. Seattle WA",
+        "longitude": -122.323738,
+        "latitude": 47.699977
+    },
+    {
+        "id": 2814,
+        "address": "3903 SE CESAR E CHAVEZ BLVD #3915 PORTLAND OR",
+        "longitude": -122.62294,
+        "latitude": 45.49462
+    },
+    {
+        "id": 2441,
+        "address": "4520 S 200  SALT LAKE CITY UT",
+        "longitude": -111.878925,
+        "latitude": 40.764727
+    },
+    {
+        "id": 2244,
+        "address": "1532 12TH AVE  SEATTLE WA",
+        "longitude": -122.316896,
+        "latitude": 47.589008
     }
 ]

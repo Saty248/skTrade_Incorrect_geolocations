@@ -20,6 +20,10 @@ npx ts-node script/01-getPropertyDetailsFromDb.ts
 npx ts-node script/index_worker.ts
 ```
 
+```javascript
+npx ts-node script/03-modifyGeLocation.ts
+```
+
 # conclusion
 
 after the script ran successfully.
@@ -27,3 +31,4 @@ in the results directory
 
 1. matchResult.json cantains list of the address with correct coOrdinates
 2. noMAtch.json contains list of addresses with incorrect CoOrdinates and their actual values
+   3.updated.json contains list of addresses which got updated

@@ -22,8 +22,8 @@ export default async function getLongitudeAndLatitude() {
             userData.Title
         },'1 USD',false,false,${geoLo[1]},${geoLo[0]},"US/Central",true);\n` */
         if (
-            parseInt(geoLo[0]) == parseInt(initialLongitude) &&
-            parseInt(geoLo[1]) == parseInt(initialLatitude)
+            Math.abs(geoLo[0] - initialLongitude) <= 0.01 &&
+            Math.abs(geoLo[1] - initialLatitude) <= 0.01
         ) {
             parentPort.postMessage({ status: 'match', message: userData })
         } else {

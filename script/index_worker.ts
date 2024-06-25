@@ -85,6 +85,9 @@ async function putToWork() {
     }
     logMatch.write(JSON.stringify(matchAns))
     logNoMatch.write(JSON.stringify(noMatchAns))
+    console.log(
+        `match = ${matchAns.length} noMAtch length = ${noMatchAns.length}`
+    )
 }
 
 putToWork()
